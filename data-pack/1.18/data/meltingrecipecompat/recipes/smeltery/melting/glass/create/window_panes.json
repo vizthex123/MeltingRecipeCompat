@@ -1,9 +1,12 @@
 {
 	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "create"
-		}
+	  {
+		"value": {
+			"type": "forge:tag_empty",
+			"tag": "meltingrecipecompat:window_panes"
+		},
+		"type": "forge:not"
+	  }
 	],
 	"type": "tconstruct:melting",
 	"ingredient": {

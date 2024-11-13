@@ -1,6 +1,6 @@
-This datapack adds mod support for melting recipes from [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct).
+This datapack adds mod compat melting recipes to [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct).
 
-Designed for my modpack, [The Essence of Everything: Quintessence](https://www.curseforge.com/minecraft/modpacks/teoe-2).
+Originally designed for my modpack, [The Essence of Everything: Quintessence](https://www.curseforge.com/minecraft/modpacks/teoe-2).
 
 Since the recipe syntax is the same for the 1.18 and 1.19 versions, any changes & additions will apply to both of them (provided the supported mods are available for that version).
 
@@ -22,15 +22,19 @@ Since the recipe syntax is the same for the 1.18 and 1.19 versions, any changes 
 
 |																																																   |  1.18.X   |  1.19.2  | Datapack Version   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------:|:-----------:|:--------------------------:|
+| [Advancement Frames](https://modrinth.com/mod/advancement-frames)																	|✔			 |				  |1.0.1						  |
 | [Create](https://modrinth.com/mod/create)																														|✔			 |				  |								  |
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) 																		|✔			 |				  |								  |
 | [Create Deco](https://modrinth.com/mod/create-deco)																									|✔			 |				  |								  |
 | [Create Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry)										|✔			 |				  |								  |
 | [Essentials](https://www.curseforge.com/minecraft/mc-mods/essentials)																		|✔			 |				  |								  |
+| [FuelCanister](https://modrinth.com/mod/fuel-canister)																									|✔			 |				  |1.0.1						  |
 | [Obscuria's Essentials (Legacy)](https://www.curseforge.com/minecraft/mc-mods/ob-core)										|✔			 |				  |								  |
 | [OpenBlocks Elevator](https://modrinth.com/mod/elevatormod)																					|✔			 |				  |								  |
 | [Lightman's Currency](https://modrinth.com/mod/lightmans-currency)																		|✔			 |				  |								  |
 | [Lightman's Currency Tech](https://modrinth.com/mod/lc-tech)																					|✔			 |				  |								  |
+| [Long Fall Boots](https://www.curseforge.com/minecraft/mc-mods/long-fall-boots)													|✔			 |				  |1.0.1						  |
+| [Measurements](https://modrinth.com/mod/measurements)																							|✔			 |				  |1.0.1						  |
 | [Quark](https://modrinth.com/mod/quark)																														|✔			 |				  |								  |
 | [Quark Oddities](https://modrinth.com/mod/quark-oddities)         																				|✔			 |				  |								  |
 | [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)										|✔			 |				  |								  |

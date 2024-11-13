@@ -1,9 +1,9 @@
 {
 	"conditions": [
-		{
-			"value": {
-			"tag": "meltingrecipecompat:decals",
-			"type": "forge:tag_empty"
+	  {
+		"value": {
+			"type": "forge:tag_empty",
+			"tag": "meltingrecipecompat:decals"
 		},
 		"type": "forge:not"
 	  }
