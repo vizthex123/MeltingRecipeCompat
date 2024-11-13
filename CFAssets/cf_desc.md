@@ -8,7 +8,7 @@ Since the recipe syntax is the same for the 1.18 and 1.19 versions, any changes 
 
 # Installation Instructions
 
-1) After downloading the datapack, get [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader). *If you want the trivia entries, download the latest version of the [resource pack](https://www.curseforge.com/minecraft/texture-packs/extra-data-models-trivia) as well*
+1) After downloading the datapack, get [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader).
 
 2) Place the datapack into `config/openloader/data`
 

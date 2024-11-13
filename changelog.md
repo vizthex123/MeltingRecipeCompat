@@ -9,6 +9,14 @@ I increment the version by X.1 whenever I add more mod support (so long as the a
 Lines appended with a version in brackets (e.g. [1.19] Text Here) denote changes that only apply to that version.
 --------------------------------------------------
 
+# 1.0.2
+
+Fixed the tag support recipe for Bricks not overriding the default one
+
+<br /> <br />
+
+--------------------------------------------------
+
 # 1.0.1
 
 Fixed Create's windows (and panes) loading in when they shouldn't.
@@ -19,6 +27,7 @@ Mod support added:
 - Fuel Canister
 - Long Fall Boots
 - Measurements
+
 
 <br /> <br />
 
