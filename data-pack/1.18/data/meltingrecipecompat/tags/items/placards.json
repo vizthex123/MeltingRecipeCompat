@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+	"create:placard",
+	"#createdeco:placards"
+  ]
+}

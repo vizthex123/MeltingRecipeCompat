@@ -1,0 +1,10 @@
+{
+	"pack" :{
+		"pack_format": 9,
+		"supported_formats": [
+			8,
+			9
+		],
+		"description": "Adds mod compat recipes to the Melter and Smeltery."
+	}
+}

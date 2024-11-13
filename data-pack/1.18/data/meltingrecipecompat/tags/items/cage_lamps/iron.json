@@ -1,0 +1,15 @@
+{
+  "conditions": [
+	{
+		"type": "forge:mod_loaded",
+		"modid": "createdeco"
+	}
+  ],
+  "replace": false,
+  "values": [
+	"createdeco:blue_iron_lamp",
+	"createdeco:green_iron_lamp",
+	"createdeco:red_iron_lamp",
+	"createdeco:yellow_iron_lamp"
+  ]
+}

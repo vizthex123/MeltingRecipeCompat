@@ -1,0 +1,52 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "lightmanscurrency"
+		}
+	],
+  "replace": false,
+  "values": [
+	"lightmanscurrency:auction_stand_acacia",
+	"lightmanscurrency:auction_stand_birch",
+	"lightmanscurrency:auction_stand_dark_oak",
+	"lightmanscurrency:auction_stand_jungle",
+	"lightmanscurrency:auction_stand_oak",
+	"lightmanscurrency:auction_stand_spruce",
+	"lightmanscurrency:auction_stand_crimson",
+	"lightmanscurrency:auction_stand_warped",
+	"lightmanscurrency:auction_stand_byg_aspen",
+	"lightmanscurrency:auction_stand_byg_baobab",
+	"lightmanscurrency:auction_stand_byg_blue_enchanted",
+	"lightmanscurrency:auction_stand_byg_green_enchanted",
+	"lightmanscurrency:auction_stand_byg_bulbis",
+	"lightmanscurrency:auction_stand_byg_cherry",
+	"lightmanscurrency:auction_stand_byg_cika",
+	"lightmanscurrency:auction_stand_byg_cypress",
+	"lightmanscurrency:auction_stand_byg_ebony",
+	"lightmanscurrency:auction_stand_byg_embur",
+	"lightmanscurrency:auction_stand_byg_ether",
+	"lightmanscurrency:auction_stand_byg_fir",
+	"lightmanscurrency:auction_stand_byg_fungal_imparius",
+	"lightmanscurrency:auction_stand_byg_holly",
+	"lightmanscurrency:auction_stand_byg_imbued_nightshade",
+	"lightmanscurrency:auction_stand_byg_imparius",
+	"lightmanscurrency:auction_stand_byg_jacaranda",
+	"lightmanscurrency:auction_stand_byg_lament",
+	"lightmanscurrency:auction_stand_byg_mahogany",
+	"lightmanscurrency:auction_stand_byg_mangrove",
+	"lightmanscurrency:auction_stand_byg_maple",
+	"lightmanscurrency:auction_stand_byg_nightshade",
+	"lightmanscurrency:auction_stand_byg_palm",
+	"lightmanscurrency:auction_stand_byg_palo_verde",
+	"lightmanscurrency:auction_stand_byg_pine",
+	"lightmanscurrency:auction_stand_byg_rainbow_eucalyptus",
+	"lightmanscurrency:auction_stand_byg_redwood",
+	"lightmanscurrency:auction_stand_byg_skyris",
+	"lightmanscurrency:auction_stand_byg_sythian",
+	"lightmanscurrency:auction_stand_byg_willow",
+	"lightmanscurrency:auction_stand_byg_witch_hazel",
+	"lightmanscurrency:auction_stand_byg_withering_oak",
+	"lightmanscurrency:auction_stand_byg_zelkova"
+  ]
+}
