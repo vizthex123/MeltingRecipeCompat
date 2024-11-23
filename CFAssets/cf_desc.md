@@ -23,10 +23,13 @@ Since the recipe syntax is the same for the 1.18 and 1.19 versions, any changes 
 |																																															    |	1.18.X	|	1.19.2	|	Datapack Version	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------:|:----------:|:--------------------------:|
 | [Advancement Frames](https://www.curseforge.com/minecraft/mc-mods/advancement-frames)								|✔			|				|1.0.1							|
+| [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)															|✔			|			    |2.0								|
+| [ChickenChunks](https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8)												|✔			|			    |2.0								|
 | [Create](https://www.curseforge.com/minecraft/mc-mods/create)																				|✔			|				|									|
 | [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition) 									|✔			|				|									|
 | [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco)											 					|✔			|				|									|
 | [Create Enchantment Industry](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry)	|✔			|				|									|
+| [EnderStorage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)													|✔			|			    |2.0								|
 | [Essentials](https://www.curseforge.com/minecraft/mc-mods/essentials)																	|✔			|				|									|
 | [FuelCanister](https://www.curseforge.com/minecraft/mc-mods/fuelcanister)																|✔			|				|1.0.1							|
 | [Obscuria's Essentials (Legacy)](https://www.curseforge.com/minecraft/mc-mods/ob-core)										|✔			|				|									|
@@ -37,4 +40,6 @@ Since the recipe syntax is the same for the 1.18 and 1.19 versions, any changes 
 | [Measurements](https://www.curseforge.com/minecraft/mc-mods/measurements)													|✔			|				|1.0.1							|
 | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)																					|✔			|				|									|
 | [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)         											|✔			|				|									|
+| [All RFTools Modules](https://www.curseforge.com/minecraft/mc-mods/rftools-base)												|✔			|			    |2.0								|
 | [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)         								|✔			|				|									|
+| [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)																						|✔			|			    |2.0								|

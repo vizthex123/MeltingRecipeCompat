@@ -9,6 +9,30 @@ I increment the version by X.1 whenever I add more mod support (so long as the a
 Lines appended with a version in brackets (e.g. [1.19] Text Here) denote changes that only apply to that version.
 --------------------------------------------------
 
+# 2.0
+
+Overhauled file structure so it's easier to add recipes
+- This doesn't affect users, but is still worth noting
+
+Added a recipe for Cast Iron Plates<br />
+Fixed several Iron recipes using Cast Iron items<br />
+Fixed the recipe for Cast Iron Nuggets not loading in<br />
+Added Molten Slime to several recipes that were missing it<br />
+Datapack now fixes the incorrect melting amount for Emeraldite Shards if BYG & Tinkers Integrations and Tweaks are loaded
+
+
+Added support for the following mods:
+- Blood Magic
+- ChickenChunks
+- EnderStorage
+- RFTools (all modules)
+- XNet
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 # 1.0.2
 
 Fixed the tag support recipe for Bricks not overriding the default one

@@ -1,0 +1,15 @@
+{
+  "conditions": [
+	{
+	  "type": "forge:mod_loaded",
+	  "modid": "xnet"
+	}
+  ],
+  "replace": false,
+  "values": [
+	"xnet:connector_blue",
+	"xnet:connector_green",
+	"xnet:connector_red",
+	"xnet:connector_yellow"
+  ]
+}

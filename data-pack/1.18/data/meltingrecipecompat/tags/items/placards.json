@@ -1,4 +1,10 @@
 {
+  "conditions": [
+	{
+	  "type": "forge:mod_loaded",
+	  "modid": "create"
+	}
+  ],
   "replace": false,
   "values": [
 	"create:placard",

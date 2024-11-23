@@ -1,10 +1,10 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "lightmanscurrency"
-		}
-	],
+  "conditions": [
+	{
+	  "type": "forge:mod_loaded",
+	  "modid": "lightmanscurrency"
+	}
+  ],
   "replace": false,
   "values": [
 	"lightmanscurrency:auction_stand_acacia",

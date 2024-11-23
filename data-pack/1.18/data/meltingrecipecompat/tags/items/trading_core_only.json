@@ -1,8 +1,8 @@
 {
   "conditions": [
 	{
-		"type": "forge:mod_loaded",
-		"modid": "lightmanscurrency"
+	  "type": "forge:mod_loaded",
+	  "modid": "lightmanscurrency"
 	}
   ],
   "replace": false,

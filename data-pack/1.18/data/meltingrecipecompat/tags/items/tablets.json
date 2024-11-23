@@ -1,0 +1,17 @@
+{
+  "conditions": [
+	{
+	  "type": "forge:mod_loaded",
+	  "modid": "rftoolsbase"
+	}
+  ],
+  "replace": false,
+  "values": [
+	"rftoolsbase:tablet",
+	"rftoolsbase:tablet_filled",
+	"rftoolscontrol:tablet_processor",
+	"rftoolsstorage:tablet_scanner",
+	"rftoolsutility:tablet_redstone",
+	"rftoolsutility:tablet_screen"
+  ]
+}

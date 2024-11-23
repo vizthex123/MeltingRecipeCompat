@@ -1,8 +1,8 @@
 {
   "conditions": [
 	{
-		"type": "forge:mod_loaded",
-		"modid": "quark"
+	  "type": "forge:mod_loaded",
+	  "modid": "quark"
 	}
   ],
   "replace": false,
