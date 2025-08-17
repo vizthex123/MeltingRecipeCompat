@@ -1,0 +1,37 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "byg"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "byg:pendorite_pickaxe"
+		},
+		{
+			"item": "byg:pendorite_axe"
+		}
+	],
+	"result": {
+		"fluid": "tcintegrations:pendorite_alloy",
+		"amount": 90
+	},
+	"byproducts": [
+		{
+		  "fluid": "tconstruct:molten_netherite",
+		  "amount": 90
+		},
+		{
+		  "fluid": "tconstruct:molten_diamond",
+		  "amount": 300
+		}
+	],
+	"temperature": 1250,
+	"time": 80
+}

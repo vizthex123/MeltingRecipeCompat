@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "easypaxel"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "easypaxel:iron_paxel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 630
+	},
+	"temperature": 800,
+	"time": 120
+}

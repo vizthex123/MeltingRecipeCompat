@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "easypaxellite"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "easypaxellite:netherite_paxel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 270
+	},
+	"byproducts": [
+		{
+		  "fluid": "tconstruct:molten_diamond",
+		  "amount": 700
+		}
+	],
+	"temperature": 1250,
+	"time": 120
+}

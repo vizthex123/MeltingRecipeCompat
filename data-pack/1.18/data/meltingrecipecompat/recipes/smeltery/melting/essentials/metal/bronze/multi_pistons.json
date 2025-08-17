@@ -5,12 +5,12 @@
 			"modid": "essentials"
 		},
 		{
-		"value": {
-			"tag": "forge:ingots/bronze",
-			"type": "forge:tag_empty"
-		},
-		"type": "forge:not"
-	  }
+			"type": "forge:not",
+			"value": {
+				"type": "forge:tag_empty",
+				"tag": "forge:ingots/bronze"
+			}
+		}
 	],
 	"type": "tconstruct:melting",
 	"ingredient": [
@@ -32,5 +32,5 @@
 		}
 	],
 	"temperature": 750,
-	"time": 300
+	"time": 60
 }

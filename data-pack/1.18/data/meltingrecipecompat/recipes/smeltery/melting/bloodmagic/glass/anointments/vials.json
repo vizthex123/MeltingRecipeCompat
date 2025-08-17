@@ -11,19 +11,40 @@
 			"item": "bloodmagic:slate_vial"
 		},
 		{
-			"item": "bloodmagic:fortune_anointment"
+			"item": "bloodmagic:looting_anointment"
 		},
 		{
-			"item": "bloodmagic:looting_anointment"
+			"item": "bloodmagic:looting_anointment_l"
+		},
+		{
+			"item": "bloodmagic:looting_anointment_2"
+		},
+		{
+			"item": "bloodmagic:looting_anointment_3"
 		},
 		{
 			"item": "bloodmagic:quick_draw_anointment"
 		},
 		{
+			"item": "bloodmagic:quick_draw_anointment_l"
+		},
+		{
+			"item": "bloodmagic:quick_draw_anointment_2"
+		},
+		{
+			"item": "bloodmagic:quick_draw_anointment_3"
+		},
+		{
 			"item": "bloodmagic:smelting_anointment"
 		},
 		{
+			"item": "bloodmagic:smelting_anointment_l"
+		},
+		{
 			"item": "bloodmagic:voiding_anointment"
+		},
+		{
+			"item": "bloodmagic:voiding_anointment_l"
 		}
 	],
 	"result": {
@@ -31,5 +52,5 @@
 		"amount": 625
 	},
 	"temperature": 750,
-	"time": 80
+	"time": 20
 }

@@ -8,10 +8,10 @@
 	"type": "tconstruct:melting",
 	"ingredient": [
 		{
-			"item": "create:sticky_mechanical_piston"
+			"item": "create:sticker"
 		},
 		{
-			"item": "create:sticker"
+			"item": "create:sticky_mechanical_piston"
 		}
 	],
 	"result": {
@@ -19,5 +19,5 @@
 		"amount": 250
 	},
 	"temperature": 50,
-	"time": 40
+	"time": 12
 }

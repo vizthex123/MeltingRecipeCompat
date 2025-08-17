@@ -7,12 +7,12 @@
 	],
 	"type": "tconstruct:melting",
 	"ingredient": {
-		"item": "ob_core:paladin_helmet"
+		"item": "ob_core:paladin_boots"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_platinum",
 		"amount": 360
 	},
 	"temperature": 970,
-	"time": 300
+	"time": 60
 }

@@ -8,13 +8,13 @@
 	"type": "tconstruct:melting",
 	"ingredient": [
 		{
-			"item": "createdeco:cast_iron_hull"
-		},
-		{
 			"item": "createdeco:cast_iron_door"
 		},
 		{
 			"item": "createdeco:locked_cast_iron_door"
+		},
+		{
+			"item": "createdeco:cast_iron_hull"
 		}
 	],
 	"result": {
@@ -22,5 +22,5 @@
 		"amount": 180
 	},
 	"temperature": 1000,
-	"time": 320
+	"time": 64
 }

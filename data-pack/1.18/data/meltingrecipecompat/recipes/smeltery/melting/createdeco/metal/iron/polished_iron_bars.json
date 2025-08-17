@@ -6,13 +6,18 @@
 		}
 	],
 	"type": "tconstruct:melting",
-	"ingredient": {
-		"item": "createdeco:polished_iron_bars"
-	},
+	"ingredient": [
+		{
+			"item": "createdeco:polished_iron_bars"
+		},
+		{
+			"item": "createdeco:polished_iron_bars_overlay"
+		}
+	],
 	"result": {
 		"fluid": "tconstruct:molten_iron",
 		"amount": 22
 	},
 	"temperature": 800,
-	"time": 160
+	"time": 32
 }

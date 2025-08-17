@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bloodmagic"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "bloodmagic:voiding_anointment_xl"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 625
+	},
+	"byproducts": [
+		{
+		  "fluid": "tconstruct:molten_amethyst",
+		  "amount": 100
+		}
+	],
+	"temperature": 750,
+	"time": 28
+}

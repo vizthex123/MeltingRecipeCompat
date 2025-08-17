@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "simplepaxels"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "simplepaxels:copper_paxel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 360
+	},
+	"temperature": 500,
+	"time": 100
+}

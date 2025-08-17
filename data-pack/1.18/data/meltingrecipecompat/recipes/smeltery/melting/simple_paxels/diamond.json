@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "simplepaxels"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "simplepaxels:diamond_paxel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 900
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 810
+		},
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 360
+		}
+	],
+	"temperature": 1450,
+	"time": 160
+}

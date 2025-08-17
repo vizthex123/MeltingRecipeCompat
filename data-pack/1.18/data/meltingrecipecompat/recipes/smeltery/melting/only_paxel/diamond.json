@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "only_paxel"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "only_paxel:diamond_paxel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 700
+	},
+	"temperature": 1450,
+	"time": 120
+}

@@ -6,6 +6,8 @@ https://modrinth.com/user/vizthex
 
 
 
+Forge docs for the fancy loading conditions everything uses.
+
 Tinker's Construct devs (and mDiyo, its original creator).
 
 Devs of all the mods I added support for.

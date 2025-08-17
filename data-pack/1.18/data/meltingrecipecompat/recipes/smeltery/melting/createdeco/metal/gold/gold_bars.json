@@ -6,13 +6,18 @@
 		}
 	],
 	"type": "tconstruct:melting",
-	"ingredient": {
-		"item": "createdeco:gold_bars"
-	},
+	"ingredient": [
+		{
+			"item": "createdeco:gold_bars"
+		},
+		{
+			"item": "createdeco:gold_bars_overlay"
+		}
+	],
 	"result": {
 		"fluid": "tconstruct:molten_gold",
 		"amount": 30
 	},
 	"temperature": 700,
-	"time": 160
+	"time": 32
 }
