@@ -1,0 +1,45 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "mekanism:qio_exporter"
+		},
+		{
+			"item": "mekanism:qio_importer"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_refined_obsidian",
+		"amount": 1440
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_lead",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 450
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 900
+		}
+	],
+	"temperature": 1475,
+	"time": 64
+}

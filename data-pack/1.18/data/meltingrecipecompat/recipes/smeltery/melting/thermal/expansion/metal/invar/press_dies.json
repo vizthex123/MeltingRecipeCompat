@@ -1,0 +1,27 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:press_coin_die"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "thermal:press_coin_die"
+		},
+		{
+			"item": "thermal:press_gear_die"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_invar",
+		"amount": 360
+	},
+	"temperature": 900,
+	"time": 40
+}

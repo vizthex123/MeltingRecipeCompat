@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "industrialforegoing"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "industrialforegoing:infinity_backpack"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 2070
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 1080
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 400
+		}
+	],
+	"temperature": 800,
+	"time": 80
+}

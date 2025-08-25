@@ -1,13 +1,16 @@
 {
-  "conditions": [
-	{
-	  "type": "forge:mod_loaded",
-	  "modid": "create"
-	}
-  ],
-  "replace": false,
-  "values": [
-	"create:placard",
-	"#createdeco:placards"
-  ]
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create"
+		}
+	],
+	"replace": false,
+	"values": [
+		"create:placard",
+		{
+			"id": "#createdeco:placards",
+			"required": false
+		}
+	]
 }

@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:boiler_valve"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 180
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 225
+		},
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 90
+		}
+	],
+	"temperature": 950,
+	"time": 60
+}

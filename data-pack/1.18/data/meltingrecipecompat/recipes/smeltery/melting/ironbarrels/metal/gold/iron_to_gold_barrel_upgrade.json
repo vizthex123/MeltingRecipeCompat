@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironbarrels"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ironbarrels:iron_to_gold_barrel_upgrade"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 90
+		}
+	],
+	"temperature": 700,
+	"time": 44
+}

@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "simplyjetpacks"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "simplyjetpacks:particle_blend"
+		},
+		{
+			"item": "simplyjetpacks:particle_flame"
+		},
+		{
+			"item": "simplyjetpacks:particle_smoke"
+		},
+		{
+			"item": "simplyjetpacks:particle_soul"
+		},
+		{
+			"item": "simplyjetpacks:particle_rainbow"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 125
+	},
+	"temperature": 450,
+	"time": 16
+}

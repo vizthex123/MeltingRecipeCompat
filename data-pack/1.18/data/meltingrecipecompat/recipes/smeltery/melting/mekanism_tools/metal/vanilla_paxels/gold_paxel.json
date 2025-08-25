@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanismtools"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "mekanismtools:gold_paxel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 630,
+		"unit_size": 15
+	},
+	"temperature": 700,
+	"time": 112
+}

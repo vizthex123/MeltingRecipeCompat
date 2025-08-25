@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironchests"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "ironchest:copper_chest"
+		},
+		{
+			"item": "ironchest:trapped_copper_chest"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 720
+	},
+	"temperature": 500,
+	"time": 64
+}

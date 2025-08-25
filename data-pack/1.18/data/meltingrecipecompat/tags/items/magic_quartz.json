@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		}
+	],
+	"replace": false,
+	"values": [
+		"botania:quartz_blaze",
+		"botania:quartz_dark",
+		"botania:quartz_elven",
+		"botania:quartz_lavender",
+		"botania:quartz_mana",
+		"botania:quartz_red",
+		"botania:quartz_sunny"
+	]
+}

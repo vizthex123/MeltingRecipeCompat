@@ -18,6 +18,6 @@
 		"fluid": "tconstruct:molten_iron",
 		"amount": 30
 	},
-	"temperature": 1000,
+	"temperature": 800,
 	"time": 36
 }

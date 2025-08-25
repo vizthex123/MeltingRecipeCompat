@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanismgenerators"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanismgenerators:solar_panel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_osmium",
+		"amount": 270
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 750
+		}
+	],
+	"temperature": 975,
+	"time": 60
+}

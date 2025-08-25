@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ae2"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ae2:cell_component_64k"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 2430
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 13000
+		}
+	],
+	"temperature": 750,
+	"time": 52
+}

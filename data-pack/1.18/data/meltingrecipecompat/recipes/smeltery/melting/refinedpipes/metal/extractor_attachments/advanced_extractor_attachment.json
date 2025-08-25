@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "refinedpipes"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "refinedpipes:advanced_extractor_attachment"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 300
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 200
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 540
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 450
+		}
+	],
+	"temperature": 1450,
+	"time": 72
+}

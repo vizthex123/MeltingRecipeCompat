@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ae2"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ae2:energy_card"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 8000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 135
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 100
+		}
+	],
+	"temperature": 750,
+	"time": 56
+}

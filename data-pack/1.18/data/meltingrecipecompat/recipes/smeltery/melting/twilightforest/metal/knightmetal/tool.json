@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "twilightforest"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "twilightforest:knightmetal_pickaxe"
+		},
+		{
+			"item": "twilightforest:knightmetal_axe"
+		}
+	],
+	"result": {
+		"fluid": "twilightforest:molten_knightmetal",
+		"amount": 270,
+		"unit_size": 10
+	},
+	"temperature": 700,
+	"time": 112
+}

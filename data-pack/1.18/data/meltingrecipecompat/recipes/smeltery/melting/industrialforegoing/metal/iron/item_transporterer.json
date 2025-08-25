@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "industrialforegoing"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "industrialforegoing:item_transporter_type"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 225
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 125
+		}
+	],
+	"temperature": 800,
+	"time": 24
+}

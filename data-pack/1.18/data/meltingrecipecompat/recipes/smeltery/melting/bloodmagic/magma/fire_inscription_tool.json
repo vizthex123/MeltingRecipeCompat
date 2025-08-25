@@ -5,13 +5,14 @@
 			"modid": "bloodmagic"
 		}
 	],
-	"type": "tconstruct:melting",
+	"type": "tconstruct:damagable_melting",
 	"ingredient": {
 		"item": "bloodmagic:firescribetool"
 	},
 	"result": {
 		"fluid": "tconstruct:magma",
-		"amount": 250
+		"amount": 250,
+		"unit_size": 25
 	},
 	"temperature": 300,
 	"time": 20

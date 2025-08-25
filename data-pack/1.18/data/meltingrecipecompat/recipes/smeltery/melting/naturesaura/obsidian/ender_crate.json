@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturesaura"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "naturesaura:ender_crate"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 12000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 500
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 3000
+		}
+	],
+	"temperature": 1000,
+	"time": 320
+}

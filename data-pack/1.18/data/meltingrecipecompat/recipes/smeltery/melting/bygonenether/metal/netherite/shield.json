@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bygonenether"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "bygonenether:gilded_netherite_shield"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 90,
+		"unit_size": 10
+	},
+	"temperature": 1250,
+	"time": 72
+}

@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enigmaticlegacy"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enigmaticlegacy:soul_compass"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 90
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 440
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 250
+		}
+	],
+	"temperature": 1250,
+	"time": 72
+}

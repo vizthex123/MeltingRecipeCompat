@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "deepresonance"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "deepresonance:radiation_monitor"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 1250
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 250
+		}
+	],
+	"temperature": 637,
+	"time": 64
+}

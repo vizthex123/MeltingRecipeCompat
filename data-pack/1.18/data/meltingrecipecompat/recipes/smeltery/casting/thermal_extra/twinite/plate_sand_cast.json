@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:casting_table",
+	"cast_consumed": true,
+	"fluid": {
+		"tag": "forge:molten_twinite",
+		"amount": 90
+	},
+	"result": {
+		"tag": "forge:plates/twinite"
+	},
+	"cast": {
+		"tag": "tconstruct:casts/single_use/plate"
+	},
+	"cooling_time": 140
+}

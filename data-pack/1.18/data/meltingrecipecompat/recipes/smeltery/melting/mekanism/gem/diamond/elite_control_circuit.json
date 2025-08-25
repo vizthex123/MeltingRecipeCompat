@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:elite_control_circuit"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 400
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 90
+		}
+	],
+	"temperature": 1450,
+	"time": 60
+}

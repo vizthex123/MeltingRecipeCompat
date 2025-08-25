@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "botania:aura_ring"
+	},
+	"result": {
+		"fluid": "tcintegrations:manasteel",
+		"amount": 810
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 250
+		}
+	],
+	"temperature": 950,
+	"time": 88
+}

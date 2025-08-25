@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "simplyjetpacks"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "simplyjetpacks:jetpack_ie1"
+		},
+		{
+			"item": "simplyjetpacks:jetpack_ie1_armored"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 2700
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 2160
+		}
+	],
+	"temperature": 800,
+	"time": 60
+}

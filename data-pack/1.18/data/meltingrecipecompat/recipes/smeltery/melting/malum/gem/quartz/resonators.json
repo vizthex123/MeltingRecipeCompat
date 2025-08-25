@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "malum:hallowed_spirit_resonator"
+		},
+		{
+			"item": "malum:stained_spirit_resonator"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 100
+	},
+	"temperature": 637,
+	"time": 48
+}

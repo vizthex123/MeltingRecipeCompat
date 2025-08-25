@@ -1,0 +1,15 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "systeams"
+		}
+	],
+	"type": "tconstruct:melting_fuel",
+	"fluid": {
+		"name": "systeams:steam",
+		"amount": 1000
+	},
+	"duration": 50,
+	"temperature": 500
+}

@@ -5,13 +5,14 @@
 			"modid": "additionaladditions"
 		}
 	],
-	"type": "tconstruct:melting",
+	"type": "tconstruct:damagable_melting",
 	"ingredient": {
 		"item": "additionaladditions:wrench"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_copper",
-		"amount": 360
+		"amount": 360,
+		"unit_size": 10
 	},
 	"temperature": 500,
 	"time": 60

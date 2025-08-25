@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturesaura"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "naturesaura:animal_spawner"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 60
+	},
+	"temperature": 800,
+	"time": 40
+}

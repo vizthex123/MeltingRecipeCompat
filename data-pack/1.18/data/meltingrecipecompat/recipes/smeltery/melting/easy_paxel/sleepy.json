@@ -5,18 +5,20 @@
 			"modid": "easypaxel"
 		}
 	],
-	"type": "tconstruct:melting",
+	"type": "tconstruct:damagable_melting",
 	"ingredient": {
 		"item": "easypaxel:sleepy_paxel"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_iron",
-		"amount": 700
+		"amount": 700,
+		"unit_size": 10
 	},
 	"byproducts": [
 		{
-		  "fluid": "tconstruct:molten_emerald",
-		  "amount": 900
+			"fluid": "tconstruct:molten_emerald",
+			"amount": 900,
+			"unit_size": 25
 		}
 	],
 	"temperature": 800,

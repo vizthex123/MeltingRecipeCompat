@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "nourished_nether"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "nourished_nether:gilded_blackstone_bricks"
+		},
+		{
+			"item": "nourished_nether:gilded_blackstone_brick_stairs"
+		},
+		{
+			"item": "nourished_nether:gilded_blackstone_brick_wall"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 120
+	},
+	"temperature": 700,
+	"time": 60
+}

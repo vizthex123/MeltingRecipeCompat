@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "createdeco"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "createdeco:blue_brass_lamp"
+		},
+		{
+			"item": "createdeco:green_brass_lamp"
+		},
+		{
+			"item": "createdeco:red_brass_lamp"
+		},
+		{
+			"item": "createdeco:yellow_brass_lamp"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_brass",
+		"amount": 100
+	},
+	"temperature": 605,
+	"time": 72
+}

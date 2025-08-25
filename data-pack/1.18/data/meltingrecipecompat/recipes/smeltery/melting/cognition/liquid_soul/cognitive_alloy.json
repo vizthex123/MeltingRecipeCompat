@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "experienceobelisk"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "experienceobelisk:cognitive_alloy"
+	},
+	"result": {
+		"fluid": "tconstruct:liquid_soul",
+		"amount": 1000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 100
+		},
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 90
+		}
+	],
+	"temperature": 400,
+	"time": 44
+}

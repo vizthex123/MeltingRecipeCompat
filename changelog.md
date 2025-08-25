@@ -1,6 +1,6 @@
 # Datapack Changelog
 
-A full changelog for every version (and sub-version) of the [Datapack](https://www.curseforge.com/minecraft/data-packs/melting-recipe-compatability).
+A full changelog for every version (and sub-version) of the [Datapack](https://www.curseforge.com/minecraft/data-packs/melting-recipe-compatibility).
 
 This one will be updated more often than the CurseForge and Modrinth changelogs.
 
@@ -10,6 +10,95 @@ Lines appended with a version in brackets (e.g. Text Here [1.19]) denote changes
 
 --------------------------------------------------
 
+# v2.2
+
+Added Steam as a Smeltery fuel<br />
+Made my custom tags use the `required` field, that way all of them can load in properly
+
+Fixed Crying Obsidian and Respawn Anchors having the wrong melting temperature<br />
+Fixed Amethyst Throwing Daggers outputting Gold instead of Copper (and not working with the Tipped Variant) [Blood Magic]<br />
+Fixed Vertical Brick and Quartz Slabs not having melting recipes [Quark]<br />
+Fixed some issues with XNet's connector recipes
+
+Updated Create Deco support with all the Brick Blocks I missed (even though that's like half of the mod lol)<br />
+Removed several unecessary tags (recipes have been updated to use the standard input substitution method):
+- The `cage_lamps` tag. Also vastly reduced the melting time.
+- The `connectors` tag. Also vastly reduced the melting time.
+
+
+Corrected several melting temperatures<br />
+Reduced the melting temperature of Cast Iron to 800 (was 1,000) [Create Deco]<br />
+Separated the Prospector's Pick and Sword Billet recipes [Obscuria's Essentials]<br />
+Emeraldite and Pendorite ore now give bonus outputs based on configured smelting boost rates [Biomes You'll Go]
+
+Added more recipes for some missing Blood Magic items<br />
+Added a few missing Twilight Forest recipes (including one to melt Fiery Vials into Fiery Essence)<br />
+Made Additional Additions' Rose Gold gear only melt into Gold and Copper
+
+Added some Liquid Soul recipes I missed<br />
+Added Gear and Dust melting recipes for most of the missing entries<br />
+Added durability melting rates to all tool recipes (like base Tinkers' has)
+
+
+Added support for the following mods:
+- AE2 Things
+- Applied Energistics 2
+- Applied Energistics 2 Wireless Terminals
+- Appied Botanics
+- Appied Cooking
+- Appied Mekanistics
+- AdminShop Overhauled
+- Aquamirae
+- Biomes o' Plenty (flesh blocks)
+- BluePower
+- Botania
+- Clayworks
+- Cognition
+- Cooking for Blockheads
+- Create: Applied Kinetics
+- Deep Resonance
+- Ender Quarry Plus
+- Enigmatic Legacy
+- Enlightend
+- Extended Crafting
+- Functional Storage
+- Hostile Neural Networks
+- Immersive Engineering
+- Iron Barrels
+- Iron Bookshelves
+- Iron Chests
+- Iron Chests: Restocked
+- Iron Jetpacks (only partial support since I can't use NBT data)
+- ME Requester
+- Malum
+- Mekanism
+- Mekanism Additions
+- Mekanism Generators
+- Mekanism Tools
+- Nature's Aura
+- Neapolitan
+- Netherific
+- Portality
+- Quantum Quarry Plus
+- Refined Pipes
+- Reliquary Reincarnations
+- Scannable
+- Simple Quarry
+- Simply Jetpacks
+- Solar Cooker
+- Solar Flux Reborn
+- Staff of Travelling
+- Thermal Extra (also add missing casting recipes and fluid tooltips)
+- Thermal Series (all modules)
+- Thermal Systeams
+- Travel Anchors
+- Woodworks
+- Wormhole
+
+
+<br /> <br />
+
+--------------------------------------------------
 # v2.1
 
 Optimised a few recipes by combining them into a single entry
@@ -47,7 +136,7 @@ Overhauled file structure so it's easier to add recipes
 Added a melting recipe for Cast Iron Plates<br />
 Fixed several Iron melting recipes using Cast Iron items<br />
 Fixed the melting recipe for Cast Iron Nuggets not loading in<br />
-Added Molten Slime to several melting recipes that were missing it<br />
+Added Slime to several melting recipes that were missing it<br />
 Datapack now fixes the incorrect melting amount for Emeraldite Shards if BYG & Tinkers Integrations and Tweaks are loaded
 
 

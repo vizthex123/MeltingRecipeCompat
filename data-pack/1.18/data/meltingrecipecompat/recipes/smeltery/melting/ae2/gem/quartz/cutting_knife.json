@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ae2"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "ae2:nether_quartz_cutting_knife"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 200,
+		"unit_size": 25
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 90,
+			"unit_size": 10
+		}
+	],
+	"temperature": 637,
+	"time": 68
+}

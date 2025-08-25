@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enigmaticlegacy"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enigmaticlegacy:enchanter_pearl"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 1000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 250
+		},
+		{
+			"fluid": "tconstruct:molten_emerald",
+			"amount": 100
+		}
+	],
+	"temperature": 1000,
+	"time": 128
+}

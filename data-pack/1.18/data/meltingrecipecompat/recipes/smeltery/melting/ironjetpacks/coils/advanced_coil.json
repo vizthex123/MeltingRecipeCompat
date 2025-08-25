@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironjetpacks"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ironjetpacks:advanced_coil"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 360
+	},
+	"temperature": 700,
+	"time": 68
+}

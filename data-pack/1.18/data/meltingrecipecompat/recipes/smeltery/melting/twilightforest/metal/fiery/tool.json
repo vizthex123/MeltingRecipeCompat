@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "twilightforest"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "twilightforest:fiery_pickaxe"
+	},
+	"result": {
+		"fluid": "twilightforest:molten_fiery",
+		"amount": 270,
+		"unit_size": 10
+	},
+	"temperature": 700,
+	"time": 112
+}

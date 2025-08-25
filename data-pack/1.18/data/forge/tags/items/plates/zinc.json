@@ -1,0 +1,12 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bluepower"
+		}
+	],
+	"replace": false,
+	"values": [
+		"bluepower:zincplate"
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:dynamo_throttle_augment"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal:dynamo_throttle_augment"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_electrum",
+		"amount": 90
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_lead",
+			"amount": 40
+		}
+	],
+	"temperature": 760,
+	"time": 64
+}

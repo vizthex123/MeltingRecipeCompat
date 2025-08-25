@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "hostilenetworks"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "hostilenetworks:loot_fabricator"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 90
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 100
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 200
+		},
+		{
+			"fluid": "tconstruct:molten_obsidian",
+			"amount": 1000
+		}
+	],
+	"temperature": 1250,
+	"time": 80
+}

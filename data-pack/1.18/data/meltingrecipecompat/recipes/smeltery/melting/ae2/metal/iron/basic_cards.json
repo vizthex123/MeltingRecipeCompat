@@ -1,0 +1,38 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ae2"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "ae2:basic_card"
+		},
+		{
+			"item": "ae2:capacity_card"
+		},
+		{
+			"item": "ae2:crafting_card"
+		},
+		{
+			"item": "ae2:redstone_card"
+		},
+		{
+			"item": "ae2:void_card"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 135
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 90
+		}
+	],
+	"temperature": 800,
+	"time": 44
+}

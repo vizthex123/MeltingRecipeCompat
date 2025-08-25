@@ -5,13 +5,14 @@
 			"modid": "bloodmagic"
 		}
 	],
-	"type": "tconstruct:melting",
+	"type": "tconstruct:damagable_melting",
 	"ingredient": {
 		"item": "bloodmagic:primitive_crystalline_resonator"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_amethyst",
-		"amount": 100
+		"amount": 100,
+		"unit_size": 10
 	},
 	"temperature": 950,
 	"time": 40

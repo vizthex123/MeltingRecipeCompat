@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:basic_universal_cable"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 22
+	},
+	"temperature": 950,
+	"time": 48
+}

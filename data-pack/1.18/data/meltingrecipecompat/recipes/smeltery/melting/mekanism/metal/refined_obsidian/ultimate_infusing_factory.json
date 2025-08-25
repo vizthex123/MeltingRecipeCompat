@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:ultimate_infusing_factory"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_refined_obsidian",
+		"amount": 2880
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 1980
+		},
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 990
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 1800
+		}
+	],
+	"temperature": 1475,
+	"time": 112
+}

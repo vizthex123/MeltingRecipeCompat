@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:basic_smelting_factory"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 6000
+		}
+	],
+	"temperature": 950,
+	"time": 88
+}

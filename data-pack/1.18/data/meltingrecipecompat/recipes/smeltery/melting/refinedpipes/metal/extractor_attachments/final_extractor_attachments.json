@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "refinedpipes"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "refinedpipes:elite_extractor_attachment"
+		},
+		{
+			"item": "refinedpipes:ultimate_extractor_attachment"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_emerald",
+		"amount": 300
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 300
+		},
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 200
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 540
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 450
+		}
+	],
+	"temperature": 934,
+	"time": 76
+}

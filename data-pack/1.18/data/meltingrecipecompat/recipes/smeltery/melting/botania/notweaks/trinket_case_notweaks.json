@@ -1,0 +1,25 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "tcintegrations"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "botania:bauble_box"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 90
+	},
+	"temperature": 950,
+	"time": 40
+}

@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironbookshelves"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ironbookshelves:iron_bookshelf"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 360
+		}
+	],
+	"temperature": 800,
+	"time": 60
+}

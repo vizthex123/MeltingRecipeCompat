@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanismtools"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "mekanismtools:refined_obsidian_pickaxe"
+		},
+		{
+			"item": "mekanismtools:refined_obsidian_axe"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_refined_obsidian",
+		"amount": 270,
+		"unit_size": 10
+	},
+	"temperature": 1475,
+	"time": 136
+}

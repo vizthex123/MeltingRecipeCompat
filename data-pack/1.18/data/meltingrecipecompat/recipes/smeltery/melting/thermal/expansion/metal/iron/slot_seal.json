@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:slot_seal"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal:slot_seal"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 130
+	},
+	"temperature": 800,
+	"time": 64
+}

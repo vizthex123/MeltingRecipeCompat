@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "quark"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "quark:brick_vertical_slab"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 500
+	},
+	"temperature": 450,
+	"time": 72
+}

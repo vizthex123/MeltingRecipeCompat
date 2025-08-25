@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:casting_table",
+	"cast": {
+		"tag": "tconstruct:casts/single_use/ingot"
+	},
+	"cast_consumed": true,
+	"fluid": {
+		"tag": "forge:molten_twinite",
+		"amount": 90
+	},
+	"result": {
+		"tag": "forge:ingots/twinite"
+	},
+	"cooling_time": 140
+}

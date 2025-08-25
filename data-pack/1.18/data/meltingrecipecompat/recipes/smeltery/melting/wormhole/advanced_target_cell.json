@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "wormhole"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "wormhole:advanced_target_cell"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 1080
+	},
+	"temperature": 800,
+	"time": 60
+}

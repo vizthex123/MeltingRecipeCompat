@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturesaura"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "naturesaura:calling_spirit"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 33
+	},
+	"temperature": 1450,
+	"time": 24
+}

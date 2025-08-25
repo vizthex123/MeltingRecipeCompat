@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:ultimate_energy_cube"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 2340
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 2340
+		},
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 270
+		},
+		{
+			"fluid": "tconstruct:molten_refined_obsidian",
+			"amount": 1440
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 1800
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 4000
+		}
+	],
+	"temperature": 700,
+	"time": 208
+}

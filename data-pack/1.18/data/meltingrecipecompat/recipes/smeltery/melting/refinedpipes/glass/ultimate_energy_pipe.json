@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "refinedpipes"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "refinedpipes:ultimate_energy_pipe"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 333
+	},
+	"temperature": 750,
+	"time": 60
+}

@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "squarry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "squarry:upgrade_fortune_3"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 270
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_amethyst",
+			"amount": 400
+		}
+	],
+	"temperature": 1250,
+	"time": 60
+}

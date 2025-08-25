@@ -1,0 +1,30 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:chiller_ingot_cast"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "thermal:chiller_ball_cast"
+		},
+		{
+			"item": "thermal:chiller_ingot_cast"
+		},
+		{
+			"item": "thermal:chiller_rod_cast"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 360
+	},
+	"temperature": 700,
+	"time": 64
+}

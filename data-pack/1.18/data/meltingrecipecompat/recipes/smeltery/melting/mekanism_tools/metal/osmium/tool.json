@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanismtools"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "mekanismtools:osmium_pickaxe"
+		},
+		{
+			"item": "mekanismtools:osmium_axe"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_osmium",
+		"amount": 270,
+		"unit_size": 10
+	},
+	"temperature": 975,
+	"time": 112
+}

@@ -15,7 +15,7 @@
 		}
 	],
 	"result": {
-		"fluid": "tconstruct:molten_clay",
+		"fluid": "tconstruct:molten_gold",
 		"amount": 1440
 	},
 	"temperature": 700,

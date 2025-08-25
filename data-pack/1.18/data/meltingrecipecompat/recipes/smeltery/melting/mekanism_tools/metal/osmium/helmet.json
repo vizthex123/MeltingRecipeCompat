@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanismtools"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "mekanismtools:osmium_helmet"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_osmium",
+		"amount": 450,
+		"unit_size": 10
+	},
+	"temperature": 975,
+	"time": 116
+}

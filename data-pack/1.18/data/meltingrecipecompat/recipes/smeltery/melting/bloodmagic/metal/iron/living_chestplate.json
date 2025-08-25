@@ -5,18 +5,20 @@
 			"modid": "bloodmagic"
 		}
 	],
-	"type": "tconstruct:melting",
+	"type": "tconstruct:damagable_melting",
 	"ingredient": {
 		"item": "bloodmagic:livingplate"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_iron",
-		"amount": 720
+		"amount": 720,
+		"unit_size": 10
 	},
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_gold",
-			"amount": 10
+			"amount": 10,
+			"unit_size": 10
 		}
 	],
 	"temperature": 800,

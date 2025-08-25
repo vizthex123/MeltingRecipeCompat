@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "immersiveengineering:turret_gun"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 862
+		},
+		{
+			"fluid": "tconstruct:molten_aluminum",
+			"amount": 45
+		},
+		{
+			"fluid": "tconstruct:molten_nickel",
+			"amount": 60
+		},
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 675
+		},
+		{
+			"fluid": "tconstruct:molten_amethyst",
+			"amount": 100
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 1166
+		}
+	],
+	"temperature": 800,
+	"time": 120
+}

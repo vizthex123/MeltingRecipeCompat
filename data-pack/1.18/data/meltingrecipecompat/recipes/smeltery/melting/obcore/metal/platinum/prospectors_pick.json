@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ob_core"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "ob_core:prospectors_pick"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_platinum",
+		"amount": 90,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 300,
+			"unit_size": 10
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 180,
+			"unit_size": 10
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 250,
+			"unit_size": 25
+		}
+	],
+	"temperature": 970,
+	"time": 60
+}

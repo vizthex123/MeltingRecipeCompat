@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironchest"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ironchest:gold_to_diamond_chest_upgrade"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 200
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 6000
+		}
+	],
+	"temperature": 1450,
+	"time": 60
+}

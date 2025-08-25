@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "industrialforegoing"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "industrialforegoing:range_addon11"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_emerald",
+		"amount": 400
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 500
+		}
+	],
+	"temperature": 934,
+	"time": 36
+}

@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "solarflux"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "solarflux:photovoltaic_cell_1"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 6000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 90
+		}
+	],
+	"temperature": 750,
+	"time": 56
+}

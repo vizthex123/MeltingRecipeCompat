@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enlightened_end"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "enlightened_end:adamantite_sword"
+		},
+		{
+			"item": "enlightened_end:adamantite_hoe"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 180
+	},
+	"temperature": 800,
+	"time": 100
+}

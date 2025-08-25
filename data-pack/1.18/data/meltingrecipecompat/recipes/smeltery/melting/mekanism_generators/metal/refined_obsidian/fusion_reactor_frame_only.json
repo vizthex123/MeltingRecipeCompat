@@ -1,0 +1,45 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanismgenerators"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "mekanismgenerators:fusion_reactor_frame"
+		},
+		{
+			"item": "mekanismgenerators:fusion_reactor_logic_adapter"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_refined_obsidian",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 200
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 1000
+		}
+	],
+	"temperature": 1475,
+	"time": 96
+}

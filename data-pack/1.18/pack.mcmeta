@@ -5,6 +5,6 @@
 			8,
 			9
 		],
-		"description": "Adds mod compat recipes to the Melter and Smeltery."
+		"description": "Adds mod compat melting recipes to the Smeltery and Foundry (and their standalone versions)."
 	}
 }

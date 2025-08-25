@@ -5,13 +5,14 @@
 			"modid": "easypaxellite"
 		}
 	],
-	"type": "tconstruct:melting",
+	"type": "tconstruct:damagable_melting",
 	"ingredient": {
 		"item": "easypaxellite:golden_paxel"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_gold",
-		"amount": 630
+		"amount": 630,
+		"unit_size": 10
 	},
 	"temperature": 700,
 	"time": 120

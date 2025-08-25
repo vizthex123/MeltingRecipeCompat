@@ -5,18 +5,20 @@
 			"modid": "simplepaxels"
 		}
 	],
-	"type": "tconstruct:melting",
+	"type": "tconstruct:damagable_melting",
 	"ingredient": {
 		"item": "simplepaxels:iron_paxel"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_iron",
-		"amount": 810
+		"amount": 810,
+		"unit_size": 10
 	},
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_copper",
-			"amount": 360
+			"amount": 360,
+			"unit_size": 10
 		}
 	],
 	"temperature": 800,

@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "extendedcrafting"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "extendedcrafting:elite_catalyst"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 800
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 810
+		}
+	],
+	"temperature": 1450,
+	"time": 72
+}

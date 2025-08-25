@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanismtools"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "mekanismtools:bronze_sword"
+		},
+		{
+			"item": "mekanismtools:bronze_hoe"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 180,
+		"unit_size": 10
+	},
+	"temperature": 700,
+	"time": 80
+}

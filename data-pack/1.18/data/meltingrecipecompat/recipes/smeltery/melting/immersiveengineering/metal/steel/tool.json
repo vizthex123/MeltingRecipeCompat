@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "immersiveengineering:pickaxe_steel"
+		},
+		{
+			"item": "immersiveengineering:axe_steel"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 270,
+		"unit_size": 10
+	},
+	"temperature": 950,
+	"time": 116
+}

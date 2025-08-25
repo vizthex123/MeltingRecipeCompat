@@ -5,13 +5,14 @@
 			"modid": "ob_core"
 		}
 	],
-	"type": "tconstruct:melting",
+	"type": "tconstruct:damagable_melting",
 	"ingredient": {
 		"item": "ob_core:paladin_boots"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_platinum",
-		"amount": 360
+		"amount": 360,
+		"unit_size": 10
 	},
 	"temperature": 970,
 	"time": 60

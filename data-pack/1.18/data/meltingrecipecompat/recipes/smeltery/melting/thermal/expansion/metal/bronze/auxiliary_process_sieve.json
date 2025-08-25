@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:machine_output_augment"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal:machine_output_augment"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_invar",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 90
+		}
+	],
+	"temperature": 700,
+	"time": 68
+}

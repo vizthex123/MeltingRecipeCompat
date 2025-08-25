@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:basic_tier_installer"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_osmium",
+		"amount": 180
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 180
+		}
+	],
+	"temperature": 975,
+	"time": 40
+}

@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanismtools"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "mekanismtools:osmium_paxel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_osmium",
+		"amount": 630,
+		"unit_size": 15
+	},
+	"temperature": 975,
+	"time": 68
+}

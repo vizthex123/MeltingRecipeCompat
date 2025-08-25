@@ -1,0 +1,15 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "clayworks"
+		}
+	],
+	"replace": false,
+	"values": [
+		"#meltingrecipecompat:terracotta/slabs",
+		"#meltingrecipecompat:terracotta/brick_slabs",
+		"#meltingrecipecompat:terracotta/vertical_slabs",
+		"#meltingrecipecompat:terracotta/vertical_brick_slabs"
+	]
+}

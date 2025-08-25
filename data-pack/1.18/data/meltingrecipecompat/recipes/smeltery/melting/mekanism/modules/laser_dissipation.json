@@ -1,0 +1,48 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:module_laser_dissipation_unit"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 990
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 540
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 540
+		},
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_tin",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_bronze",
+			"amount": 20
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 100
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 4000
+		}
+	],
+	"temperature": 950,
+	"time": 40
+}

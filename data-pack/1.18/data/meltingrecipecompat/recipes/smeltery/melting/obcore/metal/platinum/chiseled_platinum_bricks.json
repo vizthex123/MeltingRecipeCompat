@@ -5,13 +5,14 @@
 			"modid": "ob_core"
 		}
 	],
-	"type": "tconstruct:melting",
+	"type": "tconstruct:damagable_melting",
 	"ingredient": {
 		"item": "ob_core:chiseled_platinum_bricks"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_platinum",
-		"amount": 10
+		"amount": 10,
+		"unit_size": 10
 	},
 	"temperature": 970,
 	"time": 20

@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:device_nullifier"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal:device_nullifier"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_tin",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 2000
+		}
+	],
+	"temperature": 225,
+	"time": 72
+}

@@ -1,0 +1,51 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "reliquary"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "reliquary:magazines/neutral_magazine"
+		},
+		{
+			"item": "reliquary:magazines/blaze_magazine"
+		},
+		{
+			"item": "reliquary:magazines/buster_magazine"
+		},
+		{
+			"item": "reliquary:magazines/concussive_magazine"
+		},
+		{
+			"item": "reliquary:magazines/ender_magazine"
+		},
+		{
+			"item": "reliquary:magazines/exorcism_magazine"
+		},
+		{
+			"item": "reliquary:magazines/seeker_magazine"
+		},
+		{
+			"item": "reliquary:magazines/storm_magazine"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 450
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 20
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 1000
+		}
+	],
+	"temperature": 800,
+	"time": 68
+}

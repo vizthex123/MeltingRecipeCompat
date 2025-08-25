@@ -10,6 +10,7 @@
 		}
 	],
 	"type": "tconstruct:melting",
+	"rate": "metal",
 	"ingredient": {
 		"tag": "forge:ores/pendorite"
 	},

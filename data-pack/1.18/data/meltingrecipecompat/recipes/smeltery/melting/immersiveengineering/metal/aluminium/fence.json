@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "immersiveengineering:alu_fence"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_aluminum",
+		"amount": 150
+	},
+	"temperature": 425,
+	"time": 48
+}

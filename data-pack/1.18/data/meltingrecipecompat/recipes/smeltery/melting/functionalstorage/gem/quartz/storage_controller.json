@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "functionalstorage"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "functionalstorage:storage_controller"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 900
+	},
+	"temperature": 637,
+	"time": 112
+}

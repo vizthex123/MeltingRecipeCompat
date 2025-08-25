@@ -1,0 +1,12 @@
+{
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "minecraft:soul_torch"
+	},
+	"result": {
+		"fluid": "tconstruct:liquid_soul",
+		"amount": 250
+	},
+	"temperature": 400,
+	"time": 16
+}

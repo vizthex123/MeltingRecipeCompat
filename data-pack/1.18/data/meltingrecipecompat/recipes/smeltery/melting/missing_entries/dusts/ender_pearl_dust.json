@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+		"type": "forge:not",
+			"value": {
+				"type": "forge:tag_empty",
+				"tag": "forge:dusts/ender_pearl"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:dusts/ender_pearl"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 250
+	},
+	"temperature": 477,
+	"time": 32
+}

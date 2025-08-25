@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bluepower"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "bluepower:athame"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_silver",
+		"amount": 90,
+		"unit_size": 10
+	},
+	"temperature": 790,
+	"time": 60
+}

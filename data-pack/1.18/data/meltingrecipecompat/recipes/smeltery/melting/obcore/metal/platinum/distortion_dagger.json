@@ -5,26 +5,30 @@
 			"modid": "ob_core"
 		}
 	],
-	"type": "tconstruct:melting",
+	"type": "tconstruct:damagable_melting",
 	"ingredient": {
 		"item": "ob_core:distortion_dagger"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_platinum",
-		"amount": 90
+		"amount": 90,
+		"unit_size": 10
 	},
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_diamond",
-			"amount": 300
+			"amount": 300,
+			"unit_size": 10
 		},
 		{
 			"fluid": "tconstruct:molten_gold",
-			"amount": 180
+			"amount": 180,
+			"unit_size": 10
 		},
 		{
 			"fluid": "tconstruct:molten_ender",
-			"amount": 250
+			"amount": 250,
+			"unit_size": 25
 		}
 	],
 	"temperature": 970,

@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ae2"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "ae2:printed_logic_processor"
+		},
+		{
+			"item": "ae2:logic_processor"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 90
+	},
+	"temperature": 700,
+	"time": 48
+}

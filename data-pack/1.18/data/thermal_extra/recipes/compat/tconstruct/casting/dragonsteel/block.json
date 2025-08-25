@@ -1,0 +1,15 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:casting_basin",
+	"fluid": {
+		"fluid": "thermal_extra:dragonsteel",
+		"amount": 810
+	},
+	"result": "thermal_extra:dragonsteel_block",
+	"cooling_time": 280
+}

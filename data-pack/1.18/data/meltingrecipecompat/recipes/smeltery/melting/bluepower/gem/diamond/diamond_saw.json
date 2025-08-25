@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bluepower"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "bluepower:diamond_saw"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 200,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 180,
+			"unit_size": 10
+		}
+	],
+	"temperature": 1450,
+	"time": 156
+}

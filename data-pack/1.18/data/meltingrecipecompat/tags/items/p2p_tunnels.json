@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ae2"
+		}
+	],
+	"replace": false,
+	"values": [
+		"ae2:me_p2p_tunnel",
+		"ae2:fe_p2p_tunnel",
+		"ae2:item_p2p_tunnel",
+		"ae2:light_p2p_tunnel",
+		"ae2:redstone_p2p_tunnel",
+		{
+			"id": "appbot:mana_p2p_tunnel",
+			"required": false
+		},
+		{
+			"id": "appmek:chemical_p2p_tunnel",
+			"required": false
+		}
+	]
+}

@@ -8,10 +8,10 @@
 	"type": "tconstruct:melting",
 	"ingredient": [
 		{
-			"item": "rftoolsdim:empty_block_dimlet"
+			"item": "rftoolsdim:empty_fluid_dimlet"
 		},
 		{
-			"item": "rftoolsdim:block_dimlet"
+			"item": "rftoolsdim:fluid_dimlet"
 		}
 	],
 	"result": {

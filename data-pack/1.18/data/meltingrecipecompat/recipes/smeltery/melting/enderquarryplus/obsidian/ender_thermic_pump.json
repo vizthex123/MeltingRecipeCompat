@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderquarryplus"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enderquarryplus:ender_thermic_pump"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 4000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 270
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 100
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 250
+		}
+	],
+	"temperature": 1000,
+	"time": 160
+}

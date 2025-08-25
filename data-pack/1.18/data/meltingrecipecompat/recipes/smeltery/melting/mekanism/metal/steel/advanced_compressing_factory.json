@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:advanced_compressing_factory"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 2160
+		},
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 810
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 4000
+		}
+	],
+	"temperature": 950,
+	"time": 96
+}

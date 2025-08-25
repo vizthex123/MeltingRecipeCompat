@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "functionalstorage"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "functionalstorage:puller_upgrade"
+		},
+		{
+			"item": "functionalstorage:pusher_upgrade"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 900
+	},
+	"temperature": 800,
+	"time": 80
+}

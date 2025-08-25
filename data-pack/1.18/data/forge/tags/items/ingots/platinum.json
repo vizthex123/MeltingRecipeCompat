@@ -5,8 +5,8 @@
 			"modid": "ob_core"
 		}
 	],
-  "replace": false,
-  "values": [
-	"ob_core:platinum_ingot"
-  ]
+	"replace": false,
+	"values": [
+		"ob_core:platinum_ingot"
+	]
 }

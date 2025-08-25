@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "functionalstorage"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "functionalstorage:armory_cabinet"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 90
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 250
+		}
+	],
+	"temperature": 1250,
+	"time": 80
+}

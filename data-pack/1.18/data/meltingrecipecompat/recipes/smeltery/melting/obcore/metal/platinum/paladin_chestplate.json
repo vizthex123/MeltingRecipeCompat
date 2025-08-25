@@ -5,22 +5,25 @@
 			"modid": "ob_core"
 		}
 	],
-	"type": "tconstruct:melting",
+	"type": "tconstruct:damagable_melting",
 	"ingredient": {
 		"item": "ob_core:paladin_chestplate"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_platinum",
-		"amount": 540
+		"amount": 540,
+		"unit_size": 10
 	},
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_diamond",
-			"amount": 200
+			"amount": 200,
+			"unit_size": 10
 		},
 		{
 			"fluid": "tconstruct:molten_gold",
-			"amount": 180
+			"amount": 180,
+			"unit_size": 10
 		}
 	],
 	"temperature": 970,

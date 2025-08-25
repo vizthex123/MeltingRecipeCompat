@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanismtools"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "mekanismtools:refined_obsidian_boots"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_refined_obsidian",
+		"amount": 360,
+		"unit_size": 10
+	},
+	"temperature": 1475,
+	"time": 152
+}

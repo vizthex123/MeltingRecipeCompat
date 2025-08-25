@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "immersiveengineering:slab_concrete_leaded"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 30
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 250
+		},
+		{
+			"fluid": "tconstruct:molten_lead",
+			"amount": 15
+		}
+	],
+	"temperature": 450,
+	"time": 32
+}

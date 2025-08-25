@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:induction_port"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 180
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 135
+		},
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 45
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 200
+		}
+	],
+	"temperature": 950,
+	"time": 68
+}

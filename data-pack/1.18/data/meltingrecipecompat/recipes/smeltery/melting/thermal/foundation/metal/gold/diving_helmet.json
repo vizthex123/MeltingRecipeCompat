@@ -1,0 +1,30 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:diving_helmet"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "thermal:diving_helmet"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 270,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 250,
+			"unit_size": 25
+		}
+	],
+	"temperature": 700,
+	"time": 64
+}

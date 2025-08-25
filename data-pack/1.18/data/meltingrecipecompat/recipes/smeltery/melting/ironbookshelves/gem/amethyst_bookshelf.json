@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironbookshelves"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ironbookshelves:amethyst_bookshelf"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_amethyst",
+		"amount": 800
+	},
+	"temperature": 950,
+	"time": 60
+}

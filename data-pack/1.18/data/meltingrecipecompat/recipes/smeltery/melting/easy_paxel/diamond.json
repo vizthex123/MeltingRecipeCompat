@@ -5,13 +5,14 @@
 			"modid": "easypaxel"
 		}
 	],
-	"type": "tconstruct:melting",
+	"type": "tconstruct:damagable_melting",
 	"ingredient": {
 		"item": "easypaxel:diamond_paxel"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_diamond",
-		"amount": 700
+		"amount": 700,
+		"unit_size": 25
 	},
 	"temperature": 1450,
 	"time": 120

@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "additionaladditions"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:lumium_powered_rail"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal:lumium_powered_rail"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_lumium",
+		"amount": 45
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 90
+		}
+	],
+	"temperature": 1050,
+	"time": 40
+}

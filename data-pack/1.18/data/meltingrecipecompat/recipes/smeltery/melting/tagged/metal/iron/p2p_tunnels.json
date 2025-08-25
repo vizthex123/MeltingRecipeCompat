@@ -1,0 +1,27 @@
+{
+	"conditions": [
+	  {
+		"value": {
+			"type": "forge:tag_empty",
+			"tag": "meltingrecipecompat:p2p_tunnels"
+		},
+		"type": "forge:not"
+	  }
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:p2p_tunnels"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 270
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 100
+		}
+	],
+	"temperature": 800,
+	"time": 24
+}

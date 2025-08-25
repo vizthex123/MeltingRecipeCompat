@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:dynamo_stirling"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal:dynamo_stirling"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 540
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 90
+		}
+	],
+	"temperature": 800,
+	"time": 68
+}

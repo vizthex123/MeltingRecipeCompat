@@ -1,0 +1,52 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal_extra:upgrade_augment"
+	},
+	"result": {
+		"fluid": "thermal_extra:dragonsteel",
+		"amount": 1440
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_enderium",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_electrum",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_invar",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_lumium",
+			"amount": 720
+		},
+		{
+			"fluid": "tconstruct:molten_signalum",
+			"amount": 720
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 200
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 2000
+		}
+	],
+	"temperature": 1200,
+	"time": 88
+}

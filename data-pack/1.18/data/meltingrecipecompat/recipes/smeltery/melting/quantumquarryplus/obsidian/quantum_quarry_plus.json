@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "quantumquarryplus"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "quantumquarryplus:quantum_quarry_plus"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 60000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 3420
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 270
+		},
+		{
+			"fluid": "tconstruct:molten_netherite",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 600
+		}
+	],
+	"temperature": 1000,
+	"time": 140
+}

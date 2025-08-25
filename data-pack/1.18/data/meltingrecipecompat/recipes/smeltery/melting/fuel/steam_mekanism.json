@@ -1,0 +1,15 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting_fuel",
+	"fluid": {
+		"name": "mekanism:steam",
+		"amount": 1000
+	},
+	"duration": 50,
+	"temperature": 500
+}

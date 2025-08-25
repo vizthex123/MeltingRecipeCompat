@@ -1,17 +1,29 @@
 {
-  "conditions": [
-	{
-	  "type": "forge:mod_loaded",
-	  "modid": "rftoolsbase"
-	}
-  ],
-  "replace": false,
-  "values": [
-	"rftoolsbase:tablet",
-	"rftoolsbase:tablet_filled",
-	"rftoolscontrol:tablet_processor",
-	"rftoolsstorage:tablet_scanner",
-	"rftoolsutility:tablet_redstone",
-	"rftoolsutility:tablet_screen"
-  ]
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "rftoolsbase"
+		}
+	],
+	"replace": false,
+	"values": [
+		"rftoolsbase:tablet",
+		"rftoolsbase:tablet_filled",
+		{
+			"id": "rftoolscontrol:tablet_processor",
+			"required": false
+		},
+		{
+			"id": "rftoolsstorage:tablet_scanner",
+			"required": false
+		},
+		{
+			"id": "rftoolsutility:tablet_redstone",
+			"required": false
+		},
+		{
+			"id": "rftoolsutility:tablet_screen",
+			"required": false
+		}
+	]
 }

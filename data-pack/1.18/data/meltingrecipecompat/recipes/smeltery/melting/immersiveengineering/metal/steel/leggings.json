@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "immersiveengineering:armor_steel_legs"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 630,
+		"unit_size": 10
+	},
+	"temperature": 950,
+	"time": 168
+}

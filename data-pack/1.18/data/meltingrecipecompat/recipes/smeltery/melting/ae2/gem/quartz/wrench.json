@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ae2"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ae2:nether_quartz_wrench"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 500
+	},
+	"temperature": 637,
+	"time": 64
+}

@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderquarryplus"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enderquarryplus:ender_infused_obsidian"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 1000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 62
+		}
+	],
+	"temperature": 1000,
+	"time": 136
+}

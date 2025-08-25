@@ -1,0 +1,20 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "botania:red_string_comparator"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 100
+	},
+	"temperature": 637,
+	"time": 48
+}

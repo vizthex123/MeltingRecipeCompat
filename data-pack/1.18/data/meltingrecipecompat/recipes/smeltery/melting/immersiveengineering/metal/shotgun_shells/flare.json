@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "immersiveengineering:flare"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_aluminum",
+		"amount": 90
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 30
+		}
+	],
+	"temperature": 425,
+	"time": 36
+}

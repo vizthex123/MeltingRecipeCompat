@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:module_energy_unit"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 1620
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 1260
+		},
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_tin",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_bronze",
+			"amount": 20
+		},
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 4000
+		}
+	],
+	"temperature": 700,
+	"time": 40
+}

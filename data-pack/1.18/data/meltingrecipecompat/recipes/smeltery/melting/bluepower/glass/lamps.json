@@ -1,0 +1,113 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bluepower"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "bluepower:lamp_white"
+		},
+		{
+			"item": "bluepower:lamp_orange"
+		},
+		{
+			"item": "bluepower:lamp_magenta"
+		},
+		{
+			"item": "bluepower:lamp_blue"
+		},
+		{
+			"item": "bluepower:lamp_light_blue"
+		},
+		{
+			"item": "bluepower:lamp_yellow"
+		},
+		{
+			"item": "bluepower:lamp_lime"
+		},
+		{
+			"item": "bluepower:lamp_green"
+		},
+		{
+			"item": "bluepower:lamp_pink"
+		},
+		{
+			"item": "bluepower:lamp_gray"
+		},
+		{
+			"item": "bluepower:lamp_light_gray"
+		},
+		{
+			"item": "bluepower:lamp_cyan"
+		},
+		{
+			"item": "bluepower:lamp_purple"
+		},
+		{
+			"item": "bluepower:lamp_brown"
+		},
+		{
+			"item": "bluepower:lamp_red"
+		},
+		{
+			"item": "bluepower:lamp_black"
+		},
+		{
+			"item": "bluepower:lampinverted_white"
+		},
+		{
+			"item": "bluepower:lampinverted_orange"
+		},
+		{
+			"item": "bluepower:lampinverted_magenta"
+		},
+		{
+			"item": "bluepower:lampinverted_blue"
+		},
+		{
+			"item": "bluepower:lampinverted_light_blue"
+		},
+		{
+			"item": "bluepower:lampinverted_yellow"
+		},
+		{
+			"item": "bluepower:lampinverted_lime"
+		},
+		{
+			"item": "bluepower:lampinverted_green"
+		},
+		{
+			"item": "bluepower:lampinverted_pink"
+		},
+		{
+			"item": "bluepower:lampinverted_gray"
+		},
+		{
+			"item": "bluepower:lampinverted_light_gray"
+		},
+		{
+			"item": "bluepower:lampinverted_cyan"
+		},
+		{
+			"item": "bluepower:lampinverted_purple"
+		},
+		{
+			"item": "bluepower:lampinverted_brown"
+		},
+		{
+			"item": "bluepower:lampinverted_red"
+		},
+		{
+			"item": "bluepower:lampinverted_black"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 1500
+	},
+	"temperature": 750,
+	"time": 56
+}

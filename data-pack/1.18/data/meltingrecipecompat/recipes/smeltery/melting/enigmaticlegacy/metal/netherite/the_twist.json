@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enigmaticlegacy"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enigmaticlegacy:the_twist"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 180
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 250
+		}
+	],
+	"temperature": 1250,
+	"time": 60
+}

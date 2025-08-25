@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enigmaticlegacy"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enigmaticlegacy:etherium_sword"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 200
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 125
+		}
+	],
+	"temperature": 1450,
+	"time": 72
+}

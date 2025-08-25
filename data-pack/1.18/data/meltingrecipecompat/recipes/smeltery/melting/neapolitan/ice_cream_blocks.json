@@ -1,0 +1,35 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "neapolitan"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "neapolitan:adzuki_ice_cream_block"
+		},
+		{
+			"item": "neapolitan:banana_ice_cream_block"
+		},
+		{
+			"item": "neapolitan:chocolate_ice_cream_block"
+		},
+		{
+			"item": "neapolitan:mint_ice_cream_block"
+		},
+		{
+			"item": "neapolitan:strawberry_ice_cream_block"
+		},
+		{
+			"item": "neapolitan:vanilla_ice_cream_block"
+		}
+	],
+	"result": {
+		"fluid": "minecraft:water",
+		"amount": 513
+	},
+	"temperature": 0,
+	"time": 8
+}

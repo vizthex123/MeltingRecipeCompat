@@ -1,16 +1,16 @@
 {
-  "conditions": [
-	{
-	  "type": "forge:mod_loaded",
-	  "modid": "lightmanscurrency"
-	}
-  ],
-  "replace": false,
-  "values": [
-	"lightmanscurrency:trading_core",
-	"#lightmanscurrency:traders/card_display",
-	"#lightmanscurrency:traders/shelf",
-	"#lightmanscurrency:traders/shelf_2x2",
-	"#lightmanscurrency:traders/special/bookshelf"
-  ]
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "lightmanscurrency"
+		}
+	],
+	"replace": false,
+	"values": [
+		"lightmanscurrency:trading_core",
+		"#lightmanscurrency:traders/card_display",
+		"#lightmanscurrency:traders/shelf",
+		"#lightmanscurrency:traders/shelf_2x2",
+		"#lightmanscurrency:traders/special/bookshelf"
+	]
 }

@@ -1,0 +1,17 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "clayworks"
+		}
+	],
+	"replace": false,
+	"values": [
+		"#meltingrecipecompat:terracotta/stairs",
+		"#meltingrecipecompat:terracotta/walls",
+		"#meltingrecipecompat:terracotta/bricks",
+		"#meltingrecipecompat:terracotta/chiseled_bricks",
+		"#meltingrecipecompat:terracotta/brick_stairs",
+		"#meltingrecipecompat:terracotta/brick_walls"
+	]
+}

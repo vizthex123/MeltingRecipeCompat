@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "immersiveengineering:steel_fence"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 150
+	},
+	"temperature": 950,
+	"time": 48
+}

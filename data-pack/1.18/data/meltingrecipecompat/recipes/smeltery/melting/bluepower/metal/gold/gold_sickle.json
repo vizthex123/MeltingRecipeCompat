@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bluepower"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "bluepower:gold_sickle"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 270,
+		"unit_size": 10
+	},
+	"temperature": 700,
+	"time": 96
+}

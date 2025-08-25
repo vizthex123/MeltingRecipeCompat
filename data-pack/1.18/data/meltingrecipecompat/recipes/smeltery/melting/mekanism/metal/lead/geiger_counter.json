@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:geiger_counter"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_lead",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 90
+		}
+	],
+	"temperature": 330,
+	"time": 50
+}

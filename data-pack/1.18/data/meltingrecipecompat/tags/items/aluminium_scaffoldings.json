@@ -1,0 +1,15 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"replace": false,
+	"values": [
+		"#immersiveengineering:scaffoldings/aluminum",
+		"immersiveengineering:metal_ladder_alu",
+		"#immersiveengineering:scaffolding_stairs/aluminum",
+		"immersiveengineering:alu_slope"
+	]
+}

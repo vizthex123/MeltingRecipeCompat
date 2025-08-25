@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "refinedpipes"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "refinedpipes:ultimate_fluid_pipe"
+	},
+	"result": {
+		"fluid": "tconstruct:earth_slime",
+		"amount": 83
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 166
+		}
+	],
+	"temperature": 50,
+	"time": 36
+}

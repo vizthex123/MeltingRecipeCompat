@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquamirae"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "aquamirae:maze_rose"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 400,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_amethyst",
+			"amount": 400,
+			"unit_size": 20
+		}
+	],
+	"temperature": 1450,
+	"time": 68
+}

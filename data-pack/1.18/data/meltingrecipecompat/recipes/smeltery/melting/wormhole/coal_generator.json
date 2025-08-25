@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "wormhole"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "wormhole:coal_generator"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 540
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 250
+		}
+	],
+	"temperature": 800,
+	"time": 46
+}

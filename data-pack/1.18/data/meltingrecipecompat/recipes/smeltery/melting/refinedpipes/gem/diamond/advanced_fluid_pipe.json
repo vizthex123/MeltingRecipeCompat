@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "refinedpipes"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "refinedpipes:advanced_fluid_pipe"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 66
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 33
+		},
+		{
+			"fluid": "tconstruct:earth_slime",
+			"amount": 83
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 166
+		}
+	],
+	"temperature": 1450,
+	"time": 72
+}
