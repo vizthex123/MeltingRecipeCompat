@@ -2,17 +2,22 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "quark"
+			"modid": "ceramicshears"
 		}
 	],
 	"type": "tconstruct:melting",
-	"ingredient": {
-		"item": "quark:brick_vertical_slab"
-	},
+	"ingredient": [
+		{
+			"item": "ceramicshears:clay_shears_part"
+		},
+		{
+			"item": "ceramicshears:ceramic_shears_part"
+		}
+	],
 	"result": {
 		"fluid": "tconstruct:molten_clay",
 		"amount": 500
 	},
 	"temperature": 450,
-	"time": 72
+	"time": 20
 }

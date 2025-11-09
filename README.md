@@ -14,7 +14,7 @@ Report issues (and/or suggest mod support) [here](https://github.com/vizthex123/
 
 [Changes to default recipes](https://github.com/vizthex123/MeltingRecipeCompat/wiki/Vanilla-changes)
 
-[Supported mods](https://github.com/vizthex123/MeltingRecipeCompat/wiki/Mod-support)
+[Supported mods](https://github.com/vizthex123/MeltingRecipeCompat/blob/main/CFAssets/support_table_new.md)
 
 <br />
 

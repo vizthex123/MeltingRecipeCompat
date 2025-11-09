@@ -1,13 +1,7 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "clayworks"
-		}
-	],
 	"type": "tconstruct:melting",
 	"ingredient": {
-		"tag": "meltingrecipecompat:terracotta_slabs"
+		"tag": "meltingrecipecompat:brickocotta_slabs"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_clay",

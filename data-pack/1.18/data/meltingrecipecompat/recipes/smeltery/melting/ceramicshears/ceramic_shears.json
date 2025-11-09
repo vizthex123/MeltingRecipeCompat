@@ -2,17 +2,17 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "clayworks"
+			"modid": "ceramicshears"
 		}
 	],
 	"type": "tconstruct:melting",
 	"ingredient": {
-		"item": "clayworks:chiseled_bricks"
+		"item": "ceramicshears:ceramic_shears"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_clay",
 		"amount": 1000
 	},
 	"temperature": 450,
-	"time": 96
+	"time": 24
 }

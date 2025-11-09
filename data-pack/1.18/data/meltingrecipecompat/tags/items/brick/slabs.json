@@ -1,99 +1,358 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "createdeco"
-		}
-	],
 	"replace": false,
 	"values": [
-		"createdeco:worn_bricks_slab",
-		"createdeco:worn_brick_tiles_slab",
-		"createdeco:worn_long_bricks_slab",
-		"createdeco:worn_short_bricks_slab",
-		"createdeco:cracked_worn_bricks_slab",
-		"createdeco:cracked_worn_brick_tiles_slab",
-		"createdeco:cracked_worn_long_bricks_slab",
-		"createdeco:cracked_worn_short_bricks_slab",
-		"createdeco:mossy_worn_bricks_slab",
-		"createdeco:mossy_worn_brick_tiles_slab",
-		"createdeco:mossy_worn_long_bricks_slab",
-		"createdeco:mossy_worn_short_bricks_slab",
-		"createdeco:red_bricks_slab",
-		"createdeco:red_brick_tiles_slab",
-		"createdeco:red_long_bricks_slab",
-		"createdeco:red_short_bricks_slab",
-		"createdeco:cracked_red_bricks_slab",
-		"createdeco:cracked_red_brick_tiles_slab",
-		"createdeco:cracked_red_long_bricks_slab",
-		"createdeco:cracked_red_short_bricks_slab",
-		"createdeco:mossy_red_bricks_slab",
-		"createdeco:mossy_red_brick_tiles_slab",
-		"createdeco:mossy_red_long_bricks_slab",
-		"createdeco:mossy_red_short_bricks_slab",
-		"createdeco:pearl_bricks_slab",
-		"createdeco:pearl_brick_tiles_slab",
-		"createdeco:pearl_long_bricks_slab",
-		"createdeco:pearl_short_bricks_slab",
-		"createdeco:cracked_pearl_bricks_slab",
-		"createdeco:cracked_pearl_brick_tiles_slab",
-		"createdeco:cracked_pearl_long_bricks_slab",
-		"createdeco:cracked_pearl_short_bricks_slab",
-		"createdeco:mossy_pearl_bricks_slab",
-		"createdeco:mossy_pearl_brick_tiles_slab",
-		"createdeco:mossy_pearl_long_bricks_slab",
-		"createdeco:mossy_pearl_short_bricks_slab",
-		"createdeco:cracked_mossy_pearl_bricks_slab",
-		"createdeco:cracked_mossy_pearl_brick_tiles_slab",
-		"createdeco:cracked_mossy_pearl_long_bricks_slab",
-		"createdeco:cracked_mossy_pearl_short_bricks_slab",
-		"createdeco:scarlet_bricks_slab",
-		"createdeco:worn_brick_tiles_slab",
-		"createdeco:scarlet_long_bricks_slab",
-		"createdeco:scarlet_short_bricks_slab",
-		"createdeco:cracked_scarlet_bricks_slab",
-		"createdeco:cracked_scarlet_brick_tiles_slab",
-		"createdeco:cracked_scarlet_long_bricks_slab",
-		"createdeco:cracked_scarlet_short_bricks_slab",
-		"createdeco:mossy_scarlet_bricks_slab",
-		"createdeco:mossy_scarlet_brick_tiles_slab",
-		"createdeco:mossy_scarlet_long_bricks_slab",
-		"createdeco:mossy_scarlet_short_bricks_slab",
-		"createdeco:dusk_bricks_slab",
-		"createdeco:worn_brick_tiles_slab",
-		"createdeco:dusk_long_bricks_slab",
-		"createdeco:dusk_short_bricks_slab",
-		"createdeco:cracked_dusk_bricks_slab",
-		"createdeco:cracked_dusk_brick_tiles_slab",
-		"createdeco:cracked_dusk_long_bricks_slab",
-		"createdeco:cracked_dusk_short_bricks_slab",
-		"createdeco:mossy_dusk_bricks_slab",
-		"createdeco:mossy_dusk_brick_tiles_slab",
-		"createdeco:mossy_dusk_long_bricks_slab",
-		"createdeco:mossy_dusk_short_bricks_slab",
-		"createdeco:blue_bricks_slab",
-		"createdeco:worn_brick_tiles_slab",
-		"createdeco:blue_long_bricks_slab",
-		"createdeco:blue_short_bricks_slab",
-		"createdeco:cracked_blue_bricks_slab",
-		"createdeco:cracked_blue_brick_tiles_slab",
-		"createdeco:cracked_blue_long_bricks_slab",
-		"createdeco:cracked_blue_short_bricks_slab",
-		"createdeco:mossy_blue_bricks_slab",
-		"createdeco:mossy_blue_brick_tiles_slab",
-		"createdeco:mossy_blue_long_bricks_slab",
-		"createdeco:mossy_blue_short_bricks_slab",
-		"createdeco:dean_bricks_slab",
-		"createdeco:worn_brick_tiles_slab",
-		"createdeco:dean_long_bricks_slab",
-		"createdeco:dean_short_bricks_slab",
-		"createdeco:cracked_dean_bricks_slab",
-		"createdeco:cracked_dean_brick_tiles_slab",
-		"createdeco:cracked_dean_long_bricks_slab",
-		"createdeco:cracked_dean_short_bricks_slab",
-		"createdeco:mossy_dean_bricks_slab",
-		"createdeco:mossy_dean_brick_tiles_slab",
-		"createdeco:mossy_dean_long_bricks_slab",
-		"createdeco:mossy_dean_short_bricks_slab"
+		"minecraft:brick_slab",
+		{
+			"id": "createdeco:worn_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:worn_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:worn_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:worn_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_worn_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_worn_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_worn_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_worn_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_worn_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_worn_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_worn_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_worn_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:red_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:red_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:red_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:red_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_red_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_red_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_red_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_red_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_red_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_red_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_red_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_red_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:pearl_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:pearl_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:pearl_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:pearl_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_pearl_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_pearl_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_pearl_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_pearl_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_pearl_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_pearl_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_pearl_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_pearl_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_mossy_pearl_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_mossy_pearl_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_mossy_pearl_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_mossy_pearl_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:scarlet_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:scarlet_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:scarlet_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:scarlet_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_scarlet_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_scarlet_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_scarlet_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_scarlet_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_scarlet_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_scarlet_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_scarlet_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_scarlet_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:dusk_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:dusk_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:dusk_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:dusk_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dusk_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dusk_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dusk_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dusk_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dusk_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dusk_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dusk_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dusk_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:blue_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:blue_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:blue_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:blue_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_blue_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_blue_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_blue_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_blue_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_blue_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_blue_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_blue_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_blue_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:dean_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:dean_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:dean_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:dean_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dean_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dean_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dean_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dean_short_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dean_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dean_brick_tiles_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dean_long_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dean_short_bricks_slab",
+			"required": false
+		}
 	]
 }

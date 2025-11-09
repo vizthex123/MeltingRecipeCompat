@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "nourished_nether"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "nourished_nether:obsidian_stairs"
+		},
+		{
+			"item": "nourished_nether:obsidian_brick_stairs"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 1500
+	},
+	"temperature": 1000,
+	"time": 96
+}

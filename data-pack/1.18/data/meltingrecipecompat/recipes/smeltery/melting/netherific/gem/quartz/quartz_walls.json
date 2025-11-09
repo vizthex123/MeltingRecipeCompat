@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "nourished_nether"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "nourished_nether:quartz_wall"
+		},
+		{
+			"item": "nourished_nether:smooth_quartz_wall"
+		},
+		{
+			"item": "nourished_nether:quartz_brick_wall"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 400
+	},
+	"temperature": 637,
+	"time": 96
+}

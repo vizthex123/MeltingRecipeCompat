@@ -1,13 +1,10 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "createdeco"
-		}
-	],
 	"replace": false,
 	"values": [
 		"#meltingrecipecompat:brick/slabs",
-		"#meltingrecipecompat:brick/vertical_slabs"
+		{
+			"id": "#meltingrecipecompat:brick/vertical_slabs",
+			"required": false
+		}
 	]
 }

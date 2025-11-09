@@ -10,11 +10,14 @@
 | [Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics)																				|✔			|			    |			    |2.2							|				|
 | [AE2 Things](https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge)																										|✔			|			    |			    |2.2							|				|
 | [Aquamirae](https://www.curseforge.com/minecraft/mc-mods/aquamirae)																												|✔			|			    |			    |2.2							|				|
+| [Biome Makeover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover)																							|✔			|			    |			    |2.3							|				|
 | [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)																							|✔			|			    |			    |2.2							|				|
 | [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)																											|✔			|			    |			    |2.0							|				|
 | [BluePower](https://www.curseforge.com/minecraft/mc-mods/blue-power)																												|✔			|			    |			    |2.2							|				|
-| [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)																															|✔			|			    |			    |2.2							|				|
+| [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)																															|✔			|			    |			    |2.2							|Requires [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations) for most recipes.|
 | [Bygone Nether](https://www.curseforge.com/minecraft/mc-mods/bygone-nether)																									|✔			|			    |			    |2.1							|				|
+| [Ceramic Bucket](https://www.curseforge.com/minecraft/mc-mods/ceramic-bucket)																								|✔			|			    |			    |2.3							|				|
+| [Ceramic Shears](https://www.curseforge.com/minecraft/mc-mods/ceramic-shears)																								|✔			|			    |			    |2.3							|				|
 | [ChickenChunks 1.8+](https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8)																				|✔			|			    |			    |2.0							|				|
 | [Clayworks](https://www.curseforge.com/minecraft/mc-mods/clayworks)																													|✔			|			    |			    |2.2							|				|
 | [Cognition](https://www.curseforge.com/minecraft/mc-mods/cognition-mod)																											|✔			|			    |			    |2.2							|				|
@@ -27,6 +30,7 @@
 | [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco)											 																|✔			|				|				|									|				|
 | [Create: Enchantment Industry](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry)											|✔			|				|				|									|				|
 | [Deep Resonance](https://www.curseforge.com/minecraft/mc-mods/deep-resonance)																							|✔			|			    |			    |2.2							|				|
+| [Ender Magnet](https://www.curseforge.com/minecraft/mc-mods/ender-magnet)																									|✔			|			    |			    |2.3							|				|
 | [Ender Quarry Plus](https://www.curseforge.com/minecraft/mc-mods/ender-quarry-plus)																						|✔			|			    |			    |2.2							|				|
 | [EnderStorage 1.8+](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)																					|✔			|			    |				|2.0							|				|
 | [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy)																						|✔			|			    |			    |2.2							|				|
@@ -41,22 +45,23 @@
 | [Iron Bookshelves](https://www.curseforge.com/minecraft/mc-mods/iron-bookshelves)																							|✔			|			    |			    |2.2							|				|
 | [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)																												|✔			|			    |			    |2.2							|				|
 | [Iron Chests: Restocked](https://www.curseforge.com/minecraft/mc-mods/ironchests)																							|✔			|			    |			    |2.2							|				|
-| [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks)																										|✔			|			    |			    |2.2							|Only has partial support since I can't use NBT data in melting recipes|
+| [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks)																										|✔			|			    |			    |2.2							|Only supports the Coils and Jetpacks since I can't use NBT data in melting recipes|
 | [Lightman's Currency](https://www.curseforge.com/minecraft/mc-mods/lightmans-currency)																				|✔			|				|				|									|				|
 | [Lightman's Currency Tech](https://www.curseforge.com/minecraft/mc-mods/lc-tech)																							|✔			|				|				|									|				|
 | [Long Fall Boots](https://www.curseforge.com/minecraft/mc-mods/long-fall-boots)																									|✔			|				|			    |1.0.1						|				|
 | [ME Requester](https://www.curseforge.com/minecraft/mc-mods/me-requester)																										|✔			|			    |			    |2.2							|				|
 | [Malum](https://www.curseforge.com/minecraft/mc-mods/malum)																																|✔			|			    |			    |2.2							|				|
 | [Measurements](https://www.curseforge.com/minecraft/mc-mods/measurements)																								|✔			|				|			    |1.0.1						|				|
+| [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)																													|✔			|			    |			    |2.2							|				|
 | [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)																				|✔			|			    |			    |2.2							|				|
 | [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)																		|✔			|			    |			    |2.2							|				|
 | [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)																								|✔			|			    |			    |2.2							|				|
-| [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)																													|✔			|			    |			    |2.2							|				|
+| [Mekanism Advanced Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-advancedgenerators)											|✔			|			    |			    |2.3							|				|
 | [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)																										|✔			|			    |			    |2.2							|				|
 | [Neapolitan](https://www.curseforge.com/minecraft/mc-mods/neapolitan)																												|✔			|			    |			    |2.2							|				|
 | [Netherific](https://www.curseforge.com/minecraft/mc-mods/netherific)																													|✔			|			    |			    |2.2							|				|
 | [Obscuria's Essentials (Legacy)](https://www.curseforge.com/minecraft/mc-mods/ob-core)																					|✔			|				|				|									|				|
-| [Oh the Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)																|✔			|			    |			    |2.1							|				|
+| [Oh the Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)																|✔			|			    |			    |2.1							|Requires [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations) for most recipes.|
 | [Only Paxel](https://www.curseforge.com/minecraft/mc-mods/only-paxel)																													|✔			|			    |			    |2.1							|				|
 | [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)																			|✔			|				|				|									|				|
 | [Portality](https://www.curseforge.com/minecraft/mc-mods/portality)																														|✔			|			    |			    |2.2							|				|
@@ -68,7 +73,7 @@
 | [Scannable](https://www.curseforge.com/minecraft/mc-mods/scannable)																													|✔			|			    |			    |2.2							|				|
 | [Simple Paxels](https://www.curseforge.com/minecraft/mc-mods/simple-paxels)																										|✔			|			    |			    |2.1							|				|
 | [Simple Quarry](https://www.curseforge.com/minecraft/mc-mods/simple-quarry)																									|✔			|			    |			    |2.2							|				|
-| [Simply Jetpacks](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks)																								|✔			|			    |			    |2.2							|				|
+| [Simply Jetpacks](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2)																							|✔			|			    |			    |2.2							|				|
 | [Solar Cooker](https://www.curseforge.com/minecraft/mc-mods/solar-cooker)																											|✔			|			    |			    |2.2							|				|
 | [Solar Flux Reborn](https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn)																							|✔			|			    |			    |2.2							|				|
 | [Staff of Travelling](https://www.curseforge.com/minecraft/mc-mods/staff-of-traveling)																						|✔			|			    |			    |2.2							|				|
@@ -79,6 +84,7 @@
 | [RFTools Power](https://www.curseforge.com/minecraft/mc-mods/rftools-power)																									|✔			|			    |			    |2.2							|				|
 | [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage)																								|✔			|			    |			    |2.2							|				|
 | [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)																										|✔			|			    |			    |2.2							|				|
+| [Tesseract](https://www.curseforge.com/minecraft/mc-mods/tesseract)																														|✔			|			    |			    |2.3							|				|
 | [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)         																			|✔			|			    |			    |									|				|
 | [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)																				|✔			|			    |			    |2.2							|				|
 | [Thermal Dynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics)																					|✔			|			    |			    |2.2							|				|

@@ -1,13 +1,7 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "createdeco"
-		}
-	],
 	"type": "tconstruct:melting",
-	"ingredient": {
-		"tag": "meltingrecipecompat:bricks"
+	"ingredient":  {
+		"tag": "meltingrecipecompat:brickocotta"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_clay",

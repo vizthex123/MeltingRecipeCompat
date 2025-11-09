@@ -2,23 +2,27 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "hostilenetworks"
+			"modid": "solarpanels"
 		}
 	],
 	"type": "tconstruct:melting",
 	"ingredient": {
-		"item": "hostilenetworks:blank_data_model"
+		"item": "solarpanels:improved_energy_tablet"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_gold",
-		"amount": 90
+		"amount": 450
 	},
 	"byproducts": [
 		{
-			"fluid": "tconstruct:molten_clay",
+			"fluid": "tconstruct:molten_iron",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
 			"amount": 400
 		}
 	],
 	"temperature": 700,
-	"time": 60
+	"time": 72
 }

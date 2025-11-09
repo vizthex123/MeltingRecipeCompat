@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "solarpanels"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "solarpanels:improved_hybrid_solar_element"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 750
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 300
+		}
+	],
+	"temperature": 750,
+	"time": 76
+}

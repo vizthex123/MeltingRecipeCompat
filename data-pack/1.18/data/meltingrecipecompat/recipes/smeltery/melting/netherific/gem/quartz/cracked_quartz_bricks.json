@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "nourished_nether"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "nourished_nether:cracked_quartz_bricks"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 400
+	},
+	"temperature": 637,
+	"time": 108
+}

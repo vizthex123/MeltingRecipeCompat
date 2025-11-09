@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "nourished_nether"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "nourished_nether:obsidian_slab"
+		},
+		{
+			"item": "nourished_nether:obsidian_brick_slab"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 500
+	},
+	"temperature": 1000,
+	"time": 80
+}

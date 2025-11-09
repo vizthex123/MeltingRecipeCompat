@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"#meltingrecipecompat:brick_slabs",
+		"#meltingrecipecompat:terracotta_slabs"
+	]
+}

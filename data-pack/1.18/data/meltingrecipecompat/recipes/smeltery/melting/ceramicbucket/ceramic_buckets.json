@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ceramicbucket"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "ceramicbucket:unfired_clay_bucket"
+		},
+		{
+			"item": "ceramicbucket:ceramic_bucket"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 750
+	},
+	"temperature": 450,
+	"time": 28
+}

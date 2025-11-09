@@ -10,6 +10,27 @@ Lines appended with a version in brackets (e.g. Text Here [1.19]) denote changes
 
 --------------------------------------------------
 
+# v2.3
+
+All Brick melting recipes now use my custom tags (can't believe I forgot this in the previous release lol)
+- This allows much better mod compatibility in the future, as well as removing duplicate recipes (e.g. Quark's vertical brick slab being separate from the regular slab recipes)
+
+Fixed a few bricks from Create Deco not having tags added to them<br />
+Fixed the Model Framework not giving Clay like it should *[Hostile Neural Networks]*<br />
+Updated support for Netherific since I forgot most of the Obsidian stuff and all of the Quartz stuff lol
+
+Added support for the following mods:
+- Biome Makeover
+- Ceramic Bucket
+- Ceramic Shears
+- Ender Magnet
+- Mekanism Advanced Generators / Mekanism-MoreSolarPanels
+- Tesseract
+
+
+<br /> <br />
+
+--------------------------------------------------
 # v2.2
 
 Added Steam as a Smeltery fuel<br />

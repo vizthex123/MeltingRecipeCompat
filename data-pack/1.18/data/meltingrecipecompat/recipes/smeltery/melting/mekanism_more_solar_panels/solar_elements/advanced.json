@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "solarpanels"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "solarpanels:light_absorbing_solar_element"
+		},
+		{
+			"item": "solarpanels:photonic_solar_element"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 750
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_uranium",
+			"amount": 270
+		}
+	],
+	"temperature": 750,
+	"time": 88
+}

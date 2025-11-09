@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "biomemakeover"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "biomemakeover:poltergeist"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 630
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:liquid_soul",
+			"amount": 1000
+		}
+	],
+	"temperature": 800,
+	"time": 160
+}

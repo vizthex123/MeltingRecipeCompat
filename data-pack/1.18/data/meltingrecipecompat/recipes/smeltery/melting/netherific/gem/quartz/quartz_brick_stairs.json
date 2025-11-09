@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "nourished_nether"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "nourished_nether:quartz_brick_stairs"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 600
+	},
+	"temperature": 637,
+	"time": 104
+}
