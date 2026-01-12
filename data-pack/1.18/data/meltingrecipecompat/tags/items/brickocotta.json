@@ -1,7 +1,21 @@
 {
 	"replace": false,
 	"values": [
-		"#meltingrecipecompat:bricks",
-		"#meltingrecipecompat:terracotta"
+		{
+			"id": "#meltingrecipecompat:bricks",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:terracotta",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:terracotta/shingles",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:terracotta/shingle_stairs",
+			"required": false
+		}
 	]
 }

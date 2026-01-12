@@ -1,27 +1,141 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "clayworks"
-		}
-	],
 	"replace": false,
 	"values": [
-		"clayworks:terracotta_bricks",
-		"clayworks:white_terracotta_bricks",
-		"clayworks:orange_terracotta_bricks",
-		"clayworks:magenta_terracotta_bricks",
-		"clayworks:yellow_terracotta_bricks",
-		"clayworks:blue_terracotta_bricks",
-		"clayworks:light_blue_terracotta_bricks",
-		"clayworks:lime_terracotta_bricks",
-		"clayworks:pink_terracotta_bricks",
-		"clayworks:gray_terracotta_bricks",
-		"clayworks:light_gray_terracotta_bricks",
-		"clayworks:purple_terracotta_bricks",
-		"clayworks:brown_terracotta_bricks",
-		"clayworks:green_terracotta_bricks",
-		"clayworks:red_terracotta_bricks",
-		"clayworks:black_terracotta_bricks"
+		{
+			"id": "biomemakeover:terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:white_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:orange_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:magenta_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:yellow_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:blue_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:light_blue_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:lime_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:pink_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:gray_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:light_gray_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:cyan_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:purple_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:brown_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:green_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:red_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:black_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:white_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:orange_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:magenta_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:yellow_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:blue_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_blue_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:lime_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:pink_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:gray_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_gray_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:cyan_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:purple_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:brown_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:green_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:red_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:black_terracotta_bricks",
+			"required": false
+		}
 	]
 }

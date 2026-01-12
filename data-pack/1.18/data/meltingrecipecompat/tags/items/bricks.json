@@ -71,6 +71,10 @@
 			"required": false
 		},
 		{
+			"id": "clayworks:black_terracotta_bricks",
+			"required": false
+		},
+		{
 			"id": "createdeco:worn_bricks",
 			"required": false
 		},
@@ -422,7 +426,13 @@
 			"id": "createdeco:mossy_dean_short_bricks",
 			"required": false
 		},
-		"#meltingrecipecompat:brick/stairs",
-		"#meltingrecipecompat:brick/walls"
+		{
+			"id": "#meltingrecipecompat:brick/stairs",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:brick/walls",
+			"required": false
+		}
 	]
 }

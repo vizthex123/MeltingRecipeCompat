@@ -34,11 +34,29 @@
 		"minecraft:green_glazed_terracotta",
 		"minecraft:red_glazed_terracotta",
 		"minecraft:black_glazed_terracotta",
-		"#meltingrecipecompat:terracotta/stairs",
-		"#meltingrecipecompat:terracotta/walls",
-		"#meltingrecipecompat:terracotta/bricks",
-		"#meltingrecipecompat:terracotta/chiseled_bricks",
-		"#meltingrecipecompat:terracotta/brick_stairs",
-		"#meltingrecipecompat:terracotta/brick_walls"
+		{
+			"id": "#meltingrecipecompat:terracotta/stairs",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:terracotta/walls",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:terracotta/bricks",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:terracotta/chiseled_bricks",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:terracotta/brick_stairs",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:terracotta/brick_walls",
+			"required": false
+		}
 	]
 }

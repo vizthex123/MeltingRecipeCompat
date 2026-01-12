@@ -1,7 +1,21 @@
 {
 	"replace": false,
 	"values": [
-		"#meltingrecipecompat:brick_slabs",
-		"#meltingrecipecompat:terracotta_slabs"
+		{
+			"id": "#meltingrecipecompat:brick_slabs",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:terracotta_slabs",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:terracotta/shingle_slabs",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:terracotta/vertical_shingle_slabs",
+			"required": false
+		}
 	]
 }

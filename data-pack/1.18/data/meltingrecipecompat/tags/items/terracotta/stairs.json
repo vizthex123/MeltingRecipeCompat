@@ -1,27 +1,73 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "clayworks"
-		}
-	],
 	"replace": false,
 	"values": [
-		"clayworks:terracotta_stairs",
-		"clayworks:white_terracotta_stairs",
-		"clayworks:orange_terracotta_stairs",
-		"clayworks:magenta_terracotta_stairs",
-		"clayworks:yellow_terracotta_stairs",
-		"clayworks:blue_terracotta_stairs",
-		"clayworks:light_blue_terracotta_stairs",
-		"clayworks:lime_terracotta_stairs",
-		"clayworks:pink_terracotta_stairs",
-		"clayworks:gray_terracotta_stairs",
-		"clayworks:light_gray_terracotta_stairs",
-		"clayworks:purple_terracotta_stairs",
-		"clayworks:brown_terracotta_stairs",
-		"clayworks:green_terracotta_stairs",
-		"clayworks:red_terracotta_stairs",
-		"clayworks:black_terracotta_stairs"
+		{
+			"id": "clayworks:terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:white_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:orange_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:magenta_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:yellow_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:blue_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_blue_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:lime_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:pink_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:gray_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_gray_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:cyan_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:purple_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:brown_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:green_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:red_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:black_terracotta_stairs",
+			"required": false
+		}
 	]
 }

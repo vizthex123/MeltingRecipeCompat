@@ -10,6 +10,19 @@ Lines appended with a version in brackets (e.g. Text Here [1.19]) denote changes
 
 --------------------------------------------------
 
+## 1.4.2
+
+Fixed several clay melting recipes not loading in
+
+Added a melting recipe for Ceramics' Cisterns<br />
+Added support for Quark's Terracotta Shingle blocks<br />
+Fixed Cyan Terracotta bricks missing my custom tags *[Clayworks]*
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 1.4.1
 
 Removed Steam as a smeltery fuel<br />

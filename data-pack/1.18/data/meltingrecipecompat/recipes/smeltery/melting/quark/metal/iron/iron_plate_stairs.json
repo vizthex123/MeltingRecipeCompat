@@ -6,9 +6,14 @@
 		}
 	],
 	"type": "tconstruct:melting",
-	"ingredient": {
-		"item": "quark:iron_plate_stairs"
-	},
+	"ingredient": [
+		{
+			"item": "quark:iron_plate_stairs"
+		},
+		{
+			"item": "quark:rusty_iron_plate_stairs"
+		}
+	],
 	"result": {
 		"fluid": "tconstruct:molten_iron",
 		"amount": 45
