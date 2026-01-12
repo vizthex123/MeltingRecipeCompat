@@ -10,7 +10,17 @@ Lines appended with a version in brackets (e.g. Text Here [1.19]) denote changes
 
 --------------------------------------------------
 
-# v2.3
+## 1.4.1
+
+Removed Steam as a smeltery fuel<br />
+Added support for Storage Drawers
+
+
+<br /> <br />
+
+--------------------------------------------------
+
+## 1.4
 
 All Brick melting recipes now use my custom tags (can't believe I forgot this in the previous release lol)
 - This allows much better mod compatibility in the future, as well as removing duplicate recipes (e.g. Quark's vertical brick slab being separate from the regular slab recipes)
@@ -31,14 +41,15 @@ Added support for the following mods:
 <br /> <br />
 
 --------------------------------------------------
-# v2.2
+
+## 1.3
 
 Added Steam as a Smeltery fuel<br />
 Made my custom tags use the `required` field, that way all of them can load in properly
 
 Fixed Crying Obsidian and Respawn Anchors having the wrong melting temperature<br />
 Fixed Amethyst Throwing Daggers outputting Gold instead of Copper (and not working with the Tipped Variant) [Blood Magic]<br />
-Fixed Vertical Brick and Quartz Slabs not having melting recipes [Quark]<br />
+Fixed Vertical Brick and Quartz Slabs not having melting recipes *[Quark]*<br />
 Fixed some issues with XNet's connector recipes
 
 Updated Create Deco support with all the Brick Blocks I missed (even though that's like half of the mod lol)<br />
@@ -48,9 +59,9 @@ Removed several unecessary tags (recipes have been updated to use the standard i
 
 
 Corrected several melting temperatures<br />
-Reduced the melting temperature of Cast Iron to 800 (was 1,000) [Create Deco]<br />
-Separated the Prospector's Pick and Sword Billet recipes [Obscuria's Essentials]<br />
-Emeraldite and Pendorite ore now give bonus outputs based on configured smelting boost rates [Biomes You'll Go]
+Reduced the melting temperature of Cast Iron to 800 (was 1,000) *[Create Deco]*<br />
+Separated the Prospector's Pick and Sword Billet recipes *[Obscuria's Essentials]*<br />
+Emeraldite and Pendorite ore now give bonus outputs based on configured smelting boost rates *[Biomes You'll Go]*
 
 Added more recipes for some missing Blood Magic items<br />
 Added a few missing Twilight Forest recipes (including one to melt Fiery Vials into Fiery Essence)<br />
@@ -120,13 +131,14 @@ Added support for the following mods:
 <br /> <br />
 
 --------------------------------------------------
-# v2.1
+
+## 1.2
 
 Optimised a few recipes by combining them into a single entry
 - Also fixed the incorrect melting temperatures in several recipes
 
 Fixed all the melting times not using the proper time units
-- For some reason, the mod uses a 4:1 time ratio (e.g. 12 time equals 3 seconds for the item to melt) instead of the standard 20:1 (20 ticks per second)
+- For some reason, Tinkers uses a 4:1 time ratio (e.g. 12 time equals 3 seconds for the item to melt) instead of the standard 20:1 (20 ticks per second)
 
 Fixed Bygone Nether's Gilded Netherite recipes not loading in<br />
 Fixed the Obscuria's Essentials Paladin's Helmet using a Helmet instead<br />
@@ -149,7 +161,8 @@ Added support for the following mods:
 <br /> <br />
 
 --------------------------------------------------
-# v2.0
+
+## 1.1
 
 Overhauled file structure so it's easier to add recipes
 - This doesn't affect users, but is still worth noting
@@ -172,7 +185,8 @@ Added support for the following mods:
 <br /> <br />
 
 --------------------------------------------------
-# v1.0.2
+
+## 1.0.2
 
 Fixed the tag support recipe for Bricks not overriding the default one
 
@@ -180,7 +194,8 @@ Fixed the tag support recipe for Bricks not overriding the default one
 <br /> <br />
 
 --------------------------------------------------
-# v1.0.1
+
+## 1.0.1
 
 Fixed Create's windows (and panes) loading in when they shouldn't.
 
@@ -195,7 +210,8 @@ Mod support added:
 <br /> <br />
 
 --------------------------------------------------
-# v1.0
+
+## 1.0
 
 Initial release.
 

@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "storagedrawers"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "storagedrawers:gold_storage_upgrade"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 180
+	},
+	"temperature": 700,
+	"time": 64
+}

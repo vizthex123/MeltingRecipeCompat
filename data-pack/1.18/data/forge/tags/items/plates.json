@@ -8,8 +8,8 @@
 	"replace": false,
 	"values": [
 		{
-		"id": "bluepower:zincplate",
-		"required": false
+			"id": "bluepower:zincplate",
+			"required": false
 		}
 	]
 }
