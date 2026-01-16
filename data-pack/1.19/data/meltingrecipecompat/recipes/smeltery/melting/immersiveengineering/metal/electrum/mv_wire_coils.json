@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "immersiveengineering:wirecoil_electrum"
+		},
+		{
+			"item": "immersiveengineering:wirecoil_electrum_ins"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_electrum",
+		"amount": 45
+	},
+	"temperature": 760,
+	"time": 16
+}

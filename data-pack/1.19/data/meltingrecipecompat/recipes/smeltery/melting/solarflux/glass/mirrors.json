@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "solarflux"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "solarflux:mirror"
+		},
+		{
+			"item": "solarflux:blazing_coating"
+		},
+		{
+			"item": "solarflux:blank_upgrade"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 1000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 30
+		}
+	],
+	"temperature": 750,
+	"time": 48
+}

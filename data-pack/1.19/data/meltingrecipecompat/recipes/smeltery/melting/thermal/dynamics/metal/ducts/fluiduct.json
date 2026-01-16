@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:fluid_duct"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal:fluid_duct"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 45
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_lead",
+			"amount": 22
+		}
+	],
+	"temperature": 700,
+	"time": 48
+}

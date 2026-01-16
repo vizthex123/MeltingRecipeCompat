@@ -1,0 +1,33 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "create:birch_window_pane",
+			"required": false
+		},
+		{
+			"id": "create:oak_window_pane",
+			"required": false
+		},
+		{
+			"id": "create:dark_oak_window_pane",
+			"required": false
+		},
+		{
+			"id": "create:jungle_window_pane",
+			"required": false
+		},
+		{
+			"id": "create:spruce_window_pane",
+			"required": false
+		},
+		{
+			"id": "create:crimson_window_pane",
+			"required": false
+		},
+		{
+			"id": "create:warped_window_pane",
+			"required": false
+		}
+	]
+}

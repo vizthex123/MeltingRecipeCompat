@@ -1,0 +1,45 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "forestry:peat_bog_managed"
+		},
+		{
+			"item": "forestry:peat_bog_manual"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 4000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_tin",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_bronze",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_emerald",
+			"amount": 200
+		},
+		{
+			"fluid": "tconstruct:molten_obsidian",
+			"amount": 3750
+		},
+		{
+			"fluid": "tconstruct:earth_slime",
+			"amount": 500
+		}
+	],
+	"temperature": 750,
+	"time": 56
+}

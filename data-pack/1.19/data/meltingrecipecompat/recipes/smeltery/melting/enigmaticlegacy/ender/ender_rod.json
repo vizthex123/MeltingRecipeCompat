@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enigmaticlegacy"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enigmaticlegacy:ender_rod"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 125
+	},
+	"temperature": 477,
+	"time": 60
+}

@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enigmaticlegacy"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enigmaticlegacy:ender_ring"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 8000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 400
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 200
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 500
+		}
+	],
+	"temperature": 1000,
+	"time": 72
+}

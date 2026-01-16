@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderzoology"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enderzoology:ender_fragment"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 50
+	},
+	"temperature": 477,
+	"time": 12
+}

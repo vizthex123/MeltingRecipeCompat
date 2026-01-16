@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "biggerreactors"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "biggerreactors:reactor_access_port"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 450
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_uranium",
+			"amount": 90
+		}
+	],
+	"temperature": 800,
+	"time": 60
+}

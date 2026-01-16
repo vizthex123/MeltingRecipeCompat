@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "industrialforegoing"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "industrialforegoing:efficiency_addon_1"
+		},
+		{
+			"item": "industrialforegoing:processing_addon_1"
+		},
+		{
+			"item": "industrialforegoing:speed_addon_1"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 500
+		}
+	],
+	"temperature": 700,
+	"time": 36
+}

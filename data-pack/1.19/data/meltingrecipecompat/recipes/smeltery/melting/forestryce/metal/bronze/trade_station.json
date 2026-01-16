@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "forestry:trade_station"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 1060
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 500
+		}
+	],
+	"temperature": 700,
+	"time": 60
+}

@@ -1,0 +1,48 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "botania:travel_belt"
+		},
+		{
+			"item": "botania:super_travel_belt"
+		},
+		{
+			"item": "botania:speed_up_belt"
+		},
+		{
+			"item": "botania:knockback_belt"
+		},
+		{
+			"item": "botania:ice_pendant"
+		},
+		{
+			"item": "botania:lava_pendant"
+		},
+		{
+			"item": "botania:super_lava_pendant"
+		},
+		{
+			"item": "botania:cloud_pendant"
+		},
+		{
+			"item": "botania:super_cloud_pendant"
+		}
+	],
+	"result": {
+		"fluid": "tcintegrations:manasteel",
+		"amount": 90
+	},
+	"temperature": 950,
+	"time": 60
+}

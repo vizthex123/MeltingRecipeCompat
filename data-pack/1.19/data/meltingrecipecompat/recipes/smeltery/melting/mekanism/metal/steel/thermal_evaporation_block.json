@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:thermal_evaporation_block"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 90
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 67
+		}
+	],
+	"temperature": 950,
+	"time": 66
+}

@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "forestry:bronze_shovel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 180,
+		"unit_size": 10
+	},
+	"temperature": 700,
+	"time": 40
+}

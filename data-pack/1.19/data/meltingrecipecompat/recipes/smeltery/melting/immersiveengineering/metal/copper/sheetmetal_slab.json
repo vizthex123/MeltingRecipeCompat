@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "immersiveengineering:slab_sheetmetal_copper"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 45
+	},
+	"temperature": 500,
+	"time": 44
+}

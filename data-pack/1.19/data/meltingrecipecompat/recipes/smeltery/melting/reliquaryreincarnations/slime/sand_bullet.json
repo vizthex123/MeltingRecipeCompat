@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "reliquary"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "reliquary:bullets/sand_bullet"
+	},
+	"result": {
+		"fluid": "tconstruct:earth_slime",
+		"amount": 31
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 1
+		}
+	],
+	"temperature": 50,
+	"time": 4
+}

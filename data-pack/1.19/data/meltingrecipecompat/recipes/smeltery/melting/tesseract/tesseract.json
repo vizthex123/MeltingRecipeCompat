@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tesseract"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "tesseract:tesseract"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 4000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 1000
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 900
+		}
+	],
+	"temperature": 1000,
+	"time": 140
+}

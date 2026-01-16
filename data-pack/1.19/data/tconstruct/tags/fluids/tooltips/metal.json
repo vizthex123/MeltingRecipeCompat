@@ -1,0 +1,14 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"replace": false,
+	"values": [
+		"thermal_extra:soul_infused",
+		"thermal_extra:shellite",
+		"thermal_extra:twinite"
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "forestry:circuit_board_basic"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_tin",
+		"amount": 90
+	},
+	"temperature": 225,
+	"time": 40
+}

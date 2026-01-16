@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "simplyjetpacks"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "simplyjetpacks:thruster_te3"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_electrum",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_invar",
+			"amount": 540
+		}
+	],
+	"temperature": 760,
+	"time": 50
+}

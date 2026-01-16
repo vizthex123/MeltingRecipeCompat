@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderzoology"
+		}
+	],
+	"type": "tconstruct:casting_table",
+	"cast": {
+		"tag": "tconstruct:casts/single_use/nugget"
+	},
+	"fluid": {
+		"tag": "tconstruct:molten_ender",
+		"amount": 50
+	},
+	"result": "enderzoology:ender_fragment",
+	"cooling_time": 50
+}

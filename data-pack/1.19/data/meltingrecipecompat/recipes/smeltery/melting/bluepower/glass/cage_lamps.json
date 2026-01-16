@@ -1,0 +1,119 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bluepower"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "bluepower:cagelamp_white"
+		},
+		{
+			"item": "bluepower:cagelamp_orange"
+		},
+		{
+			"item": "bluepower:cagelamp_magenta"
+		},
+		{
+			"item": "bluepower:cagelamp_blue"
+		},
+		{
+			"item": "bluepower:cagelamp_light_blue"
+		},
+		{
+			"item": "bluepower:cagelamp_yellow"
+		},
+		{
+			"item": "bluepower:cagelamp_lime"
+		},
+		{
+			"item": "bluepower:cagelamp_green"
+		},
+		{
+			"item": "bluepower:cagelamp_pink"
+		},
+		{
+			"item": "bluepower:cagelamp_gray"
+		},
+		{
+			"item": "bluepower:cagelamp_light_gray"
+		},
+		{
+			"item": "bluepower:cagelamp_cyan"
+		},
+		{
+			"item": "bluepower:cagelamp_purple"
+		},
+		{
+			"item": "bluepower:cagelamp_brown"
+		},
+		{
+			"item": "bluepower:cagelamp_red"
+		},
+		{
+			"item": "bluepower:cagelamp_black"
+		},
+		{
+			"item": "bluepower:cagelampinverted_white"
+		},
+		{
+			"item": "bluepower:cagelampinverted_orange"
+		},
+		{
+			"item": "bluepower:cagelampinverted_magenta"
+		},
+		{
+			"item": "bluepower:cagelampinverted_blue"
+		},
+		{
+			"item": "bluepower:cagelampinverted_light_blue"
+		},
+		{
+			"item": "bluepower:cagelampinverted_yellow"
+		},
+		{
+			"item": "bluepower:cagelampinverted_lime"
+		},
+		{
+			"item": "bluepower:cagelampinverted_green"
+		},
+		{
+			"item": "bluepower:cagelampinverted_pink"
+		},
+		{
+			"item": "bluepower:cagelampinverted_gray"
+		},
+		{
+			"item": "bluepower:cagelampinverted_light_gray"
+		},
+		{
+			"item": "bluepower:cagelampinverted_cyan"
+		},
+		{
+			"item": "bluepower:cagelampinverted_purple"
+		},
+		{
+			"item": "bluepower:cagelampinverted_brown"
+		},
+		{
+			"item": "bluepower:cagelampinverted_red"
+		},
+		{
+			"item": "bluepower:cagelampinverted_black"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 500
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 60
+		}
+	],
+	"temperature": 750,
+	"time": 48
+}

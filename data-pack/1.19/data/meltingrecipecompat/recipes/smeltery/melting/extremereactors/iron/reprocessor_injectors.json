@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bigreactors"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "bigreactors:reprocessorfluidinjector"
+		},
+		{
+			"item": "bigreactors:reprocessorwasteinjector"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 1530
+	},
+	"temperature": 800,
+	"time": 32
+}

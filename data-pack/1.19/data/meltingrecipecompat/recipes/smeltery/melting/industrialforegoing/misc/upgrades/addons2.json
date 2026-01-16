@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "industrialforegoing"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "industrialforegoing:efficiency_addon_2"
+		},
+		{
+			"item": "industrialforegoing:processing_addon_2"
+		},
+		{
+			"item": "industrialforegoing:speed_addon_2"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 800
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 500
+		}
+	],
+	"temperature": 1450,
+	"time": 40
+}

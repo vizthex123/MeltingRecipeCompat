@@ -1,0 +1,40 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "laserio"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "laserio:filter_count"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 30
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 270
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 35
+		},
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 200
+		},
+		{
+			"fluid": "tconstruct:molten_clay",
+			"amount": 125
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 62
+		}
+	],
+	"temperature": 800,
+	"time": 32
+}

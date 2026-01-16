@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bluepower"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "bluepower:battery"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 180
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_zinc",
+			"amount": 90
+		}
+	],
+	"temperature": 500,
+	"time": 52
+}

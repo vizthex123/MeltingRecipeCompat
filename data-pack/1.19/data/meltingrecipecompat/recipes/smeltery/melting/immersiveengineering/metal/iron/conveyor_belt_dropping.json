@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "immersiveengineering:conveyor_dropper"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 382
+	},
+	"temperature": 800,
+	"time": 36
+}

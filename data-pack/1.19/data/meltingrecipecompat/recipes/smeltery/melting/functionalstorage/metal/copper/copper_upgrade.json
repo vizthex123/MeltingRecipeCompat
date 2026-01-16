@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "functionalstorage"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "functionalstorage:copper_upgrade"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 1980
+	},
+	"temperature": 500,
+	"time": 80
+}

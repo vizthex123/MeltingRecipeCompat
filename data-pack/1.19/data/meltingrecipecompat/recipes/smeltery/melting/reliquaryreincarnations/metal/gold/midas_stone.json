@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "reliquary"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "reliquary:midas_touchstone"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 1620
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 2790
+		}
+	],
+	"temperature": 700,
+	"time": 240
+}

@@ -10,9 +10,9 @@
 | [Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics)																				|✔			|✔			|			    |1.3							|				|
 | [AE2 Things](https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge)																										|✔			|✔			|			    |1.3							|				|
 | [Aquamirae](https://www.curseforge.com/minecraft/mc-mods/aquamirae)																												|✔			|✔			|			    |1.3							|				|
-| [Bag of Holding](https://www.curseforge.com/minecraft/mc-mods/bag-of-holding)																									|✔			|				|			    |1.5							|				|
-| [The Bag of Holding](https://modrinth.com/mod/the-bag-of-holding)																															|✔			|				|			    |1.5							|				|
-| [Bigger Reactors](https://www.curseforge.com/minecraft/mc-mods/biggerreactors)																								|✔			|				|			    |1.5							|				|
+| [Bag of Holding](https://www.curseforge.com/minecraft/mc-mods/bag-of-holding)																									|✔			|✔			|			    |1.5							|				|
+| [The Bag of Holding](https://modrinth.com/mod/the-bag-of-holding)																															|✔			|✔			|			    |1.5							|				|
+| [Bigger Reactors](https://www.curseforge.com/minecraft/mc-mods/biggerreactors)																								|✔			|✔			|			    |1.5							|				|
 | [Biome Makeover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover)																							|✔			|✔			|			    |1.4							|				|
 | [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)																							|✔			|✔			|			    |1.3							|				|
 | [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)																											|✔			|✔			|				|1.1							|				|
@@ -28,13 +28,14 @@
 | [Colds: Easy Paxel Lite](https://www.curseforge.com/minecraft/mc-mods/colds-easy-paxel-lite)																			|✔			|✔			|			    |1.2							|				|
 | [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)																	|✔			|✔			|			    |1.3							|				|
 | [Create](https://www.curseforge.com/minecraft/mc-mods/create)																																|✔			|✔			|				|									|				|
-| [Create: Applied Kinetics](https://www.curseforge.com/minecraft/mc-mods/create-applied-kinetics)																	|✔			|✔			|			    |1.3							|				|
 | [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition) 																				|✔			|✔			|				|									|				|
 | [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco)											 																|✔			|✔			|				|									|				|
-| [Create: Diesel Generators](https://www.curseforge.com/minecraft/mc-mods/create-diesel-generators)															|✔			|				|			    |1.5							|				|
-| [Create: Enchantment Industry](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry)											|✔			|				|				|									|				|
-| [Create Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/create-ore-excavation)																		|✔			|				|			    |1.5							|				|
-| [Create Sifting](https://www.curseforge.com/minecraft/mc-mods/create-sifting)																										|✔			|				|			    |1.5							|				|
+| [Create: Applied Kinetics](https://www.curseforge.com/minecraft/mc-mods/create-applied-kinetics)																	|✔			|✔			|			    |1.3							|				|
+| [Create: Diesel Generators](https://www.curseforge.com/minecraft/mc-mods/create-diesel-generators)															|✔			|✔			|			    |1.5							|				|
+| [Create: Enchantment Industry](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry)											|✔			|✔			|				|									|				|
+| [Create: New Age](https://www.curseforge.com/minecraft/mc-mods/create-new-age)																							|				|✔			|			    |2.0							|				|
+| [Create Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/create-ore-excavation)																		|✔			|✔			|			    |1.5							|				|
+| [Create Sifting](https://www.curseforge.com/minecraft/mc-mods/create-sifting)																										|✔			|✔			|			    |1.5							|				|
 | [Deep Resonance](https://www.curseforge.com/minecraft/mc-mods/deep-resonance)																							|✔			|✔			|			    |1.3							|				|
 | [Ender Magnet](https://www.curseforge.com/minecraft/mc-mods/ender-magnet)																									|✔			|✔			|			    |1.4							|				|
 | [Ender Quarry Plus](https://www.curseforge.com/minecraft/mc-mods/ender-quarry-plus)																						|✔			|			    |			    |1.3							|				|
@@ -43,17 +44,20 @@
 | [Enlightend](https://www.curseforge.com/minecraft/mc-mods/enlightend)																												|✔			|			    |			    |1.3							|				|
 | [Essentials](https://www.curseforge.com/minecraft/mc-mods/essentials)																													|✔			|✔			|				|									|				|
 | [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting)																						|✔			|✔			|			    |1.3							|				|
+| [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)																						|✔			|✔			|			    |1.5							|				|
+| [Forestry: Community Edition](https://www.curseforge.com/minecraft/mc-mods/forestry-community-edition)												|				|✔			|			    |2.0							|				|
 | [FuelCanister](https://www.curseforge.com/minecraft/mc-mods/fuelcanister)																											|✔			|✔			|			    |1.0.1						|				|
+| [Fullblock Energistics](https://www.curseforge.com/minecraft/mc-mods/fullblock-energistics)																				|				|✔			|			    |2.0							|				|
 | [Functional Storage](https://www.curseforge.com/minecraft/mc-mods/functional-storage)																					|✔			|✔			|			    |1.3							|				|
 | [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)																|✔			|✔			|				|1.3							|Check out [Extra Data Models](https://www.curseforge.com/minecraft/data-packs/extra-data-models)! I spent a while making it.|
 | [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)																	|✔			|✔			|			    |1.3							|				|
-| [Intelligence: Quarry](https://www.curseforge.com/minecraft/mc-mods/quarry)																										|✔			|				|			    |1.5							|				|
+| [Intelligence: Quarry](https://www.curseforge.com/minecraft/mc-mods/quarry)																										|✔			|✔			|			    |1.5							|				|
 | [Iron Barrels](https://www.curseforge.com/minecraft/mc-mods/iron-barrels-forge)																									|✔			|✔			|			    |1.3							|				|
 | [Iron Bookshelves](https://www.curseforge.com/minecraft/mc-mods/iron-bookshelves)																							|✔			|✔			|			    |1.3							|				|
 | [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)																												|✔			|✔			|			    |1.3							|				|
 | [Iron Chests: Restocked](https://www.curseforge.com/minecraft/mc-mods/ironchests)																							|✔			|✔			|			    |1.3							|				|
 | [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks)																										|✔			|✔			|			    |1.3							|Only supports the Coils and Jetpacks since I can't use NBT data in melting recipes|
-| [LaserIO](https://www.curseforge.com/minecraft/mc-mods/laserio)																																|✔			|				|			    |1.5							|				|
+| [LaserIO](https://www.curseforge.com/minecraft/mc-mods/laserio)																																|✔			|✔			|			    |1.5							|				|
 | [Lightman's Currency](https://www.curseforge.com/minecraft/mc-mods/lightmans-currency)																				|✔			|✔			|				|									|				|
 | [Lightman's Currency Tech](https://www.curseforge.com/minecraft/mc-mods/lc-tech)																							|✔			|✔			|				|									|				|
 | [Long Fall Boots](https://www.curseforge.com/minecraft/mc-mods/long-fall-boots)																									|✔			|✔			|			    |1.0.1						|				|
@@ -100,6 +104,7 @@
 | [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)																					|✔			|✔			|			    |1.3							|				|
 | [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)																				|✔			|✔			|			    |1.3							|				|
 | [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation)																				|✔			|✔			|			    |1.3							|				|
+| [Thermal Endergy](https://www.curseforge.com/minecraft/mc-mods/thermal-endergy)																							|				|✔			|			    |2.0							|				|
 | [Thermal Extra](https://www.curseforge.com/minecraft/mc-mods/thermal-extra)																									|✔			|✔			|			    |1.3							|				|
 | [Thermal Systeams](https://www.curseforge.com/minecraft/mc-mods/thermal-systeams)																						|✔			|✔			|			    |1.3							|				|
 | [Travel Anchors](https://www.curseforge.com/minecraft/mc-mods/travel-anchors)																									|✔			|✔			|			    |1.3							|				|

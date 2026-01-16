@@ -1,0 +1,438 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:bricks",
+		{
+			"id": "clayworks:chiseled_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:white_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:orange_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:magenta_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:blue_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_blue_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:yellow_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:green_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:lime_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:pink_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:gray_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_gray_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:cyan_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:purple_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:brown_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:red_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "clayworks:black_terracotta_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:worn_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:worn_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:worn_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:worn_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_worn_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_worn_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_worn_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_worn_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_worn_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_worn_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_worn_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_worn_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:red_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:red_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:red_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:red_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_red_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_red_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_red_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_red_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_red_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_red_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_red_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_red_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:pearl_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:pearl_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:pearl_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:pearl_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_pearl_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_pearl_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_pearl_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_pearl_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_pearl_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_pearl_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_pearl_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_pearl_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_mossy_pearl_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_mossy_pearl_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_mossy_pearl_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_mossy_pearl_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:scarlet_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:scarlet_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:scarlet_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:scarlet_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_scarlet_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_scarlet_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_scarlet_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_scarlet_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_scarlet_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_scarlet_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_scarlet_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_scarlet_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:dusk_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:dusk_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:dusk_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:dusk_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dusk_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dusk_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dusk_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dusk_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dusk_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dusk_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dusk_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dusk_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:blue_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:blue_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:blue_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:blue_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_blue_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_blue_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_blue_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_blue_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_blue_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_blue_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_blue_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_blue_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:dean_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:dean_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:dean_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:dean_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dean_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dean_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dean_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_dean_short_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dean_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dean_brick_tiles",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dean_long_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_dean_short_bricks",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:brick/stairs",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:brick/walls",
+			"required": false
+		}
+	]
+}

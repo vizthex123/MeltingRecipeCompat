@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "#meltingrecipecompat:brick/slabs",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:brick/vertical_slabs",
+			"required": false
+		}
+	]
+}

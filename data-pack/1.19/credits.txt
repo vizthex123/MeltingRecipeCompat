@@ -1,0 +1,14 @@
+Pack created by vizthex.
+
+https://www.curseforge.com/members/vizthex/projects
+
+https://modrinth.com/user/vizthex
+
+
+
+Forge docs for the fancy loading conditions everything uses.
+
+Tinkers' Construct devs (and mDiyo, its original creator).
+- Also the SlimeKnights documentation website since I reffered to it a few times during development of v2.2
+
+Devs of all the mods I added support for.

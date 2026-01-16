@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "laserio"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "laserio:card_item"
+		},
+		{
+			"item": "laserio:card_energy"
+		},
+		{
+			"item": "laserio:card_redstone"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 300
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_clay",
+			"amount": 125
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 35
+		}
+	],
+	"temperature": 637,
+	"time": 36
+}

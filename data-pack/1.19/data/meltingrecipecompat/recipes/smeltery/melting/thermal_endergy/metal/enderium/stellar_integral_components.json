@@ -1,0 +1,56 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermalendergy"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermalendergy:endergy_upgrade_3"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_enderium",
+		"amount": 1080
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_electrum",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_invar",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_lumium",
+			"amount": 720
+		},
+		{
+			"fluid": "tconstruct:molten_signalum",
+			"amount": 720
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 200
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 2000
+		},
+		{
+			"fluid": "tconstruct:molten_clay",
+			"amount": 500
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 500
+		}
+	],
+	"temperature": 1350,
+	"time": 100
+}

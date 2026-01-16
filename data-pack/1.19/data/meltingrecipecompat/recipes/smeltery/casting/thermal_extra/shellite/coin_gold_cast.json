@@ -1,0 +1,20 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:casting_table",
+	"cast": {
+		"tag": "tconstruct:casts/multi_use/coin"
+	},
+	"fluid": {
+		"tag": "forge:molten_shellite",
+		"amount": 30
+	},
+	"result": {
+		"tag": "forge:coins/shellite"
+	},
+	"cooling_time": 40
+}

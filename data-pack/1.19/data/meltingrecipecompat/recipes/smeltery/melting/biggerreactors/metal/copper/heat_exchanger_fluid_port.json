@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "biggerreactors"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "biggerreactors:heat_exchanger_fluid_port"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 900
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 720
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 200
+		}
+	],
+	"temperature": 500,
+	"time": 60
+}

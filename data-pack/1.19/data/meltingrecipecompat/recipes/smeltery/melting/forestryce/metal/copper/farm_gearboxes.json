@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "forestry:farm_gearbox_stone_brick"
+		},
+		{
+			"item": "forestry:farm_gearbox_mossy_stone_brick"
+		},
+		{
+			"item": "forestry:farm_gearbox_cracked_stone_brick"
+		},
+		{
+			"item": "forestry:farm_gearbox_brick_chiseled"
+		},
+		{
+			"item": "forestry:farm_gearbox_cut_sandstone"
+		},
+		{
+			"item": "forestry:farm_gearbox_sandstone_chiseled"
+		},
+		{
+			"item": "forestry:farm_gearbox_brick_nether"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 180
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_tin",
+			"amount": 112
+		}
+	],
+	"temperature": 500,
+	"time": 40
+}

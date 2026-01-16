@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "immersiveengineering:wooden_grip"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 10
+	},
+	"temperature": 500,
+	"time": 20
+}

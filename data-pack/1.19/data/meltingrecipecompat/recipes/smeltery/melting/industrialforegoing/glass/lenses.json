@@ -1,0 +1,65 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "industrialforegoing"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "industrialforegoing:laser_lens0"
+		},
+		{
+			"item": "industrialforegoing:laser_lens1"
+		},
+		{
+			"item": "industrialforegoing:laser_lens2"
+		},
+		{
+			"item": "industrialforegoing:laser_lens3"
+		},
+		{
+			"item": "industrialforegoing:laser_lens4"
+		},
+		{
+			"item": "industrialforegoing:laser_lens5"
+		},
+		{
+			"item": "industrialforegoing:laser_lens6"
+		},
+		{
+			"item": "industrialforegoing:laser_lens7"
+		},
+		{
+			"item": "industrialforegoing:laser_lens8"
+		},
+		{
+			"item": "industrialforegoing:laser_lens9"
+		},
+		{
+			"item": "industrialforegoing:laser_lens10"
+		},
+		{
+			"item": "industrialforegoing:laser_lens11"
+		},
+		{
+			"item": "industrialforegoing:laser_lens12"
+		},
+		{
+			"item": "industrialforegoing:laser_lens13"
+		},
+		{
+			"item": "industrialforegoing:laser_lens14"
+		},
+		{
+			"item": "industrialforegoing:laser_lens15"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 1000
+	},
+	"temperature": 750,
+	"time": 28
+}

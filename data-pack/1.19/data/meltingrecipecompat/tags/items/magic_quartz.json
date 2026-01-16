@@ -1,0 +1,33 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "botania:quartz_blaze",
+			"required": false
+		},
+		{
+			"id": "botania:quartz_dark",
+			"required": false
+		},
+		{
+			"id": "botania:quartz_elven",
+			"required": false
+		},
+		{
+			"id": "botania:quartz_lavender",
+			"required": false
+		},
+		{
+			"id": "botania:quartz_mana",
+			"required": false
+		},
+		{
+			"id": "botania:quartz_red",
+			"required": false
+		},
+		{
+			"id": "botania:quartz_sunny",
+			"required": false
+		}
+	]
+}

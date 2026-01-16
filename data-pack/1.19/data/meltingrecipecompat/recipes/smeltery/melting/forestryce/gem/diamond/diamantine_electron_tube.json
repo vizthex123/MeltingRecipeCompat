@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "forestry:electron_tube_diamond"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 125
+	},
+	"temperature": 1450,
+	"time": 32
+}

@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "forestry:electron_tube_copper"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 112
+	},
+	"temperature": 500,
+	"time": 32
+}

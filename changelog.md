@@ -10,6 +10,23 @@ Lines appended with a version in brackets (e.g. Text Here [1.19]) denote changes
 
 --------------------------------------------------
 
+## 2.0
+
+Ported to 1.19.2
+
+Added a recipe to cast (and melt) Ender Fragments if Ender Zoology is installed
+
+Mod support added:
+- Create: New Age
+- Forestry: Community Edition
+- Fullblock Energistics
+- Thermal Endergy
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 1.5
 
 Updated all tag files to use the `required` field since conditions don't work on them<br />
@@ -21,6 +38,7 @@ Mod support added:
 - Create: Diesel Generators
 - Create Ore Excavation
 - Create Sifting
+- Extreme Reactors
 - Intelligence: Quarry
 - LaserIO
 

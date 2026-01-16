@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enigmaticlegacy"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "enigmaticlegacy:big_lamp"
+		},
+		{
+			"item": "enigmaticlegacy:big_shroomlamp"
+		},
+		{
+			"item": "enigmaticlegacy:big_redstonelamp"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 235
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 15
+		}
+	],
+	"temperature": 800,
+	"time": 68
+}

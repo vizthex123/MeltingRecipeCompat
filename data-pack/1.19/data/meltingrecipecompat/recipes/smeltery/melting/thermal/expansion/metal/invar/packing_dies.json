@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:press_unpacking_die"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "thermal:press_packing_2x2_die"
+		},
+		{
+			"item": "thermal:press_packing_3x3_die"
+		},
+		{
+			"item": "thermal:press_unpacking_die"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_invar",
+		"amount": 180
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_constantan",
+			"amount": 180
+		}
+	],
+	"temperature": 900,
+	"time": 40
+}

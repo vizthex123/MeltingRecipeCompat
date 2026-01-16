@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "immersiveengineering:empty_shell"
+		},
+		{
+			"item": "immersiveengineering:firework"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 30
+	},
+	"temperature": 500,
+	"time": 32
+}

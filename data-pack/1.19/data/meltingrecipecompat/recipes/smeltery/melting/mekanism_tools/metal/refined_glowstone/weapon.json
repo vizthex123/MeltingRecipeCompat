@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanismtools"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "mekanismtools:refined_glowstone_sword"
+		},
+		{
+			"item": "mekanismtools:refined_glowstone_hoe"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_refined_glowstone",
+		"amount": 180,
+		"unit_size": 10
+	},
+	"temperature": 825,
+	"time": 76
+}

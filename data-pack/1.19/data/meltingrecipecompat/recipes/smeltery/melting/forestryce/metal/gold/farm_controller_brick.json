@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "forestry:farm_control_brick"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 112
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_clay",
+			"amount": 1000
+		}
+	],
+	"temperature": 700,
+	"time": 40
+}

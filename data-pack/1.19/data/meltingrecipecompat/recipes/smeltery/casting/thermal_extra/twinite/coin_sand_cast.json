@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:casting_table",
+	"cast": {
+		"tag": "tconstruct:casts/single_use/coin"
+	},
+	"cast_consumed": true,
+	"fluid": {
+		"tag": "forge:molten_twinite",
+		"amount": 30
+	},
+	"result": {
+		"tag": "forge:coins/twinite"
+	},
+	"cooling_time": 40
+}

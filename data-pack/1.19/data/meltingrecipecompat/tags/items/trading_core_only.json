@@ -1,0 +1,25 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "lightmanscurrency:trading_core",
+			"required": false
+		},
+		{
+			"id": "#lightmanscurrency:traders/card_display",
+			"required": false
+		},
+		{
+			"id": "#lightmanscurrency:traders/shelf",
+			"required": false
+		},
+		{
+			"id": "#lightmanscurrency:traders/shelf_2x2",
+			"required": false
+		},
+		{
+			"id": "#lightmanscurrency:traders/special/bookshelf",
+			"required": false
+		}
+	]
+}

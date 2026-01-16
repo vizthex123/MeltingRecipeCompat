@@ -1,0 +1,45 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "byg"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:ore_melting",
+	"conditions": [
+		{
+		"registry": "minecraft:item",
+		"base": "forge:ores/emeraldite",
+		"subtracted": [
+			"forge:ore_rates/sparse",
+			"forge:ore_rates/dense"
+		],
+		"type": "tconstruct:tag_difference_present"
+		}
+	],
+	"rate": "gem",
+	"ingredient": {
+	"type": "forge:difference",
+	"base": {
+	  "tag": "forge:ores/emeraldite"
+	},
+	"subtracted": [
+	  {
+		"tag": "forge:ore_rates/sparse"
+	  },
+	  {
+		"tag": "forge:ore_rates/dense"
+	  }
+	]
+	},
+	"result": {
+		"fluid": "tconstruct:molten_emerald",
+		"amount": 20
+	},
+	"temperature": 934,
+	"time": 48
+}

@@ -1,0 +1,17 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:casting_basin",
+	"fluid": {
+		"tag": "forge:molten_shellite",
+		"amount": 810
+	},
+	"result": {
+		"tag": "forge:storage_blocks/shellite"
+	},
+	"cooling_time": 200
+}

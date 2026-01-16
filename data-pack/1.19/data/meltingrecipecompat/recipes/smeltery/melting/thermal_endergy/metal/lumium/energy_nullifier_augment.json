@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermalendergy"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermalendergy:energy_nullifier_augment"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_lumium",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 180
+		}
+	],
+	"temperature": 1050,
+	"time": 60
+}

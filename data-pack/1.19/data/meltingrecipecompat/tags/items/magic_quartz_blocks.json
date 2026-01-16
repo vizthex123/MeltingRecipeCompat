@@ -1,0 +1,95 @@
+{
+	"conditions": [
+		{
+			"elf": "forge:mod_loaded",
+			"modid": "botania"
+		}
+	],
+	"replace": false,
+	"values": [
+		{
+			"id": "botania:blaze_quartz_pillar",
+			"required": false
+		},
+		{
+			"id": "botania:chiseled_blaze_quartz",
+			"required": false
+		},
+		{
+			"id": "botania:blaze_quartz_stairs",
+			"required": false
+		},
+		{
+			"id": "botania:dark_quartz_pillar",
+			"required": false
+		},
+		{
+			"id": "botania:chiseled_dark_quartz",
+			"required": false
+		},
+		{
+			"id": "botania:dark_quartz_stairs",
+			"required": false
+		},
+		{
+			"id": "botania:elf_quartz_pillar",
+			"required": false
+		},
+		{
+			"id": "botania:chiseled_elf_quartz",
+			"required": false
+		},
+		{
+			"id": "botania:elf_quartz_stairs",
+			"required": false
+		},
+		{
+			"id": "botania:mana_quartz_pillar",
+			"required": false
+		},
+		{
+			"id": "botania:chiseled_mana_quartz",
+			"required": false
+		},
+		{
+			"id": "botania:mana_quartz_stairs",
+			"required": false
+		},
+		{
+			"id": "botania:lavender_quartz_pillar",
+			"required": false
+		},
+		{
+			"id": "botania:chiseled_lavender_quartz",
+			"required": false
+		},
+		{
+			"id": "botania:lavender_quartz_stairs",
+			"required": false
+		},
+		{
+			"id": "botania:red_quartz_pillar",
+			"required": false
+		},
+		{
+			"id": "botania:chiseled_red_quartz",
+			"required": false
+		},
+		{
+			"id": "botania:red_quartz_stairs",
+			"required": false
+		},
+		{
+			"id": "botania:sunny_quartz_pillar",
+			"required": false
+		},
+		{
+			"id": "botania:chiseled_sunny_quartz",
+			"required": false
+		},
+		{
+			"id": "botania:sunny_quartz_stairs",
+			"required": false
+		}
+	]
+}

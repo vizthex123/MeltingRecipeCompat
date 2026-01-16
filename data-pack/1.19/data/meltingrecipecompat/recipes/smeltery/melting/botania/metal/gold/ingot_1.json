@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "botania:mana_spreader"
+		},
+		{
+			"item": "botania:redstone_spreader"
+		},
+		{
+			"item": "botania:red_string_relay"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 90
+	},
+	"temperature": 700,
+	"time": 52
+}

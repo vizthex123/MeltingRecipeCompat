@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:steel_scaffoldings"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 67
+	},
+	"temperature": 950,
+	"time": 32
+}

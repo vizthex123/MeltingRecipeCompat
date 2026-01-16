@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "additionaladditions"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:prismarine_powered_rail"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal:prismarine_powered_rail"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 90
+	},
+	"temperature": 500,
+	"time": 32
+}

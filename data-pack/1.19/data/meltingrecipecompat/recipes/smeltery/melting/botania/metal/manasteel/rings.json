@@ -1,0 +1,51 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "botania:mana_ring"
+		},
+		{
+			"item": "botania:mana_ring_greater"
+		},
+		{
+			"item": "botania:magnet_ring"
+		},
+		{
+			"item": "botania:magnet_ring_greater"
+		},
+		{
+			"item": "botania:water_ring"
+		},
+		{
+			"item": "botania:swap_ring"
+		},
+		{
+			"item": "botania:dodge_ring"
+		},
+		{
+			"item": "botania:mining_ring"
+		}
+	],
+	"result": {
+		"fluid": "tcintegrations:manasteel",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 250
+		}
+	],
+	"temperature": 950,
+	"time": 88
+}

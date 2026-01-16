@@ -1,0 +1,12 @@
+{
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:brickocotta_slabs"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 500
+	},
+	"temperature": 450,
+	"time": 72
+}

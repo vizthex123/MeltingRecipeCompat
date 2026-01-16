@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "forestry:farm_hatch_quartz"
+		},
+		{
+			"item": "forestry:farm_hatch_quartz_chiseled"
+		},
+		{
+			"item": "forestry:farm_hatch_quartz_lines"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 2000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 400
+		},
+		{
+			"fluid": "tconstruct:molten_tin",
+			"amount": 360
+		}
+	],
+	"temperature": 750,
+	"time": 40
+}

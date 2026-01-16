@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "savage_and_ravage"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "savage_and_ravage:griefer_boots"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 720,
+		"unit_size": 20
+	},
+	"temperature": 700,
+	"time": 128
+}

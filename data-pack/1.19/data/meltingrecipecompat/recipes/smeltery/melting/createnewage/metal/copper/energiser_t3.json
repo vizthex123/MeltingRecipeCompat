@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create_new_age"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "create_new_age:energiser_t3"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 1710
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 400
+		}
+	],
+	"temperature": 500,
+	"time": 108
+}

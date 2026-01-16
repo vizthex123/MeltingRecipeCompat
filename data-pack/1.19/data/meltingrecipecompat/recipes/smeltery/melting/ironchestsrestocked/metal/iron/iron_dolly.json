@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironchests"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "ironchests:iron_dolly"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 360,
+		"unit_size": 20
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:earth_slime",
+			"amount": 250,
+			"unit_size": 50
+		}
+	],
+	"temperature": 800,
+	"time": 56
+}

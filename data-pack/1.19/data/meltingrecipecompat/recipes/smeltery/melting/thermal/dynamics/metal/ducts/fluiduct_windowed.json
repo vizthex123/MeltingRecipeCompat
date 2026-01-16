@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:fluid_duct_windowed"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal:fluid_duct_windowed"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 45
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 50
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 500
+		},
+		{
+			"fluid": "tconstruct:molten_obsidian",
+			"amount": 500
+		}
+	],
+	"temperature": 700,
+	"time": 56
+}

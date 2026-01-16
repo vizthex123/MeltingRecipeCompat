@@ -1,0 +1,69 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "createdeco:white_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:orange_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:magenta_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:light_blue_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:yellow_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:lime_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:pink_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:gray_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:light_gray_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:cyan_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:purple_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:blue_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:brown_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:green_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:red_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:black_decal",
+			"required": false
+		}
+	]
+}

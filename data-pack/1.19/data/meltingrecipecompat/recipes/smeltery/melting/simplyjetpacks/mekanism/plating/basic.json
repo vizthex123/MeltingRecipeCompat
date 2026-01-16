@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "simplyjetpacks"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "simplyjetpacks:armorplating_mek1"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_osmium",
+		"amount": 810
+	},
+	"temperature": 975,
+	"time": 60
+}

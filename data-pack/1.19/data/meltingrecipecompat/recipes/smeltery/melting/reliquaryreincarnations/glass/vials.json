@@ -1,0 +1,35 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "reliquary"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "reliquary:empty_potion_vial"
+		},
+		{
+			"item": "reliquary:glowing_water"
+		},
+		{
+			"item": "reliquary:angelheart_vial"
+		},
+		{
+			"item": "reliquary:aphrodite_potion"
+		},
+		{
+			"item": "reliquary:fertile_potion"
+		},
+		{
+			"item": "reliquary:glowing_bread"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 1250
+	},
+	"temperature": 750,
+	"time": 60
+}

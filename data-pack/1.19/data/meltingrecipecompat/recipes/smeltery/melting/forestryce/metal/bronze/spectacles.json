@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "forestry:spectacles"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 90,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 500,
+			"unit_size": 25
+		}
+	],
+	"temperature": 700,
+	"time": 52
+}

@@ -1,0 +1,53 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "thermal_extra:fluid_tank_augment_5"
+		},
+		{
+			"item": "thermal_extra:potion_amplifier_augment_5"
+		},
+		{
+			"item": "thermal_extra:potion_duration_augment_5"
+		},
+		{
+			"item": "thermal_extra:rf_coil_augment_5"
+		},
+		{
+			"item": "thermal_extra:rf_coil_storage_augment_5"
+		},
+		{
+			"item": "thermal_extra:rf_coil_xfer_augment_5"
+		}
+	],
+	"result": {
+		"fluid": "thermal_extra:dragonsteel",
+		"amount": 1440
+	},
+		"byproducts": [
+		{
+			"fluid": "thermal_extra:twinite",
+			"amount": 1440
+		},
+		{
+			"fluid": "thermal_extra:shellite",
+			"amount": 1440
+		},
+		{
+			"fluid": "tconstruct:molten_enderium",
+			"amount": 1440
+		},
+		{
+			"fluid": "thermal_extra:soul_infused",
+			"amount": 1440
+		}
+	],
+	"temperature": 1200,
+	"time": 96
+}

@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:ultimate_induction_provider"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 61380
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 11700
+		},
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 31680
+		},
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 23040
+		},
+		{
+			"fluid": "tconstruct:molten_refined_obsidian",
+			"amount": 4320
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 3400
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 259000
+		}
+	],
+	"temperature": 700,
+	"time": 320
+}

@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bigreactors"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "bigreactors:fluidizersolidinjector"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_uranium",
+		"amount": 1620
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 1530
+		}
+	],
+	"temperature": 830,
+	"time": 28
+}

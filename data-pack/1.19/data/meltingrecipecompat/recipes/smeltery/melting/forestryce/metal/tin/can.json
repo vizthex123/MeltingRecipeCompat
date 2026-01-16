@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "forestry:can"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_tin",
+		"amount": 22
+	},
+	"temperature": 225,
+	"time": 20
+}

@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "extendedcrafting"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "extendedcrafting:basic_catalyst"
+		},
+		{
+			"item": "extendedcrafting:redstone_catalyst"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 1530
+	},
+	"temperature": 800,
+	"time": 72
+}

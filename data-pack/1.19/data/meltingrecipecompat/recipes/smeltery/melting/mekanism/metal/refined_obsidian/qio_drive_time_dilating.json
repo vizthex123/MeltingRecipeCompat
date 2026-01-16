@@ -1,0 +1,40 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:qio_drive_time_dilating"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_refined_obsidian",
+		"amount": 46080
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 5760
+		},
+		{
+			"fluid": "tconstruct:molten_lead",
+			"amount": 7560
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 11520
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 26000
+		},
+		{
+			"fluid": "tconstruct:molten_emerald",
+			"amount": 100
+		}
+	],
+	"temperature": 1475,
+	"time": 256
+}

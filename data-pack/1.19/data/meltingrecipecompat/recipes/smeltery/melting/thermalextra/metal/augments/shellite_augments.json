@@ -1,0 +1,63 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "thermal_extra:dynamo_fuel_augment_3"
+		},
+		{
+			"item": "thermal_extra:dynamo_output_augment_3"
+		},
+		{
+			"item": "thermal_extra:area_radius_augment_3"
+		},
+		{
+			"item": "thermal_extra:fluid_tank_augment_3"
+		},
+		{
+			"item": "thermal_extra:machine_catalyst_augment_3"
+		},
+		{
+			"item": "thermal_extra:machine_output_augment_3"
+		},
+		{
+			"item": "thermal_extra:machine_speed_augment_3"
+		},
+		{
+			"item": "thermal_extra:potion_amplifier_augment_3"
+		},
+		{
+			"item": "thermal_extra:potion_duration_augment_3"
+		},
+		{
+			"item": "thermal_extra:rf_coil_augment_3"
+		},
+		{
+			"item": "thermal_extra:rf_coil_storage_augment_3"
+		},
+		{
+			"item": "thermal_extra:rf_coil_xfer_augment_3"
+		}
+	],
+	"result": {
+		"fluid": "thermal_extra:shellite",
+		"amount": 1440
+	},
+		"byproducts": [
+		{
+			"fluid": "tconstruct:molten_enderium",
+			"amount": 1440
+		},
+		{
+			"fluid": "thermal_extra:soul_infused",
+			"amount": 1440
+		}
+	],
+	"temperature": 800,
+	"time": 80
+}

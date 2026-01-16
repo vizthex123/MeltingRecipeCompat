@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "mekanism:basic_control_circuit"
+		},
+		{
+			"item": "mekanism:crafting_formula"
+		},
+		{
+			"item": "mekanism:dictionary"
+		},
+		{
+			"item": "mekanism:basic_bin"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_osmium",
+		"amount": 90
+	},
+	"temperature": 975,
+	"time": 48
+}

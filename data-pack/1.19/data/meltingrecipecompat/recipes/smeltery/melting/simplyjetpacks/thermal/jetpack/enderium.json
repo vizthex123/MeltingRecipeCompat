@@ -1,0 +1,60 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "simplyjetpacks"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "simplyjetpacks:jetpack_te4"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_enderium",
+		"amount": 1080
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 3060
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 3240
+		},
+		{
+			"fluid": "tconstruct:molten_lead",
+			"amount": 2520
+		},
+		{
+			"fluid": "tconstruct:molten_tin",
+			"amount": 720
+		},
+		{
+			"fluid": "tconstruct:molten_bronze",
+			"amount": 1080
+		},
+		{
+			"fluid": "tconstruct:molten_constantan",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_electrum",
+			"amount": 2520
+		},
+		{
+			"fluid": "tconstruct:molten_invar",
+			"amount": 2160
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 16000
+		}
+	],
+	"temperature": 1350,
+	"time": 110
+}

@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cookingforblockheads"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "cookingforblockheads:cabinet"
+		},
+		{
+			"item": "cookingforblockheads:counter"
+		},
+		{
+			"item": "cookingforblockheads:hanging_corner"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 5000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 2000
+		}
+	],
+	"temperature": 450,
+	"time": 100
+}

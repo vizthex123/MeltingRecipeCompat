@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "#immersiveengineering:scaffoldings/steel",
+			"required": false
+		},
+		{
+			"id": "immersiveengineering:metal_ladder_steel",
+			"required": false
+		},
+		{
+			"id": "#immersiveengineering:scaffolding_stairs/steel",
+			"required": false
+		},
+		{
+			"id": "immersiveengineering:steel_slope",
+			"required": false
+		}
+	]
+}

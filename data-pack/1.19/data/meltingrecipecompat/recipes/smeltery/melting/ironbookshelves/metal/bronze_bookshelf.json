@@ -1,0 +1,39 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironbookshelves"
+		},
+		{
+		"type": "forge:not",
+		"value": {
+			"type": "forge:tag_empty",
+			"tag": "forge:ingots/bronze"
+		}
+	  }
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ironbookshelves:bronze_bookshelf"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 720
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 360
+		}
+	],
+	"temperature": 700,
+	"time": 68
+}

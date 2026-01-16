@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create_new_age"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "create_new_age:blank_circuit"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 25
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 22
+		}
+	],
+	"temperature": 637,
+	"time": 48
+}

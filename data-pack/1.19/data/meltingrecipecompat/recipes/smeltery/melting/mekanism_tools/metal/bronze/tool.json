@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanismtools"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "mekanismtools:bronze_pickaxe"
+		},
+		{
+			"item": "mekanismtools:bronze_axe"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 270,
+		"unit_size": 10
+	},
+	"temperature": 700,
+	"time": 108
+}

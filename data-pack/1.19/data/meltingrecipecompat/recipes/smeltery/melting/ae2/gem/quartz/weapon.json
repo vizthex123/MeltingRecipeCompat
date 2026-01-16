@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ae2"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "ae2:nether_quartz_sword"
+		},
+		{
+			"item": "ae2:nether_quartz_hoe"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 200,
+		"unit_size": 25
+	},
+	"temperature": 637,
+	"time": 60
+}

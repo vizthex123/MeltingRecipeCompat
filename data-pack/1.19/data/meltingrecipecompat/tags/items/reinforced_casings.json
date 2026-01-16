@@ -1,0 +1,29 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "bigreactors:reinforced_reactorglass",
+			"required": false
+		},
+		{
+			"id": "bigreactors:reinforced_reactorcasing",
+			"required": false
+		},
+		{
+			"id": "#bigreactors:reactor/casing_user/reinforced",
+			"required": false
+		},
+		{
+			"id": "bigreactors:reinforced_turbineglass",
+			"required": false
+		},
+		{
+			"id": "bigreactors:reinforced_turbinecasing",
+			"required": false
+		},
+		{
+			"id": "#bigreactors:turbine/casing_user/reinforced",
+			"required": false
+		}
+	]
+}

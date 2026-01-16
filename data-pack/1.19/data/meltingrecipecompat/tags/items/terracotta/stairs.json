@@ -1,0 +1,73 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "clayworks:terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:white_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:orange_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:magenta_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:yellow_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:blue_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_blue_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:lime_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:pink_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:gray_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_gray_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:cyan_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:purple_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:brown_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:green_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:red_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:black_terracotta_stairs",
+			"required": false
+		}
+	]
+}

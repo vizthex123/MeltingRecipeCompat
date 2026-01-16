@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "solarflux"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "solarflux:sp_5"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 154000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 5580
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 765
+		},
+		{
+			"fluid": "tconstruct:molten_clay",
+			"amount": 3375
+		},
+		{
+			"fluid": "tconstruct:molten_obsidian",
+			"amount": 3000
+		}
+	],
+	"temperature": 750,
+	"time": 120
+}

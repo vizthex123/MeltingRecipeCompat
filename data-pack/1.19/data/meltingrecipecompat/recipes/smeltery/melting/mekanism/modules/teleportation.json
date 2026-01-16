@@ -1,0 +1,40 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:module_teleportation_unit"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_refined_obsidian",
+		"amount": 2160
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 540
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_tin",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_bronze",
+			"amount": 20
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 1300
+		}
+	],
+	"temperature": 14475,
+	"time": 48
+}

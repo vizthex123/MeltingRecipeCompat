@@ -1,0 +1,40 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "simplyjetpacks"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "simplyjetpacks:thruster_mek2"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_osmium",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 1200
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 1080
+		},
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 404
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 4000
+		}
+	],
+	"temperature": 975,
+	"time": 48
+}

@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "experienceobelisk"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "experienceobelisk:cognitive_flux"
+		},
+		{
+			"item": "experienceobelisk:cognitive_amalgam"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:liquid_soul",
+		"amount": 250
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 25
+		}
+	],
+	"temperature": 400,
+	"time": 40
+}

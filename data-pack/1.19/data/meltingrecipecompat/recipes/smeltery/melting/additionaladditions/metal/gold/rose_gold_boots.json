@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "additionaladditions"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "additionaladditions:rose_gold_boots"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 270,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 90,
+			"unit_size": 30
+		}
+	],
+	"temperature": 700,
+	"time": 120
+}

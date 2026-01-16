@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal_extra:soul_infused_glass"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 500
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 500
+		},
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 125
+		},
+		{
+			"fluid": "thermal_extra:soul_infused",
+			"amount": 45
+		}
+	],
+	"temperature": 1000,
+	"time": 112
+}
