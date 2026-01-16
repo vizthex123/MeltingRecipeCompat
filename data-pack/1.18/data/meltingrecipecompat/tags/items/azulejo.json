@@ -1,27 +1,69 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "botania"
-		}
-	],
 	"replace": false,
 	"values": [
-		"botania:azulejo_0",
-		"botania:azulejo_1",
-		"botania:azulejo_2",
-		"botania:azulejo_3",
-		"botania:azulejo_4",
-		"botania:azulejo_5",
-		"botania:azulejo_6",
-		"botania:azulejo_7",
-		"botania:azulejo_8",
-		"botania:azulejo_9",
-		"botania:azulejo_10",
-		"botania:azulejo_11",
-		"botania:azulejo_12",
-		"botania:azulejo_13",
-		"botania:azulejo_14",
-		"botania:azulejo_15"
+		{
+			"id": "botania:azulejo_0",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_1",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_2",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_3",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_4",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_5",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_6",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_7",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_8",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_9",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_10",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_11",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_12",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_13",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_14",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_15",
+			"required": false
+		}
 	]
 }

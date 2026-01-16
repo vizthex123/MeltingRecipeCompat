@@ -10,6 +10,25 @@ Lines appended with a version in brackets (e.g. Text Here [1.19]) denote changes
 
 --------------------------------------------------
 
+## 1.5
+
+Updated all tag files to use the `required` field since conditions don't work on them<br />
+Fixed the Fuel Canister using the `damagable_melting` recipe type when it shouldn't have
+ 
+Mod support added:
+- Bag of Holding (both Fuzs and xiaxin113's)
+- Bigger Reactors
+- Create: Diesel Generators
+- Create Ore Excavation
+- Create Sifting
+- Intelligence: Quarry
+- LaserIO
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 1.4.2
 
 Fixed several clay melting recipes not loading in

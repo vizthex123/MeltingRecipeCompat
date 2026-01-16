@@ -1,14 +1,14 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "rftoolsbase"
-		}
-	],
 	"replace": false,
 	"values": [
-		"rftoolsbase:tablet",
-		"rftoolsbase:tablet_filled",
+		{
+			"id": "rftoolsbase:tablet",
+			"required": false
+		},
+		{
+			"id": "rftoolsbase:tablet_filled",
+			"required": false
+		},
 		{
 			"id": "rftoolscontrol:tablet_processor",
 			"required": false

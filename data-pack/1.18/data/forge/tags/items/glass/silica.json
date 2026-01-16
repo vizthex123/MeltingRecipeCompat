@@ -1,25 +1,25 @@
 {
 	"replace": false,
 	"values": [
-	{
-		"id": "create:framed_glass",
-		"required": false
-	},
-	{
-		"id": "create:horizontal_framed_glass",
-		"required": false
-	},
-	{
-		"id": "create:vertical_framed_glass",
-		"required": false
-	},
-	{
-		"id": "create:tiled_glass",
-		"required": false
-	},
-	{
-		"id": "quark:dirty_glass",
-		"required": false
-	}
-  ]
+		{
+			"id": "create:framed_glass",
+			"required": false
+		},
+		{
+			"id": "create:horizontal_framed_glass",
+			"required": false
+		},
+		{
+			"id": "create:vertical_framed_glass",
+			"required": false
+		},
+		{
+			"id": "create:tiled_glass",
+			"required": false
+		},
+		{
+			"id": "quark:dirty_glass",
+			"required": false
+		}
+	]
 }

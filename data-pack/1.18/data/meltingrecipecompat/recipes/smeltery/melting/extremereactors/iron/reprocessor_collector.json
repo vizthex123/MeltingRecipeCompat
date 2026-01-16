@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bigreactors"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "bigreactors:reprocessorcollector"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 2070
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_netherite",
+			"amount": 180
+		}
+	],
+	"temperature": 800,
+	"time": 36
+}

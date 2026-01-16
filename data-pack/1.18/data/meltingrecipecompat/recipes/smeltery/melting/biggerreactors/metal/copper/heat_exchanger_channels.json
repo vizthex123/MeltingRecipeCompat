@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "biggerreactors"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "biggerreactors:heat_exchanger_condenser_channel"
+		},
+		{
+			"item": "biggerreactors:heat_exchanger_evaporator_channel"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 225
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 180
+		}
+	],
+	"temperature": 500,
+	"time": 60
+}

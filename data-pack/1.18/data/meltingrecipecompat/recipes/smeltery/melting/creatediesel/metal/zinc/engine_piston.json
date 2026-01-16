@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "createdieselgenerators"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "createdieselgenerators:engine_piston"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_zinc",
+		"amount": 5
+	},
+	"temperature": 420,
+	"time": 20
+}

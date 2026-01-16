@@ -1,20 +1,38 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "lightmanscurrency"
-		}
-	],
 	"replace": false,
 	"values": [
-		"lightmanscurrency:auction_stand_acacia",
-		"lightmanscurrency:auction_stand_birch",
-		"lightmanscurrency:auction_stand_dark_oak",
-		"lightmanscurrency:auction_stand_jungle",
-		"lightmanscurrency:auction_stand_oak",
-		"lightmanscurrency:auction_stand_spruce",
-		"lightmanscurrency:auction_stand_crimson",
-		"lightmanscurrency:auction_stand_warped",
+		{
+			"id": "lightmanscurrency:auction_stand_acacia",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:auction_stand_birch",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:auction_stand_dark_oak",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:auction_stand_jungle",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:auction_stand_oak",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:auction_stand_spruce",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:auction_stand_crimson",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:auction_stand_warped",
+			"required": false
+		},
 		{
 			"id": "lightmanscurrency:auction_stand_byg_aspen",
 			"required": false

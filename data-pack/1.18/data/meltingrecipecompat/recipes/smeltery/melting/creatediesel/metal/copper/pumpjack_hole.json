@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "createdieselgenerators"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "createdieselgenerators:pumpjack_hole"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 225
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 220
+		}
+	],
+	"temperature": 500,
+	"time": 48
+}

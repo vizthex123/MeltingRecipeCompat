@@ -1,15 +1,21 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "immersiveengineering"
-		}
-	],
 	"replace": false,
 	"values": [
-		"#immersiveengineering:scaffoldings/steel",
-		"immersiveengineering:metal_ladder_steel",
-		"#immersiveengineering:scaffolding_stairs/steel",
-		"immersiveengineering:steel_slope"
+		{
+			"id": "#immersiveengineering:scaffoldings/steel",
+			"required": false
+		},
+		{
+			"id": "immersiveengineering:metal_ladder_steel",
+			"required": false
+		},
+		{
+			"id": "#immersiveengineering:scaffolding_stairs/steel",
+			"required": false
+		},
+		{
+			"id": "immersiveengineering:steel_slope",
+			"required": false
+		}
 	]
 }

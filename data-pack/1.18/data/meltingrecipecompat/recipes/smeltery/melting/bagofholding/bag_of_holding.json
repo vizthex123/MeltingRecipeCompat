@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bag_of_holding"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "bag_of_holding:bag_of_holding"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 180
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 100
+		}
+	],
+	"temperature": 700,
+	"time": 72
+}

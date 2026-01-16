@@ -1,27 +1,69 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "createdeco"
-		}
-	],
 	"replace": false,
 	"values": [
-		"createdeco:white_decal",
-		"createdeco:orange_decal",
-		"createdeco:magenta_decal",
-		"createdeco:light_blue_decal",
-		"createdeco:yellow_decal",
-		"createdeco:lime_decal",
-		"createdeco:pink_decal",
-		"createdeco:gray_decal",
-		"createdeco:light_gray_decal",
-		"createdeco:cyan_decal",
-		"createdeco:purple_decal",
-		"createdeco:blue_decal",
-		"createdeco:brown_decal",
-		"createdeco:green_decal",
-		"createdeco:red_decal",
-		"createdeco:black_decal"
+		{
+			"id": "createdeco:white_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:orange_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:magenta_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:light_blue_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:yellow_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:lime_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:pink_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:gray_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:light_gray_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:cyan_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:purple_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:blue_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:brown_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:green_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:red_decal",
+			"required": false
+		},
+		{
+			"id": "createdeco:black_decal",
+			"required": false
+		}
 	]
 }

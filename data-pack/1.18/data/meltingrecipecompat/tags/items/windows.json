@@ -1,18 +1,33 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "create"
-		}
-	],
 	"replace": false,
 	"values": [
-		"create:birch_window",
-		"create:dark_oak_window",
-		"create:jungle_window",
-		"create:oak_window",
-		"create:spruce_window",
-		"create:crimson_window",
-		"create:warped_window"
+		{
+			"id": "create:birch_window",
+			"required": false
+		},
+		{
+			"id": "create:oak_window",
+			"required": false
+		},
+		{
+			"id": "create:dark_oak_window",
+			"required": false
+		},
+		{
+			"id": "create:jungle_window",
+			"required": false
+		},
+		{
+			"id": "create:spruce_window",
+			"required": false
+		},
+		{
+			"id": "create:crimson_window",
+			"required": false
+		},
+		{
+			"id": "create:warped_window",
+			"required": false
+		}
 	]
 }

@@ -1,12 +1,9 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "ob_core"
-		}
-	],
 	"replace": false,
 	"values": [
-		"ob_core:platinum_nugget"
+		{
+			"id": "ob_core:platinum_nugget",
+			"required": false
+		}
 	]
 }

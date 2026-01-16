@@ -1,18 +1,33 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "botania"
-		}
-	],
 	"replace": false,
 	"values": [
-		"botania:quartz_blaze",
-		"botania:quartz_dark",
-		"botania:quartz_elven",
-		"botania:quartz_lavender",
-		"botania:quartz_mana",
-		"botania:quartz_red",
-		"botania:quartz_sunny"
+		{
+			"id": "botania:quartz_blaze",
+			"required": false
+		},
+		{
+			"id": "botania:quartz_dark",
+			"required": false
+		},
+		{
+			"id": "botania:quartz_elven",
+			"required": false
+		},
+		{
+			"id": "botania:quartz_lavender",
+			"required": false
+		},
+		{
+			"id": "botania:quartz_mana",
+			"required": false
+		},
+		{
+			"id": "botania:quartz_red",
+			"required": false
+		},
+		{
+			"id": "botania:quartz_sunny",
+			"required": false
+		}
 	]
 }

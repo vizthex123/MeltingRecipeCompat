@@ -1,0 +1,40 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "createoreexcavation"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "createoreexcavation:drilling_machine"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_brass",
+		"amount": 4230
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 380
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 250
+		},
+		{
+			"fluid": "tconstruct:molten_obsidian",
+			"amount": 750
+		}
+	],
+	"temperature": 605,
+	"time": 240
+}

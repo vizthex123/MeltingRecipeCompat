@@ -1,13 +1,10 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "create"
-		}
-	],
 	"replace": false,
 	"values": [
-		"create:placard",
+		{
+			"id": "create:placard",
+			"required": false
+		},
 		{
 			"id": "#createdeco:placards",
 			"required": false
