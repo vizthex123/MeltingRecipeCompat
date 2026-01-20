@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:deep_aquachow"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal:deep_aquachow"
+	},
+	"result": {
+		"fluid": "tconstruct:earth_slime",
+		"amount": 62
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_lead",
+			"amount": 2
+		}
+	],
+	"temperature": 50,
+	"time": 20
+}

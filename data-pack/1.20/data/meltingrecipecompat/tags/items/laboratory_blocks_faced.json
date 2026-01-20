@@ -1,0 +1,53 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "laboratoryblocks:left-faced_red_signaling_laboratory_block",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:right-faced_red_signaling_laboratory_block",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_left-faced_red_signaling_laboratory_block",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_right-faced_red_signaling_laboratory_block",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:left-faced_green_signaling_laboratory_block",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:right-faced_green_signaling_laboratory_block",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_left-faced_green_signaling_laboratory_block",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_right-faced_green_signaling_laboratory_block",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:left-faced_blue_signaling_laboratory_block",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:right-faced_blue_signaling_laboratory_block",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_left-faced_blue_signaling_laboratory_block",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_right-faced_blue_signaling_laboratory_block",
+			"required": false
+		}
+	]
+}

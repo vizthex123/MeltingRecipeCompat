@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+		"type": "forge:not",
+			"value": {
+				"type": "forge:tag_empty",
+				"tag": "forge:rods/tin"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:rods/tin"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_tin",
+		"amount": 45
+	},
+	"temperature": 225,
+	"time": 20
+}

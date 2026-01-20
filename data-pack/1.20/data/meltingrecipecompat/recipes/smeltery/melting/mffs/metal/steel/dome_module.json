@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mffs"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mffs:dome_module"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 80
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 22
+		}
+	],
+	"temperature": 950,
+	"time": 40
+}

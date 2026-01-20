@@ -1,0 +1,21 @@
+{
+	"conditions": [
+	  {
+		"value": {
+			"type": "forge:tag_empty",
+			"tag": "ad_astra:flags"
+		},
+		"type": "forge:not"
+	  }
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "ad_astra:flags"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 135
+	},
+	"temperature": 950,
+	"time": 24
+}

@@ -1,0 +1,12 @@
+{
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:quartz_slabs"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 200
+	},
+	"temperature": 637,
+	"time": 82
+}

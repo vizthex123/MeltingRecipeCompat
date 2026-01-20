@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "railcraft:steel_tank_wall"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 45
+	},
+	"temperature": 950,
+	"time": 60
+}

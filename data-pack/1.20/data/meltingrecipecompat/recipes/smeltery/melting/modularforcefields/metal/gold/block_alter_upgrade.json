@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "modularforcefields"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "modularforcefields:moduleupgradeblockalter"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 3240
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 12
+		}
+	],
+	"temperature": 700,
+	"time": 56
+}

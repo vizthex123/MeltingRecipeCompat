@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:pipes/pretty"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:pipes/pretty"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 250
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 22
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 15
+		}
+	],
+	"temperature": 750,
+	"time": 40
+}

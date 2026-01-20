@@ -1,0 +1,29 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "bigreactors:basic_reactorglass",
+			"required": false
+		},
+		{
+			"id": "bigreactors:basic_reactorcasing",
+			"required": false
+		},
+		{
+			"id": "#bigreactors:reactor/casing_user/basic",
+			"required": false
+		},
+		{
+			"id": "bigreactors:basic_turbineglass",
+			"required": false
+		},
+		{
+			"id": "bigreactors:basic_turbinecasing",
+			"required": false
+		},
+		{
+			"id": "#bigreactors:turbine/casing_user/basic",
+			"required": false
+		}
+	]
+}

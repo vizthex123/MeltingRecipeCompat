@@ -1,0 +1,40 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:shulker_boxes/obsidian"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:shulker_boxes/obsidian"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 8000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 200
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 720
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 720
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 6000
+		}
+	],
+	"temperature": 1000,
+	"time": 60
+}

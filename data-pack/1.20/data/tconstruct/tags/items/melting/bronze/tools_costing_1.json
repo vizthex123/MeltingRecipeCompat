@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "forestry:bronze_shovel",
+			"required": false
+		},
+		{
+			"id": "forestry:broken_bronze_shovel",
+			"required": false
+		}
+	]
+}

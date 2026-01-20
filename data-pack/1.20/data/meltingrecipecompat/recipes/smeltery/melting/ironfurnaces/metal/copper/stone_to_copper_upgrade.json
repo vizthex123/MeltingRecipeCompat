@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironfurnaces"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ironfurnaces:upgrade_copper"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 720
+	},
+	"temperature": 500,
+	"time": 60
+}

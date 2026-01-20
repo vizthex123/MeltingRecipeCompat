@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "thermalconstruct"
+			}
+		}
+	],
+	"type": "tconstruct:casting_table",
+	"fluid": {
+		"fluid": "thermal_extra:soul_infused",
+		"amount": 360
+	},
+	"result": {
+		"tag": "forge:gears/soul_infused"
+	},
+	"cast": {
+		"tag": "tconstruct:casts/single_use/gear"
+	},
+	"cast_consumed": true,
+	"cooling_time": 160
+}

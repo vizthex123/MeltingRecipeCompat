@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "essentials"
+		},
+		{
+			"type": "mantle:tag_filled",
+			"tag": "forge:ingots/tin"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "essentials:bricks_tin"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_tin",
+		"amount": 10
+	},
+	"temperature": 225,
+	"time": 40
+}

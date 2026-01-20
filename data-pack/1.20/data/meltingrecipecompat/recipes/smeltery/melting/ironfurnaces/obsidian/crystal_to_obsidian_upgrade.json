@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironfurnaces"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ironfurnaces:upgrade_obsidian2"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 4000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 1000
+		}
+	],
+	"temperature": 1000,
+	"time": 60
+}

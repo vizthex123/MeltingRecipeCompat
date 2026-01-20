@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "functionalstorage"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "functionalstorage:netherite_upgrade"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 90
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 2700
+		},
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 1980
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 1980
+		}
+	],
+	"temperature": 1250,
+	"time": 64
+}

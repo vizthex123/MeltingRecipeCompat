@@ -1,0 +1,45 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "ad_astra:netherite_space_suit"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 90,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 800,
+			"unit_size": 20
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 1620,
+			"unit_size": 30
+		},
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 1260,
+			"unit_size": 20
+		},
+		{
+			"fluid": "tcintegrations:molten_ostrum",
+			"amount": 360,
+			"unit_size": 10
+		}
+	],
+	"temperature": 1250,
+	"time": 56
+}

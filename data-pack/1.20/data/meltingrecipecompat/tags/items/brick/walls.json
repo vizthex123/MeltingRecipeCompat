@@ -1,0 +1,34 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:brick_wall",
+		{
+			"id": "createdeco:cracked_red_brick_wall",
+			"required": false
+		},
+		{
+			"id": "createdeco:corner_red_brick_wall",
+			"required": false
+		},
+		{
+			"id": "createdeco:short_red_brick_wall",
+			"required": false
+		},
+		{
+			"id": "createdeco:long_red_brick_wall",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_red_brick_wall",
+			"required": false
+		},
+		{
+			"id": "createdeco:tiled_red_brick_wall",
+			"required": false
+		},
+		{
+			"id": "immersiveengineering:wall_clinker_brick",
+			"required": false
+		}
+	]
+}

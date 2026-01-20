@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "immersiveengineering:blueprint"
+		},
+		{
+			"item": "immersiveengineering:empty_casing"
+		},
+		{
+			"item": "immersiveengineering:he"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 90
+	},
+	"temperature": 500,
+	"time": 40
+}

@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "caverns_and_chasms:barometer",
+			"required": false
+		},
+		{
+			"id": "caverns_and_chasms:tuning_fork",
+			"required": false
+		},
+		{
+			"id": "copperworks:copper_broad_sword",
+			"required": false
+		},
+		{
+			"id": "copperworks:copper_drill",
+			"required": false
+		}
+	]
+}

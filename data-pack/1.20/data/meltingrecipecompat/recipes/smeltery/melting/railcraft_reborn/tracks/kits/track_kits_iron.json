@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "railcraft:buffer_stop_track_kit"
+		},
+		{
+			"item": "railcraft:launcher_track_kit"
+		},
+		{
+			"item": "railcraft:locking_track_kit"
+		},
+		{
+			"item": "railcraft:one_way_track_kit"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 10
+	},
+	"temperature": 800,
+	"time": 28
+}

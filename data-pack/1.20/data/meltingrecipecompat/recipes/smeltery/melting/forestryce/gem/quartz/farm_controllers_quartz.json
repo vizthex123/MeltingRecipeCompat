@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "forestry:farm_control_quartz"
+		},
+		{
+			"item": "forestry:farm_control_quartz_chiseled"
+		},
+		{
+			"item": "forestry:farm_control_quartz_lines"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 400
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 112
+		}
+	],
+	"temperature": 637,
+	"time": 40
+}

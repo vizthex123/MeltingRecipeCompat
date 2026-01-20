@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bluepower"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "bluepower:iron_sickle"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 270,
+		"unit_size": 10
+	},
+	"temperature": 800,
+	"time": 104
+}

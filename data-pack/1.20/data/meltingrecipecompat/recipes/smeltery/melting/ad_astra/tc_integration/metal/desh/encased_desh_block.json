@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ad_astra:encased_desh_block"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_desh",
+		"amount": 3
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 5
+		}
+	],
+	"temperature": 500,
+	"time": 20
+}

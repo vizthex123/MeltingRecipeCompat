@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermalconstruct"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal_extra:device_lava_gen"
+	},
+	"result": {
+		"fluid": "thermalconstruct:molten_soul_infused",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 450
+		}
+	],
+	"temperature": 900,
+	"time": 60
+}

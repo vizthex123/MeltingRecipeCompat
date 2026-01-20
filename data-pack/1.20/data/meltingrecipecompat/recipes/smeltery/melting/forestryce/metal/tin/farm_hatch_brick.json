@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "forestry:farm_hatch_stone_brick"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_tin",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_clay",
+			"amount": 1000
+		}
+	],
+	"temperature": 225,
+	"time": 40
+}

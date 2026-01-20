@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "create:propeller"
+		},
+		{
+			"item": "create:encased_fan"
+			},
+		{
+			"item": "create:empty_blaze_burner"
+		},
+		{
+			"item": "create:item_hatch"
+		},
+		{
+			"item": "create:mechanical_saw"
+		},
+		{
+			"item": "create:packager"
+		},
+		{
+			"item": "create:repackager"
+		},
+		{
+			"item": "create:speedometer"
+		},
+		{
+			"item": "create:stressometer"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 360
+	},
+	"temperature": 800,
+	"time": 60
+}

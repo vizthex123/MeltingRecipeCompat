@@ -1,0 +1,53 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "createdeco"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "createdeco:industrial_iron_ingot"
+		},
+		{
+			"item": "createdeco:industrial_iron_coin"
+		},
+		{
+			"item": "createdeco:industrial_iron_catwalk"
+		},
+	{
+			"item": "createdeco:industrial_iron_catwalk_stairs"
+		},
+		{
+			"item": "createdeco:industrial_iron_sheet"
+		},
+		{
+			"item": "createdeco:industrial_iron_sheet_metal"
+		},
+		{
+			"item": "createdeco:industrial_iron_support"
+		},
+		{
+			"item": "createdeco:industrial_iron_support_wedge"
+		},
+		{
+			"item": "createdeco:blue_industrial_iron_lamp"
+		},
+		{
+			"item": "createdeco:green_industrial_iron_lamp"
+		},
+		{
+			"item": "createdeco:red_industrial_iron_lamp"
+		},
+		{
+			"item": "createdeco:yellow_industrial_iron_lamp"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 5
+	},
+	"temperature": 800,
+	"time": 20
+}

@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:windows"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:windows"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 500
+	},
+	"temperature": 750,
+	"time": 280
+}

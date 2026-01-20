@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "immersiveengineering:slab_storage_steel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 405
+	},
+	"temperature": 950,
+	"time": 172
+}

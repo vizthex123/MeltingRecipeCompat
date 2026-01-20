@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "thermalconstruct:molten_twinite",
+			"required": false
+		},
+		{
+			"id": "thermal_extra:twinite",
+			"required": false
+		}
+	]
+}

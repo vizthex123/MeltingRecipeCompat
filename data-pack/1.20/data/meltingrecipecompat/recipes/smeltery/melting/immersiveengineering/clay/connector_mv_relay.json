@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "immersiveengineering:connector_mv_relay"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 250
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_electrum",
+			"amount": 20
+		}
+	],
+	"temperature": 450,
+	"time": 24
+}

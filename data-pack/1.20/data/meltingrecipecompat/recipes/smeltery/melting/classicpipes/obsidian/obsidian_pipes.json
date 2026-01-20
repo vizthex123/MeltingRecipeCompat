@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "classicpipes"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "classicpipes:obsidian_pipe"
+		},
+		{
+			"item": "classicpipes:obsidian_fluid_pipe"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 250
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 125
+		}
+	],
+	"temperature": 1000,
+	"time": 60
+}

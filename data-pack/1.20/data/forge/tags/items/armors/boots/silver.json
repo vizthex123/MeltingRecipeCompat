@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "caverns_and_chasms:silver_boots",
+			"required": false
+		},
+		{
+			"id": "iceandfire:armor_silver_metal_boots",
+			"required": false
+		}
+	]
+}

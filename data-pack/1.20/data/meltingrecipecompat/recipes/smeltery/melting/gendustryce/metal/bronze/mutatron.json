@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "gendustry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "gendustry:mutatron"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 3690
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 810
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 720
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 400
+		},
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 400
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 250
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 750
+		}
+	],
+	"temperature": 700,
+	"time": 60
+}

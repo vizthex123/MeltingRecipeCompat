@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "functionalstorage"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "functionalstorage:fluid_1"
+		},
+		{
+			"item": "functionalstorage:fluid_2"
+		},
+		{
+			"item": "functionalstorage:fluid_4"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 270
+	},
+	"temperature": 800,
+	"time": 104
+}

@@ -1,0 +1,21 @@
+{
+	"conditions": [
+	  {
+		"value": {
+			"type": "forge:tag_empty",
+			"tag": "meltingrecipecompat:industrial_lamps"
+		},
+		"type": "forge:not"
+	  }
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:industrial_lamps"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 45
+	},
+	"temperature": 950,
+	"time": 28
+}

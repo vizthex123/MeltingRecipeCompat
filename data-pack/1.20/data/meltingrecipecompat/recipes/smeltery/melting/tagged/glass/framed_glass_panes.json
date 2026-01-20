@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:framed_glass_panes"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:framed_glass_panes"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 1250
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 90
+		}
+	],
+	"temperature": 750,
+	"time": 160
+}

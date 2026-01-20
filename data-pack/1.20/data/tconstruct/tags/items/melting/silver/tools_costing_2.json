@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "caverns_and_chasms:silver_sword",
+			"required": false
+		},
+		{
+			"id": "caverns_and_chasms:silver_hoe",
+			"required": false
+		},
+		{
+			"id": "iceandfire:silver_sword",
+			"required": false
+		},
+		{
+			"id": "iceandfire:silver_hoe",
+			"required": false
+		}
+	]
+}

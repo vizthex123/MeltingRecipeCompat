@@ -1,0 +1,25 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "bluepower:zincplate",
+			"required": false
+		},
+		{
+			"id": "createdeco:andesite_alloy_sheet",
+			"required": false
+		},
+		{
+			"id": "createdeco:industrial_iron_sheet",
+			"required": false
+		},
+		{
+			"id": "createdeco:netherite_sheet",
+			"required": false
+		},
+		{
+			"id": "createdeco:zinc_sheet",
+			"required": false
+		}
+	]
+}

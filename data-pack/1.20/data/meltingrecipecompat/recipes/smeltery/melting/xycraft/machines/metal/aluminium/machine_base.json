@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "xycraft_machines"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "xycraft_machines:machine_base"
+		},
+		{
+			"item": "xycraft_machines:fabricator"
+		},
+		{
+			"item": "xycraft_machines:planter"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_aluminum",
+		"amount": 90
+	},
+	"temperature": 425,
+	"time": 40
+}

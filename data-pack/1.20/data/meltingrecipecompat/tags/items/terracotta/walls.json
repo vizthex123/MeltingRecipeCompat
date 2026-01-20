@@ -1,0 +1,209 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomemakeover:terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:white_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:orange_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:magenta_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:yellow_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:blue_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:light_blue_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:lime_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:pink_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:gray_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:light_gray_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:cyan_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:purple_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:brown_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:green_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:red_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:black_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:white_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:orange_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:magenta_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:yellow_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:blue_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_blue_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:lime_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:pink_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:gray_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_gray_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:cyan_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:purple_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:brown_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:green_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:red_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:black_terracotta_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:white_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:orange_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:magenta_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:yellow_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:blue_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_blue_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:lime_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:pink_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:gray_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_gray_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:cyan_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:purple_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:brown_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:green_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:red_terracotta_brick_wall",
+			"required": false
+		},
+		{
+			"id": "clayworks:black_terracotta_brick_wall",
+			"required": false
+		}
+	]
+}

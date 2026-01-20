@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ad_astra_giselle_addon:module_space_fire_proof_unit"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_tin",
+			"amount": 180
+		},
+		{
+			"fluid": "tcintegrations:molten_ostrum",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_bronze",
+			"amount": 20
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 800
+		}
+	],
+	"temperature": 800,
+	"time": 32
+}

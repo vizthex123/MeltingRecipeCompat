@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "reliquary"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "reliquary:bullets/neutral_bullet"
+		},
+		{
+			"item": "reliquary:bullets/blaze_bullet"
+		},
+		{
+			"item": "reliquary:bullets/buster_bullet"
+		},
+		{
+			"item": "reliquary:bullets/concussive_bullet"
+		},
+		{
+			"item": "reliquary:bullets/ender_bullet"
+		},
+		{
+			"item": "reliquary:bullets/exorcism_bullet"
+		},
+		{
+			"item": "reliquary:bullets/seeker_bullet"
+		},
+		{
+			"item": "reliquary:bullets/storm_bullet"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 2
+	},
+	"temperature": 700,
+	"time": 4
+}

@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "botania:shimmerrock_slab"
+		},
+		{
+			"item": "botania:shimmerwood_planks_slab"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 500
+	},
+	"temperature": 750,
+	"time": 40
+}

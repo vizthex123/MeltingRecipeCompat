@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "thermalconstruct:molten_soul_infused",
+			"required": false
+		},
+		{
+			"id": "thermal_extra:soul_infused",
+			"required": false
+		}
+	]
+}

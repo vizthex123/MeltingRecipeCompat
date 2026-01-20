@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "forestry:farm_control_stone_brick"
+		},
+		{
+			"item": "forestry:farm_control_mossy_stone_brick"
+		},
+		{
+			"item": "forestry:farm_control_cracked_stone_brick"
+		},
+		{
+			"item": "forestry:farm_control_brick_chiseled"
+		},
+		{
+			"item": "forestry:farm_control_cut_sandstone"
+		},
+		{
+			"item": "forestry:farm_control_sandstone_chiseled"
+		},
+		{
+			"item": "forestry:farm_control_brick_nether"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 112
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_tin",
+			"amount": 112
+		}
+	],
+	"temperature": 700,
+	"time": 40
+}

@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ad_astra:fan"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 360
+	},
+	"temperature": 950,
+	"time": 48
+}

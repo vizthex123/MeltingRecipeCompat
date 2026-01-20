@@ -1,0 +1,133 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "projectred_illumination:white_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:orange_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:magenta_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:light_blue_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:yellow_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:lime_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:pink_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:gray_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:light_gray_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:cyan_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:purple_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:blue_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:brown_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:green_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:red_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:black_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:white_inverted_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:orange_inverted_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:magenta_inverted_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:light_blue_inverted_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:yellow_inverted_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:lime_inverted_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:pink_inverted_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:gray_inverted_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:light_gray_inverted_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:cyan_inverted_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:purple_inverted_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:blue_inverted_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:brown_inverted_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:green_inverted_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:red_inverted_fallout_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:black_inverted_fallout_light",
+			"required": false
+		}
+	]
+}

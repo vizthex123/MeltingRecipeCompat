@@ -10,6 +10,117 @@ Lines appended with a version in brackets (e.g. Text Here [1.19]) denote changes
 
 --------------------------------------------------
 
+## 3.0
+
+Ported to 1.20.1
+
+Overhauled my custom Brick tags
+- Removed several duplicates and cleaned up the files a bit
+- I also removed Clayworks' Kiln melting recipe since it uses Mud Bricks now
+- This doesn't really affect end users, but it took a while so I'm adding it to the changelog
+
+Added a melting recipe for Hanging Signs<br />
+Added a melting recipe for Rose Gold Alloy *[Additional Additions]*<br />
+Added melting recipes for Raw Ore Brick blocks *[Quark]*<br />
+Increased the Tripwire Hook's Molten Iron output to 45 mB (was 40)
+
+Updated several tool melting recipes to use Tinkers' built-in tags (and a few custom ones that follow the same format)<br />
+Replaced the tag detection method with the one added by Mantle<br />
+Replaced the default Quartz Slab recipe with a custom tag<br />
+Replaced the default Lantern recipe with a custom tag
+
+Fixed AE2's Advanced Card not being meltable<br />
+Fixed AE2's Covered Dense Cables not being meltable<br />
+Fixed AE2's import & export buses giving more than they should<br />
+Fixed my Soul Campfire melting recipe using a regular one
+
+Fixed the Wither Builder not having a melting recipe *[Industrial Foregoing]*<br />
+Fixed the Latex Processing Unit not having a melting recipe *[Industrial Foregoing]*<br />
+Fixed the Obsidian to Netherite barrel upgrade giving Molten Netherite when it shouldn't *[Iron Barrels]*<br />
+Fixed the Netherite barrel giving Molten Debris when it shouldn't *[Iron Barrels]*
+
+
+
+Updated support for the following mods:
+- AE2 Things
+- Applied Botanics
+- Botania
+- Bygone Nether
+- Create (new items from v0.6 of the mods)
+- Create Deco
+- Immersive Engineering
+- Iron Chests: Restocked (added support for the barrels and fixed the key giving Gold instead of Iron)
+- Lightman's Currency
+- Lightman's Currency Tech
+- Thermal Extra (also added better compatibility for Thermal Construct)
+- Thermal Systeams
+- A few other minor tweaks I forgot to write down
+
+
+
+Mod support added:
+- AE2 Import Export Card
+- Abnormal's Delight
+- Ad Astra
+- Ad Astra: Giselle Addon
+- Alex's Caves
+- Angel Block: Restored
+- Angel Ring (by DenisMasterHerobrine)
+- Atmospheric
+- Automatic Sorter
+- Autumnity
+- AzureDoom's Angel Ring
+- Building Gadgets
+- Buzzier Bees
+- Caverns & Chasms
+- Charging Gadgets
+- Classic Pipes
+- Copper & Tuff Backport
+- Copperworks
+- Create Stock Bridge
+- Dis-Enchanting Table
+- End's Phantasm
+- Ender IO
+- The Endergetic Expansion
+- Energy Meter
+- Farmer's Delight
+- Gendustry: Community Edition
+- HammerLib
+- Hole Filler Mod
+- Industrial Foregoing Souls
+- Iron Shulker Boxes
+- Jaden's Nether Expansion
+- Laser Bridges & Doors
+- Mining Gadgets
+- Modular Force Field System (by QueenOfMissiles)
+- Modular Force Field Systems (by aurilisdev)
+- More Useful Copper (mostly uses Tinkers' built-in tags, which is a nice feature I wish I'd discovered earlier lol)
+- Pretty Pipes
+- Pretty Pipes: Fluids
+- Project Red (all modules)
+- Railcraft Reborn
+- Ranged Pumps
+- RePortality
+- Redstone Pen
+- Savage & Ravage
+- Super Factory Manager
+- Tempad
+- Thermal Construct
+- Thermal Parallel
+- Translocators
+- Upgrade Aquatic
+- Voltaic
+- WA Ender Quarry
+- XyCraft: Machines
+- XyCraft: Override
+- XyCraft: World
+
+
+<br /> <br />
+
+--------------------------------------------------
+
+
 ## 2.0
 
 Ported to 1.19.2
@@ -146,6 +257,7 @@ Added support for the following mods:
 - Functional Storage
 - Hostile Neural Networks
 - Immersive Engineering
+- Industrial Foregoing
 - Iron Barrels
 - Iron Bookshelves
 - Iron Chests

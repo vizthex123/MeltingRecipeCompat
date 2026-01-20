@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderio"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enderio:advanced_capacitor_bank"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 160
+		}
+	],
+	"temperature": 500,
+	"time": 60
+}

@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "ad_astra:iron_factory_block"
+		},
+		{
+			"item": "ad_astra:iron_panel"
+		},
+		{
+			"item": "ad_astra:iron_pillar"
+		},
+		{
+			"item": "ad_astra:glowing_iron_pillar"
+		},
+		{
+			"item": "ad_astra:marked_iron_pillar"
+		},
+		{
+			"item": "ad_astra:iron_plateblock"
+		},
+		{
+			"item": "ad_astra:iron_plating"
+		},
+		{
+			"item": "ad_astra:iron_plating_stairs"
+		},
+		{
+			"item": "ad_astra:iron_plating_button"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 10
+	},
+	"temperature": 800,
+	"time": 20
+}

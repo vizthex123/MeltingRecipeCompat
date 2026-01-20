@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironshulkerbox"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ironshulkerbox:vanilla_to_iron_shulker_box_upgrade"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 720
+	},
+	"temperature": 800,
+	"time": 40
+}

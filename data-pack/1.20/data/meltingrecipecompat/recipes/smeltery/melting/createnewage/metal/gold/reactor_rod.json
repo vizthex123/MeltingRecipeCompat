@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create_new_age"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "create_new_age:reactor_rod"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 270
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_clay",
+			"amount": 2000
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 3335
+		}
+	],
+	"temperature": 700,
+	"time": 60
+}

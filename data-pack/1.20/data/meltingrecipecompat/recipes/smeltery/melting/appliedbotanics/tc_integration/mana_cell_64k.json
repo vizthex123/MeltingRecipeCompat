@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "appbot"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "appbot:mana_storage_cell_64k"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_manasteel",
+		"amount": 270
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 2430
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 13000
+		}
+	],
+	"temperature": 950,
+	"time": 68
+}

@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "modularforcefields"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "modularforcefields:focusmatrix"
+		},
+		{
+			"item": "modularforcefields:moduleupgradeantihostile"
+		},
+		{
+			"item": "modularforcefields:moduleupgradecapacity"
+		},
+		{
+			"item": "modularforcefields:moduleupgradecolorchange"
+		},
+		{
+			"item": "modularforcefields:moduleupgradedisintegration"
+		},
+		{
+			"item": "modularforcefields:moduleupgradeinterior"
+		},
+		{
+			"item": "modularforcefields:moduleupgradespeed"
+		},
+		{
+			"item": "modularforcefields:moduleupgradeshock"
+		},
+		{
+			"item": "modularforcefields:modulemanipulationscale"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 12
+	},
+	"temperature": 1450,
+	"time": 40
+}

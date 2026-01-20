@@ -1,0 +1,27 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:lantern",
+		"minecraft:soul_lantern",
+		{
+			"id": "caverns_and_chasms:cupric_lantern",
+			"required": false
+		},
+		{
+			"id": "copperworks:redstone_lantern",
+			"required": false
+		},
+		{
+			"id": "copperworks:powered_redstone_lantern",
+			"required": false
+		},
+		{
+			"id": "endergetic:ender_lantern",
+			"required": false
+		},
+		{
+			"id": "netherexp:ancient_lantern",
+			"required": false
+		}
+	]
+}

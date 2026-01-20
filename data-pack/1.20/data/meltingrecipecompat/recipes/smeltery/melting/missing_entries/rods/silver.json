@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+		"type": "forge:not",
+			"value": {
+				"type": "forge:tag_empty",
+				"tag": "forge:rods/silver"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:rods/silver"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_silver",
+		"amount": 45
+	},
+	"temperature": 790,
+	"time": 20
+}

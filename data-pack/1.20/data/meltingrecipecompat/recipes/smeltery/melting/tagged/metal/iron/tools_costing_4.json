@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:tools/iron/cost_4"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:tools/iron/cost_4"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 360,
+		"unit_size": 10
+	},
+	"temperature": 800,
+	"time": 112
+}

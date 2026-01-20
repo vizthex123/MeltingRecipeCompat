@@ -1,0 +1,27 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "thermal_extra:enderium_hoe"
+		},
+		{
+			"item": "thermal_extra:enderium_sickle"
+		},
+		{
+			"item": "thermal_extra:enderium_boots"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_enderium",
+		"amount": 360,
+		"unit_size": 10
+	},
+	"temperature": 1350,
+	"time": 68
+}

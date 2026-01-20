@@ -1,0 +1,35 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "railcraft:track_layer"
+		},
+		{
+			"item": "railcraft:track_relayer"
+		},
+		{
+			"item": "railcraft:track_remover"
+		},
+		{
+			"item": "railcraft:track_undercutter"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 810
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 450
+		}
+	],
+	"temperature": 950,
+	"time": 52
+}

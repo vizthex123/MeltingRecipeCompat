@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "forestry:flexible_casing"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_emerald",
+			"amount": 200
+		},
+		{
+			"fluid": "tconstruct:earth_slime",
+			"amount": 500
+		}
+	],
+	"temperature": 700,
+	"time": 60
+}

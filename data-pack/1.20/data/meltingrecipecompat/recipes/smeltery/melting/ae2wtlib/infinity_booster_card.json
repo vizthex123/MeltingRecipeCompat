@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ae2wtlib"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ae2wtlib:quantum_bridge_card"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 750
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 270
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 2000
+		}
+	],
+	"temperature": 477,
+	"time": 60
+}

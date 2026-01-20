@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "modularforcefields"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "modularforcefields:moduleupgradestabilize"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 950
+	},
+	"temperature": 1450,
+	"time": 52
+}

@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "thermal_extra:enderium_hammer"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_enderium",
+		"amount": 1350,
+		"unit_size": 20
+	},
+	"temperature": 1350,
+	"time": 100
+}

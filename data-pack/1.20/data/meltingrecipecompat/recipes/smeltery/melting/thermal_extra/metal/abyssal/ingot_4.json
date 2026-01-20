@@ -1,0 +1,34 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "thermalconstruct"
+			}
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "thermal_extra:abyssal_hoe"
+		},
+		{
+			"item": "thermal_extra:abyssal_sickle"
+		},
+		{
+			"item": "thermal_extra:abyssal_boots"
+		}
+	],
+	"result": {
+		"tag": "forge:molten_abyssal",
+		"amount": 360,
+		"unit_size": 10
+	},
+	"temperature": 1200,
+	"time": 68
+}

@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "xycraft_override"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "xycraft_override:gilded_blackstone_blue"
+		},
+		{
+			"item": "xycraft_override:gilded_blackstone_green"
+		},
+		{
+			"item": "xycraft_override:gilded_blackstone_red"
+		},
+		{
+			"item": "xycraft_override:gilded_blackstone_dark"
+		},
+		{
+			"item": "xycraft_override:gilded_blackstone_light"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 30
+	},
+	"temperature": 700,
+	"time": 32
+}

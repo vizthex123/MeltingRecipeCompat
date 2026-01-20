@@ -1,0 +1,119 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "xycraft_world"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_white"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_orange"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_magenta"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_light_blue"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_yellow"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_lime"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_pink"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_gray"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_light_gray"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_cyan"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_purple"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_blue"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_brown"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_green"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_red"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_black"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_white"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_orange"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_magenta"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_light_blue"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_yellow"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_lime"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_pink"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_gray"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_light_gray"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_cyan"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_purple"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_blue"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_brown"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_green"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_red"
+		},
+		{
+			"item": "xycraft_world:lamp_rgb_glowing_inverted_black"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 4000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_aluminum",
+			"amount": 180
+		}
+	],
+	"temperature": 750,
+	"time": 56
+}

@@ -1,0 +1,47 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "laboratoryblocks"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "laboratoryblocks:clear_laboratory_screen"
+		},
+		{
+			"item": "laboratoryblocks:wave_laboratory_screen"
+		},
+		{
+			"item": "laboratoryblocks:text_laboratory_screen"
+		},
+		{
+			"item": "laboratoryblocks:quantum_laboratory_screen"
+		},
+		{
+			"item": "laboratoryblocks:enlighted_clear_laboratory_screen"
+		},
+		{
+			"item": "laboratoryblocks:enlighted_wave_laboratory_screen"
+		},
+		{
+			"item": "laboratoryblocks:enlighted_text_laboratory_screen"
+		},
+		{
+			"item": "laboratoryblocks:enlighted_quantum_laboratory_screen"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 12
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 30
+		}
+	],
+	"temperature": 637,
+	"time": 48
+}

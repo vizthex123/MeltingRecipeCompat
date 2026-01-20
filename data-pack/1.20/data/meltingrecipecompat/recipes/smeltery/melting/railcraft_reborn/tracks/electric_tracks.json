@@ -1,0 +1,26 @@
+{
+	"conditions": [
+	  {
+		"value": {
+			"type": "forge:tag_empty",
+			"tag": "railcraft:electric_track"
+		},
+		"type": "forge:not"
+	  }
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"tag": "railcraft:electric_track"
+		},
+		{
+			"item": "railcraft:electric_buffer_stop_track"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 30
+	},
+	"temperature": 500,
+	"time": 32
+}

@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderio"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enderio:conduit_binder_composite"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 62
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 250
+		}
+	],
+	"temperature": 450,
+	"time": 24
+}

@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "more_useful_copper:copper_pickaxe",
+			"required": false
+		},
+		{
+			"id": "more_useful_copper:copper_axe",
+			"required": false
+		}
+	]
+}

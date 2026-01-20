@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermalendergy"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermalendergy:melodic_range_augment"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_enderium",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 100
+		}
+	],
+	"temperature": 1350,
+	"time": 60
+}

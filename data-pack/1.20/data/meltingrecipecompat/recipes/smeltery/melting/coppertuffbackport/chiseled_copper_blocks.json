@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "copperandtuffbackport"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "copperandtuffbackport:chiseled_copper"
+		},
+		{
+			"item": "copperandtuffbackport:exposed_chiseled_copper"
+		},
+		{
+			"item": "copperandtuffbackport:weathered_chiseled_copper"
+		},
+		{
+			"item": "copperandtuffbackport:oxidized_chiseled_copper"
+		},
+		{
+			"item": "copperandtuffbackport:waxed_chiseled_copper"
+		},
+		{
+			"item": "copperandtuffbackport:waxed_exposed_chiseled_copper"
+		},
+		{
+			"item": "copperandtuffbackport:waxed_weathered_chiseled_copper"
+		},
+		{
+			"item": "copperandtuffbackport:waxed_oxidized_chiseled_copper"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 200
+	},
+	"temperature": 500,
+	"time": 80
+}

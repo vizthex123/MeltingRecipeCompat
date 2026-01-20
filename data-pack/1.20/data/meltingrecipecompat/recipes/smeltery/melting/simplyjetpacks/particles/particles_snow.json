@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "simplyjetpacks"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "simplyjetpacks:particle_snow"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 125
+	},
+	"byproducts": [
+		{
+			"fluid": "minecraft:water",
+			"amount": 500
+		}
+	],
+	"temperature": 450,
+	"time": 12
+}

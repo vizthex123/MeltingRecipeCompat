@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "gendustry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "gendustry:nether_upgrade"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_tin",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 10
+		},
+		{
+			"fluid": "tconstruct:liquid_soul",
+			"amount": 1000
+		}
+	],
+	"temperature": 700,
+	"time": 36
+}

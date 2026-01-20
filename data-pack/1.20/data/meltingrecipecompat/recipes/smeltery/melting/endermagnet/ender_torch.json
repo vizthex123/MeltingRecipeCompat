@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "endermagnet"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "endermagnet:ender_torch"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 500
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 125
+		}
+	],
+	"temperature": 1000,
+	"time": 80
+}

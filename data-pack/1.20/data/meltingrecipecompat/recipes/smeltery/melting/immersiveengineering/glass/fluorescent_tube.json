@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "immersiveengineering:fluorescent_tube"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 6000
+	},
+	"temperature": 750,
+	"time": 120
+}

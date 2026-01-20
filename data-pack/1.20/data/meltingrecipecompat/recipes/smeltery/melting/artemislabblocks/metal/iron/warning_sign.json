@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "laboratoryblocks"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "laboratoryblocks:warn_sign"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 2
+	},
+	"temperature": 800,
+	"time": 16
+}

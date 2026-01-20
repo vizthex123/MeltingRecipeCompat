@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "#immersiveengineering:scaffoldings/aluminum",
+			"required": false
+		},
+		{
+			"id": "immersiveengineering:metal_ladder_alu",
+			"required": false
+		},
+		{
+			"id": "#immersiveengineering:scaffolding_stairs/aluminum",
+			"required": false
+		},
+		{
+			"id": "immersiveengineering:alu_slope",
+			"required": false
+		}
+	]
+}

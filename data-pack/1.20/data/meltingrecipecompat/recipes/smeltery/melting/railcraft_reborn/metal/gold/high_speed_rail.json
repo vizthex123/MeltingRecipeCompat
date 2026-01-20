@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "railcraft:high_speed_rail"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 33
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 33
+		}
+	],
+	"temperature": 700,
+	"time": 20
+}

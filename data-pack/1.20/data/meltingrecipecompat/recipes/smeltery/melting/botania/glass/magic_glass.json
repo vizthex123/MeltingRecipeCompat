@@ -1,0 +1,38 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "botania:mana_glass"
+		},
+		{
+			"item": "botania:elf_glass"
+		},
+		{
+			"item": "botania:bifrost_perm"
+		},
+		{
+			"item": "botania:shimmerrock"
+		},
+		{
+			"item": "botania:shimmerwood_planks"
+		},
+		{
+			"item": "botania:shimmerrock_stairs"
+		},
+		{
+			"item": "botania:shimmerwood_planks_stairs"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 1000
+	},
+	"temperature": 750,
+	"time": 52
+}

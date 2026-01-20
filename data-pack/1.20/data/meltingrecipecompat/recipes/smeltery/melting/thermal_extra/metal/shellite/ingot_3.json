@@ -1,0 +1,31 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "thermalconstruct"
+			}
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "thermal_extra:shellite_sword"
+		},
+		{
+			"item": "thermal_extra:shellite_shovel"
+		}
+	],
+	"result": {
+		"tag": "forge:molten_shellite",
+		"amount": 270,
+		"unit_size": 10
+	},
+	"temperature": 1200,
+	"time": 64
+}

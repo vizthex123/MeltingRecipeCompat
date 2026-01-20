@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "bluepower:zincplate",
+			"required": false
+		},
+		{
+			"id": "createdeco:zinc_sheet",
+			"required": false
+		}
+	]
+}

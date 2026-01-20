@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:induction_casing"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 90
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 45
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 67
+		}
+	],
+	"temperature": 950,
+	"time": 64
+}

@@ -1,0 +1,43 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:quartz_slab",
+		"minecraft:smooth_quartz_slab",
+		{
+			"id": "botania:blaze_quartz_slab",
+			"required": false
+		},
+		{
+			"id": "botania:dark_quartz_slab",
+			"required": false
+		},
+		{
+			"id": "botania:elven_quartz_slab",
+			"required": false
+		},
+		{
+			"id": "botania:lavender_quartz_slab",
+			"required": false
+		},
+		{
+			"id": "botania:mana_quartz_slab",
+			"required": false
+		},
+		{
+			"id": "botania:red_quartz_slab",
+			"required": false
+		},
+		{
+			"id": "botania:sunny_quartz_slab",
+			"required": false
+		},
+		{
+			"id": "quark:quartz_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:smooth_quartz_vertical_slab",
+			"required": false
+		}
+	]
+}

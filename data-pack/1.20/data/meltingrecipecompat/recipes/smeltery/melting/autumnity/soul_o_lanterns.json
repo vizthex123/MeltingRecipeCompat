@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "autumnity"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "autumnity:soul_jack_o_lantern"
+		},
+		{
+			"item": "autumnity:large_soul_jack_o_lantern_slice"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:liquid_soul",
+		"amount": 250
+	},
+	"temperature": 400,
+	"time": 24
+}

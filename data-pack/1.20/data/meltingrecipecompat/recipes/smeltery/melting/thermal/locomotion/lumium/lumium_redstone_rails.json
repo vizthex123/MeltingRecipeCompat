@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:lumium_activator_rail"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "thermal:lumium_activator_rail"
+		},
+		{
+			"item": "thermal:lumium_detector_rail"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_lumium",
+		"amount": 45
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 90
+		}
+	],
+	"temperature": 1050,
+	"time": 40
+}

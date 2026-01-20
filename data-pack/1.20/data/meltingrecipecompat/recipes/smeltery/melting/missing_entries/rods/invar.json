@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+		"type": "forge:not",
+			"value": {
+				"type": "forge:tag_empty",
+				"tag": "forge:rods/invar"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:rods/invar"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_invar",
+		"amount": 45
+	},
+	"temperature": 900,
+	"time": 20
+}

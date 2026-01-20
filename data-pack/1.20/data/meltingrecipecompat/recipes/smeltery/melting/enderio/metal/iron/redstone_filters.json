@@ -1,0 +1,47 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderio"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "enderio:redstone_filter_base"
+		},
+		{
+			"item": "enderio:redstone_not_filter"
+		},
+		{
+			"item": "enderio:redstone_or_filter"
+		},
+		{
+			"item": "enderio:redstone_and_filter"
+		},
+		{
+			"item": "enderio:redstone_nand_filter"
+		},
+		{
+			"item": "enderio:redstone_nor_filter"
+		},
+		{
+			"item": "enderio:redstone_xor_filter"
+		},
+		{
+			"item": "enderio:redstone_xnor_filter"
+		},
+		{
+			"item": "enderio:redstone_toggle_filter"
+		},
+		{
+			"item": "enderio:redstone_counting_filter"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 90
+	},
+	"temperature": 800,
+	"time": 64
+}

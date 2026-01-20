@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "createdeco"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "createdeco:brass_window_pane"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 125
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_brass",
+			"amount": 50
+		}
+	],
+	"temperature": 750,
+	"time": 24
+}

@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+		"type": "forge:not",
+			"value": {
+				"type": "forge:tag_empty",
+				"tag": "forge:rods/emerald"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:rods/emerald"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_emerald",
+		"amount": 45
+	},
+	"temperature": 934,
+	"time": 20
+}

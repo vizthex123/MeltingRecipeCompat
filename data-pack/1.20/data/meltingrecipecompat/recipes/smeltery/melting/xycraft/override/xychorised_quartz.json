@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "xycraft_override"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "xycraft_override:quartz_bricks_blue"
+		},
+		{
+			"item": "xycraft_override:quartz_bricks_green"
+		},
+		{
+			"item": "xycraft_override:quartz_bricks_red"
+		},
+		{
+			"item": "xycraft_override:quartz_bricks_dark"
+		},
+		{
+			"item": "xycraft_override:quartz_bricks_light"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 400
+	},
+	"temperature": 637,
+	"time": 108
+}

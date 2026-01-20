@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ad_astra:ti_69"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 450
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 750
+		}
+	],
+	"temperature": 950,
+	"time": 40
+}

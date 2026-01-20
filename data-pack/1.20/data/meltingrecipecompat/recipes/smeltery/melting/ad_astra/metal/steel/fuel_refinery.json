@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ad_astra:fuel_refinery"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 540
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 540
+		}
+	],
+	"temperature": 950,
+	"time": 40
+}

@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enigmaticlegacy"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enigmaticlegacy:xp_scroll"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 250
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_emerald",
+			"amount": 100
+		}
+	],
+	"temperature": 477,
+	"time": 56
+}

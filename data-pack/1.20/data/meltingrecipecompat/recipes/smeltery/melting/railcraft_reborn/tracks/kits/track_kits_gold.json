@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "railcraft:booster_track_kit"
+		},
+		{
+			"item": "railcraft:control_track_kit"
+		},
+		{
+			"item": "railcraft:gated_track_kit"
+		},
+		{
+			"item": "railcraft:transition_track_kit"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 5
+	},
+	"temperature": 700,
+	"time": 28
+}

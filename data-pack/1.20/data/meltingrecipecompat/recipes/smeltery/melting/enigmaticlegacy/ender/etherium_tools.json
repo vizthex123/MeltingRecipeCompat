@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enigmaticlegacy"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "enigmaticlegacy:etherium_pickaxe"
+		},
+		{
+			"item": "enigmaticlegacy:etherium_axe"
+		},
+		{
+			"item": "enigmaticlegacy:etherium_shovel"
+		},
+		{
+			"item": "enigmaticlegacy:etherium_scythe"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 250
+	},
+	"temperature": 477,
+	"time": 80
+}

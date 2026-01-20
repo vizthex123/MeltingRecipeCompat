@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "voltaic"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "voltaic:upgradefortune"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_emerald",
+		"amount": 400
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 360
+		}
+	],
+	"temperature": 934,
+	"time": 40
+}

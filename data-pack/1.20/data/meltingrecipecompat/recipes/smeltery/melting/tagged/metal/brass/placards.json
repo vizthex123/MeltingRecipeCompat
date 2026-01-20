@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:placards"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:placards"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_brass",
+		"amount": 90
+	},
+	"temperature": 605,
+	"time": 260
+}

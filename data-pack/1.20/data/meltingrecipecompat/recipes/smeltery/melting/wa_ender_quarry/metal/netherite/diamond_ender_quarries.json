@@ -1,0 +1,51 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "wa_ender_quarry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "wa_ender_quarry:diamond_ender_quarry"
+		},
+		{
+			"item": "wa_ender_quarry:diamond_ender_quarry_fortune_1"
+		},
+		{
+			"item": "wa_ender_quarry:diamond_ender_quarry_fortune_2"
+		},
+		{
+			"item": "wa_ender_quarry:diamond_ender_quarry_fortune_3"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 1620
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 3600
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 3240
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 3240
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 1000
+		},
+		{
+			"fluid": "tconstruct:molten_obsidian",
+			"amount": 5000
+		}
+	],
+	"temperature": 1250,
+	"time": 160
+}

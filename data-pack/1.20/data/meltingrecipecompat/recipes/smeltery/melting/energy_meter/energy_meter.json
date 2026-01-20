@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "energymeter"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "energymeter:meter"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 200
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 250
+		}
+	],
+	"temperature": 800,
+	"time": 60
+}

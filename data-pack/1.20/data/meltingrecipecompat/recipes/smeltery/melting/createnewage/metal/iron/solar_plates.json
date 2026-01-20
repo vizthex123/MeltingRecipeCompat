@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create_new_age"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "create_new_age:basic_solar_heating_plate"
+		},
+		{
+			"item": "create_new_age:advanced_solar_heating_plate"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 45
+		},
+		{
+			"fluid": "tconstruct:molten_zinc",
+			"amount": 10
+		},
+		{
+			"fluid": "tconstruct:molten_clay",
+			"amount": 1500
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 3000
+		}
+	],
+	"temperature": 800,
+	"time": 40
+}

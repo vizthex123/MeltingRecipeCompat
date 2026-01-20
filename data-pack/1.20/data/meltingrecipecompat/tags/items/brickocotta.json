@@ -1,0 +1,191 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:bricks",
+		{
+			"id": "clayworks:chiseled_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_red_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_red_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:short_red_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:long_red_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:tiled_red_bricks",
+			"required": false
+		},
+		{
+			"id": "createdeco:corner_red_bricks",
+			"required": false
+		},
+		{
+			"id": "xycraft_override:bricks_blue",
+			"required": false
+		},
+		{
+			"id": "xycraft_override:bricks_green",
+			"required": false
+		},
+		{
+			"id": "xycraft_override:bricks_red",
+			"required": false
+		},
+		{
+			"id": "xycraft_override:bricks_dark",
+			"required": false
+		},
+		{
+			"id": "xycraft_override:bricks_light",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:brick/stairs",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:brick/walls",
+			"required": false
+		},
+		{
+			"id": "immersiveengineering:clinker_brick",
+			"required": false
+		},
+		{
+			"id": "immersiveengineering:clinker_brick_sill",
+			"required": false
+		},
+		{
+			"id": "immersiveengineering:clinker_brick_quion",
+			"required": false
+		},
+		"minecraft:terracotta",
+		"minecraft:white_terracotta",
+		"minecraft:orange_terracotta",
+		"minecraft:magenta_terracotta",
+		"minecraft:light_blue_terracotta",
+		"minecraft:yellow_terracotta",
+		"minecraft:lime_terracotta",
+		"minecraft:pink_terracotta",
+		"minecraft:gray_terracotta",
+		"minecraft:light_gray_terracotta",
+		"minecraft:cyan_terracotta",
+		"minecraft:purple_terracotta",
+		"minecraft:blue_terracotta",
+		"minecraft:brown_terracotta",
+		"minecraft:green_terracotta",
+		"minecraft:red_terracotta",
+		"minecraft:black_terracotta",
+		{
+			"id": "clayworks:glazed_terracotta",
+			"required": false
+		},
+		"minecraft:white_glazed_terracotta",
+		"minecraft:orange_glazed_terracotta",
+		"minecraft:magenta_glazed_terracotta",
+		"minecraft:light_blue_glazed_terracotta",
+		"minecraft:yellow_glazed_terracotta",
+		"minecraft:lime_glazed_terracotta",
+		"minecraft:pink_glazed_terracotta",
+		"minecraft:gray_glazed_terracotta",
+		"minecraft:light_gray_glazed_terracotta",
+		"minecraft:cyan_glazed_terracotta",
+		"minecraft:purple_glazed_terracotta",
+		"minecraft:blue_glazed_terracotta",
+		"minecraft:brown_glazed_terracotta",
+		"minecraft:green_glazed_terracotta",
+		"minecraft:red_glazed_terracotta",
+		"minecraft:black_glazed_terracotta",
+		{
+			"id": "#meltingrecipecompat:terracotta/bricks",
+			"required": false
+		},
+		{
+			"id": "quark:shingles",
+			"required": false
+		},
+		{
+			"id": "quark:white_shingles",
+			"required": false
+		},
+		{
+			"id": "quark:orange_shingles",
+			"required": false
+		},
+		{
+			"id": "quark:magenta_shingles",
+			"required": false
+		},
+		{
+			"id": "quark:blue_shingles",
+			"required": false
+		},
+		{
+			"id": "quark:light_blue_shingles",
+			"required": false
+		},
+		{
+			"id": "quark:yellow_shingles",
+			"required": false
+		},
+		{
+			"id": "quark:green_shingles",
+			"required": false
+		},
+		{
+			"id": "quark:lime_shingles",
+			"required": false
+		},
+		{
+			"id": "quark:pink_shingles",
+			"required": false
+		},
+		{
+			"id": "quark:gray_shingles",
+			"required": false
+		},
+		{
+			"id": "quark:light_gray_shingles",
+			"required": false
+		},
+		{
+			"id": "quark:cyan_shingles",
+			"required": false
+		},
+		{
+			"id": "quark:purple_shingles",
+			"required": false
+		},
+		{
+			"id": "quark:brown_shingles",
+			"required": false
+		},
+		{
+			"id": "quark:red_shingles",
+			"required": false
+		},
+		{
+			"id": "quark:black_shingles",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:terracotta/stairs",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:terracotta/walls",
+			"required": false
+		}
+	]
+}

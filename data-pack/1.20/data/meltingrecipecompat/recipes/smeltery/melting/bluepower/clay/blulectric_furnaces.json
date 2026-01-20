@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bluepower"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "bluepower:blulectric_alloyfurnace"
+		},
+		{
+			"item": "bluepower:blulectric_furnace"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 5000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_silver",
+			"amount": 90
+		}
+	],
+	"temperature": 450,
+	"time": 112
+}

@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "industrialforegoingsouls"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "industrialforegoingsouls:soul_surge"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 90
+	},
+	"temperature": 800,
+	"time": 32
+}

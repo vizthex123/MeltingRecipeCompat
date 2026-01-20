@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ad_astra:gravity_normalizer"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 1500
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 720
+		},
+		{
+			"fluid": "tcintegrations:molten_desh",
+			"amount": 270
+		}
+	],
+	"temperature": 1450,
+	"time": 50
+}

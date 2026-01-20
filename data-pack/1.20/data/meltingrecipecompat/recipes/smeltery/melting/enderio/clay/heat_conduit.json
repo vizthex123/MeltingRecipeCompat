@@ -1,0 +1,40 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderio"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enderio:heat_conduit"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 62
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 250
+		},
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 11
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 11
+		},
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 22
+		}
+	],
+	"temperature": 450,
+	"time": 24
+}

@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "projectred_expansion"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "projectred_expansion:pneumatic_tube"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 75
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 93
+		}
+	],
+	"temperature": 500,
+	"time": 40
+}

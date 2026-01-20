@@ -1,0 +1,40 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ad_astra:tier_3_rocket"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_ostrum",
+		"amount": 6210
+	},
+	"byproducts": [
+		{
+			"fluid": "tcintegrations:molten_desh",
+			"amount": 1350
+		},
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 3190
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 810
+		},
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 270
+		}
+	],
+	"temperature": 500,
+	"time": 320
+}

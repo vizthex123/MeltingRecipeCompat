@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "projectred_expansion"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "projectred_expansion:battery_box"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_tin",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 270
+		}
+	],
+	"temperature": 225,
+	"time": 60
+}

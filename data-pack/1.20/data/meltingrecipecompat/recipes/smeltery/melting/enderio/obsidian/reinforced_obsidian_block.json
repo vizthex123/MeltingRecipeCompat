@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderio"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enderio:reinforced_obsidian_block"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 1000
+	},
+	"temperature": 1000,
+	"time": 160
+}

@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "bigreactors:wrench",
+			"required": false
+		},
+		{
+			"id": "essentials:wrench",
+			"required": false
+		},
+		{
+			"id": "ironchests:iron_dolly",
+			"required": false
+		},
+		{
+			"id": "voltaic:wrench",
+			"required": false
+		}
+	]
+}

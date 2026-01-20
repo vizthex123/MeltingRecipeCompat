@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "forestry:bronze_sword",
+			"required": false
+		},
+		{
+			"id": "forestry:bronze_hoe",
+			"required": false
+		},
+		{
+			"id": "forestry:broken_bronze_pickaxe",
+			"required": false
+		}
+	]
+}

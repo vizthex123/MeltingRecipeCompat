@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "prettypipes"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "prettypipes:low_retrieval_module"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 400
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 22
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 105
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 250
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 250
+		}
+	],
+	"temperature": 637,
+	"time": 40
+}

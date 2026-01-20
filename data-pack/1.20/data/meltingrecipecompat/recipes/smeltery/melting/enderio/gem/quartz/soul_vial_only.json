@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderio"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "enderio:empty_soul_vial"
+		},
+		{
+			"item": "enderio:entity_filter"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 1200
+	},
+	"temperature": 637,
+	"time": 80
+}

@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "industrialforegoing"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "industrialforegoing:conveyor_bouncing_upgrade"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 660
+	},
+	"temperature": 800,
+	"time": 28
+}

@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "thermalconstruct:molten_shellite",
+			"required": false
+		},
+		{
+			"id": "thermal_extra:shellite",
+			"required": false
+		}
+	]
+}

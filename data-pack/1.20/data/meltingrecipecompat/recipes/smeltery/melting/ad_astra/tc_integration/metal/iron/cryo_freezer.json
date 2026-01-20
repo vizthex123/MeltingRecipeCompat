@@ -1,0 +1,37 @@
+
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ad_astra:cryo_freezer"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 810
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 400
+		},
+		{
+			"fluid": "tcintegrations:molten_ostrum",
+			"amount": 540
+		},
+		{
+			"fluid": "minecraft:water",
+			"amount": 162000
+		}
+	],
+	"temperature": 800,
+	"time": 40
+}

@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "gendustry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "gendustry:blank_genetic_template"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_tin",
+		"amount": 1440
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 100
+		}
+	],
+	"temperature": 225,
+	"time": 36
+}

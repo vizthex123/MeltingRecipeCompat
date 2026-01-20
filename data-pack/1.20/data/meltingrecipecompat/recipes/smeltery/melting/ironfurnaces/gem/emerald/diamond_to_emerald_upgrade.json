@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironfurnaces"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ironfurnaces:upgrade_emerald"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_emerald",
+		"amount": 800
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 100
+		}
+	],
+	"temperature": 934,
+	"time": 60
+}

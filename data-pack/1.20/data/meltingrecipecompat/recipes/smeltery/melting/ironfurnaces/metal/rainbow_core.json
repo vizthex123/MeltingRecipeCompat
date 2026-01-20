@@ -1,0 +1,52 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironfurnaces"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ironfurnaces:rainbow_core"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_obsidian",
+			"amount": 8000
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 1200
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 1620
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 1080
+		},
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 11000
+		},
+		{
+			"fluid": "tconstruct:liquid_soul",
+			"amount": 2000
+		},
+		{
+			"fluid": "tconstruct:magma",
+			"amount": 1500
+		}
+	],
+	"temperature": 1250,
+	"time": 100
+}

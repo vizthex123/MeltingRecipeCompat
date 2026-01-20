@@ -1,10 +1,15 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
+about: Report a bug.
+title: "[Bug] "
 labels: Bug
 assignees: vizthex123
 
 ---
 
-**Minecraft Version:**
+**Describe the bug:**
+
+**What version(s) does this affect?**
+- [ ] 1.20.1
+- [ ] 1.19.2
+- [ ] 1.18.X

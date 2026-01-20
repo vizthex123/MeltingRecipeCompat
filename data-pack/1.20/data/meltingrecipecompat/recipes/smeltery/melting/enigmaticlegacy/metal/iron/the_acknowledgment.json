@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enigmaticlegacy"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enigmaticlegacy:the_acknowledgment"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 80
+	},
+	"temperature": 800,
+	"time": 48
+}

@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "railcraft:charge_motor"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_brass",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 540
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 270
+		},
+		{
+			"fluid": "tconstruct:molten_tin",
+			"amount": 180
+		}
+	],
+	"temperature": 605,
+	"time": 48
+}

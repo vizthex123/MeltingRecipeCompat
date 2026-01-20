@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "thermalconstruct:molten_dragonsteel",
+			"required": false
+		},
+		{
+			"id": "thermal_extra:dragonsteel",
+			"required": false
+		}
+	]
+}

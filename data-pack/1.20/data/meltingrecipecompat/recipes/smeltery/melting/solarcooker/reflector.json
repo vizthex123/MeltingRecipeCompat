@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "solarcooker"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "solarcooker:reflector"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 270
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 750
+		}
+	],
+	"temperature": 800,
+	"time": 64
+}

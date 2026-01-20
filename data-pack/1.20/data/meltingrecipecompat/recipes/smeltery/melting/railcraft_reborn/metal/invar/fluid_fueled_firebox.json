@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "railcraft:fluid_fueled_firebox"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_invar",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 330
+		}
+	],
+	"temperature": 900,
+	"time": 40
+}

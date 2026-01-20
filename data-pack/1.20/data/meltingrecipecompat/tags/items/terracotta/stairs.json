@@ -1,0 +1,301 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomemakeover:terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:white_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:orange_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:magenta_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:yellow_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:blue_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:light_blue_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:lime_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:pink_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:gray_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:light_gray_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:cyan_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:purple_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:brown_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:green_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:red_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:black_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:white_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:orange_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:magenta_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:yellow_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:blue_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_blue_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:lime_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:pink_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:gray_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_gray_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:cyan_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:purple_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:brown_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:green_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:red_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:black_terracotta_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:white_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:orange_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:magenta_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:yellow_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:blue_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_blue_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:lime_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:pink_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:gray_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_gray_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:cyan_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:purple_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:brown_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:green_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:red_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "clayworks:black_terracotta_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "createdeco:cracked_red_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_red_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "createdeco:short_red_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "createdeco:long_red_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "createdeco:tiled_red_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "createdeco:corner_red_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:white_shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:orange_shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:magenta_shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:blue_shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:light_blue_shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:yellow_shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:green_shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:lime_shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:pink_shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:gray_shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:light_gray_shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:cyan_shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:purple_shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:brown_shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:red_shingles_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:black_shingles_stairs",
+			"required": false
+		}
+	]
+}

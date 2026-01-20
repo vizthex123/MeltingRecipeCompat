@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:illumar_lamps"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:illumar_lamps"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 1500
+	},
+	"temperature": 750,
+	"time": 52
+}

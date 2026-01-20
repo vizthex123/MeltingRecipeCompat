@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "projectred_core"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "projectred_core:motor"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 180
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 90
+		}
+	],
+	"temperature": 500,
+	"time": 64
+}

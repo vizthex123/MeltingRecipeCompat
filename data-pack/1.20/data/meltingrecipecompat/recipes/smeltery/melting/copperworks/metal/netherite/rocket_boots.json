@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "copperworks"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "copperworks:rocket_boots"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 180,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 720,
+			"unit_size": 20
+		}
+	],
+	"temperature": 1250,
+	"time": 76
+}

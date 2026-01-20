@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "forestry:fermenter"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 2160
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 4000
+		}
+	],
+	"temperature": 700,
+	"time": 60
+}

@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "immersiveengineering:charging_station"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 3000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_nickel",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 405
+		}
+	],
+	"temperature": 750,
+	"time": 60
+}

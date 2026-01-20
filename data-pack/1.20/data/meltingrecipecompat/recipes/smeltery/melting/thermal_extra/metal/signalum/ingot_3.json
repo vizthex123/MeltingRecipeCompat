@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "thermal_extra:signalum_sword"
+		},
+		{
+			"item": "thermal_extra:signalum_shovel"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_signalum",
+		"amount": 270,
+		"unit_size": 10
+	},
+	"temperature": 999,
+	"time": 64
+}

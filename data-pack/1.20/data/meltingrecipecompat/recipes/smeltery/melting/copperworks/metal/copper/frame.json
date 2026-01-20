@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "copperworks"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "copperworks:copper_frame"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 360
+	},
+	"temperature": 500,
+	"time": 40
+}

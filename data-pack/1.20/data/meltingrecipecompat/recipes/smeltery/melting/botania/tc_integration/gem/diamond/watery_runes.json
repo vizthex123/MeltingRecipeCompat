@@ -1,0 +1,40 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "botania:rune_envy"
+		},
+		{
+			"item": "botania:rune_gluttony"
+		},
+		{
+			"item": "botania:rune_wrath"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 200
+	},
+	"byproducts": [
+		{
+			"fluid": "tcintegrations:molten_manasteel",
+			"amount": 135
+		},
+		{
+			"fluid": "minecraft:water",
+			"amount": 1000
+		}
+	],
+	"temperature": 1450,
+	"time": 52
+}

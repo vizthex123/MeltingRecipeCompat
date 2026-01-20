@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+		  "type": "mantle:tag_filled",
+		  "tag": "forge:rods/shellite"
+		},
+		{
+		  "type": "forge:mod_loaded",
+		  "modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:rods/shellite"
+	},
+	"result": {
+		"tag": "forge:shellite",
+		"amount": 90
+	},
+	"temperature": 1200,
+	"time": 12
+}

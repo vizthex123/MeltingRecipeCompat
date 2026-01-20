@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "extendedcrafting"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "extendedcrafting:ender_star"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 1000
+	},
+	"temperature": 477,
+	"time": 56
+}

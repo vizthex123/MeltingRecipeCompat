@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderio"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enderio:pulsating_photovoltaic_module"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 340
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 400
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 1000
+		}
+	],
+	"temperature": 700,
+	"time": 48
+}

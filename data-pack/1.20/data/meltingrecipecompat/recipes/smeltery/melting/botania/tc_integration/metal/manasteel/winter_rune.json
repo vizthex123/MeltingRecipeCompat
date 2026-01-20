@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "botania:rune_winter"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_manasteel",
+		"amount": 90
+	},
+	"byproducts": [
+		{
+			"fluid": "minecraft:water",
+			"amount": 1000
+		}
+	],
+	"temperature": 950,
+	"time": 48
+}

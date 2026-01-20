@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "reliquary"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "reliquary:phoenix_down"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 3750
+	},
+	"temperature": 750,
+	"time": 68
+}

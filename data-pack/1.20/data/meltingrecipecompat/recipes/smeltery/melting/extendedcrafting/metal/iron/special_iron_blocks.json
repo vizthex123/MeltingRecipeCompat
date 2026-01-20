@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "extendedcrafting"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "extendedcrafting:black_iron_block"
+		},
+		{
+			"item": "extendedcrafting:redstone_ingot_block"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 810
+	},
+	"temperature": 800,
+	"time": 180
+}

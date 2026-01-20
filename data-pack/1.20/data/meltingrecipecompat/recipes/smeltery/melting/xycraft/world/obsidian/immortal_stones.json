@@ -1,0 +1,38 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "xycraft_world"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "xycraft_world:immortal_stone_blue"
+		},
+		{
+			"item": "xycraft_world:immortal_stone_green"
+		},
+		{
+			"item": "xycraft_world:immortal_stone_red"
+		},
+		{
+			"item": "xycraft_world:immortal_stone_dark"
+		},
+		{
+			"item": "xycraft_world:immortal_stone_light"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 4000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_aluminum",
+			"amount": 360
+		}
+	],
+	"temperature": 1000,
+	"time": 140
+}

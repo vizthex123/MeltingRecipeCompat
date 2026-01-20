@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "portality"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "portality:generator"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 2800
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 1260
+		}
+	],
+	"temperature": 637,
+	"time": 76
+}

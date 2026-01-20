@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "xycraft_machines"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "xycraft_machines:hydro_pump"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_aluminum",
+		"amount": 140
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 165
+		}
+	],
+	"temperature": 425,
+	"time": 40
+}

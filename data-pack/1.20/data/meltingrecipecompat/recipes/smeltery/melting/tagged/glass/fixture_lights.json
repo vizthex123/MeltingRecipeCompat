@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:fixture_lights"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:fixture_lights"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 1250
+	},
+	"temperature": 750,
+	"time": 44
+}

@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ad_astra:rocket_nose_cone"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 270
+		}
+	],
+	"temperature": 950,
+	"time": 60
+}

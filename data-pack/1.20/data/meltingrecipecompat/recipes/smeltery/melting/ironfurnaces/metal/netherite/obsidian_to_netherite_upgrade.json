@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironfurnaces"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ironfurnaces:upgrade_netherite"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_obsidian",
+			"amount": 1000
+		},
+		{
+			"fluid": "tconstruct:liquid_soul",
+			"amount": 1000
+		},
+		{
+			"fluid": "tconstruct:magma",
+			"amount": 750
+		}
+	],
+	"temperature": 1250,
+	"time": 60
+}

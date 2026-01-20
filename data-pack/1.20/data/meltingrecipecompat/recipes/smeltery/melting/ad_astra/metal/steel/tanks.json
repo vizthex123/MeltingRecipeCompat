@@ -1,0 +1,42 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "tcintegrations"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "ad_astra:steel_tank"
+		},
+		{
+			"item": "ad_astra:desh_tank"
+		},
+		{
+			"item": "ad_astra:ostrum_tank"
+		},
+		{
+			"item": "ad_astra:calorite_tank"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 450
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 400
+		}
+	],
+	"temperature": 950,
+	"time": 40
+}

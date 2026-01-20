@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "copperworks"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "copperworks:radio"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 2520
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 360
+		}
+	],
+	"temperature": 500,
+	"time": 72
+}

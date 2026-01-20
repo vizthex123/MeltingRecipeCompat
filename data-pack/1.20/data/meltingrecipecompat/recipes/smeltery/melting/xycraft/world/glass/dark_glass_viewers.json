@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "xycraft_world"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "xycraft_world:glass_viewer_dark"
+		},
+		{
+			"item": "xycraft_world:glass_viewer_phantom_dark"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_amethyst",
+		"amount": 200
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 500
+		}
+	],
+	"temperature": 950,
+	"time": 96
+}

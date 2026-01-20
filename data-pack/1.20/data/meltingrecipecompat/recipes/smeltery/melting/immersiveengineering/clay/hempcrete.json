@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "immersiveengineering:hempcrete"
+		},
+		{
+			"item": "immersiveengineering:hempcrete_brick"
+		},
+		{
+			"item": "immersiveengineering:hempcrete_brick_cracked"
+		},
+		{
+			"item": "immersiveengineering:stairs_hempcrete"
+		},
+		{
+			"item": "immersiveengineering:stairs_hempcrete_brick"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 250
+	},
+	"temperature": 450,
+	"time": 32
+}

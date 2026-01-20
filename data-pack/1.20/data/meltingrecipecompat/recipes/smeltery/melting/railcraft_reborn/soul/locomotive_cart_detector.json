@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "railcraft:locomotive_detector"
+	},
+	"result": {
+		"fluid": "tconstruct:liquid_soul",
+		"amount": 8000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:magma",
+			"amount": 500
+		}
+	],
+	"temperature": 400,
+	"time": 60
+}

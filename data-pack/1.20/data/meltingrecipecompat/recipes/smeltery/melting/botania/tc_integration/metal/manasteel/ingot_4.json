@@ -1,0 +1,30 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "botania:mana_ring"
+		},
+		{
+			"item": "botania:mana_ring_greater"
+		},
+		{
+			"item": "botania:sextant"
+		}
+	],
+	"result": {
+		"fluid": "tcintegrations:molten_manasteel",
+		"amount": 360
+	},
+	"temperature": 950,
+	"time": 60
+}

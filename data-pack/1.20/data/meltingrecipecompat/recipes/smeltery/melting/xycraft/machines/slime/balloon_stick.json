@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "xycraft_machines"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "xycraft_machines:stake"
+	},
+	"result": {
+		"fluid": "tconstruct:earth_slime",
+		"amount": 250
+	},
+	"temperature": 50,
+	"time": 20
+}

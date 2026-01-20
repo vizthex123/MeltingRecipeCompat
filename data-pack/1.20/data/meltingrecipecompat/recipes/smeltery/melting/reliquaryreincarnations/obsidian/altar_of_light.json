@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "reliquary"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "reliquary:alkahestry_altar"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 1000
+	},
+	"temperature": 1000,
+	"time": 120
+}

@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "immersiveengineering:razor_wire"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 75
+	},
+	"temperature": 950,
+	"time": 56
+}

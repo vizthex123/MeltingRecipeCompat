@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:tools/bronze/cost_4"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:tools/bronze/cost_4"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 360,
+		"unit_size": 10
+	},
+	"temperature": 700,
+	"time": 104
+}

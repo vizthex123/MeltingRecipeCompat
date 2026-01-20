@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "createdeco"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "createdeco:brass_sheet_metal"
+		},
+		{
+			"item": "createdeco:brass_support"
+		},
+		{
+			"item": "createdeco:brass_support_wedge"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_brass",
+		"amount": 90
+	},
+	"temperature": 605,
+	"time": 40
+}

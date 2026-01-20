@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "forestry:raintank"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 540
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 2000
+		}
+	],
+	"temperature": 700,
+	"time": 60
+}

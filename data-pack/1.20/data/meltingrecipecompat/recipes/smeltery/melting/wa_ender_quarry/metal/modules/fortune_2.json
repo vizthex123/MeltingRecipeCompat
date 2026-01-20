@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "wa_ender_quarry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "wa_ender_quarry:module_fortune_2"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 100
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 90
+		}
+	],
+	"temperature": 800,
+	"time": 48
+}

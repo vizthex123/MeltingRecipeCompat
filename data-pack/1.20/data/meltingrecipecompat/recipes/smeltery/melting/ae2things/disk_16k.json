@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ae2things"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ae2things:disk_drive_16k"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 180
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 810
+		},
+		{
+			"fluid": "tconstruct:molten_amethyst",
+			"amount": 100
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 6000
+		}
+	],
+	"temperature": 1250,
+	"time": 80
+}

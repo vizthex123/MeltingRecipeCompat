@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "netherexp"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "netherexp:silica_sand"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 2000
+	},
+	"temperature": 750,
+	"time": 120
+}

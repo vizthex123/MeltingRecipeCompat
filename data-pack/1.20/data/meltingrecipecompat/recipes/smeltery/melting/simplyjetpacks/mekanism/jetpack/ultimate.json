@@ -1,0 +1,48 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "simplyjetpacks"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "simplyjetpacks:jetpack_mek4"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_osmium",
+		"amount": 7020
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 12710
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 11520
+		},
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 2520
+		},
+		{
+			"fluid": "tconstruct:molten_refined_obsidian",
+			"amount": 5940
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 8700
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 32000
+		}
+	],
+	"temperature": 975,
+	"time": 104
+}

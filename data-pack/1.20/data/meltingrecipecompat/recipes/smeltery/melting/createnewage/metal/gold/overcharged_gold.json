@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create_new_age"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "create_new_age:overcharged_gold"
+		},
+		{
+			"item": "create_new_age:overcharged_golden_sheet"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 90
+	},
+	"temperature": 700,
+	"time": 52
+}

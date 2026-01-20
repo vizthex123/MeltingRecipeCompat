@@ -1,0 +1,30 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:brick_slab",
+		{
+			"id": "createdeco:cracked_red_brick_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:corner_red_brick_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:short_red_brick_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:long_red_brick_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:mossy_red_brick_slab",
+			"required": false
+		},
+		{
+			"id": "createdeco:tiled_red_brick_slab",
+			"required": false
+		}
+	]
+}

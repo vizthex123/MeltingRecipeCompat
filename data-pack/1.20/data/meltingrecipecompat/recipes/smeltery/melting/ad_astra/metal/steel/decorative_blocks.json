@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "ad_astra:steel_factory_block"
+		},
+		{
+			"item": "ad_astra:steel_panel"
+		},
+		{
+			"item": "ad_astra:steel_plateblock"
+		},
+		{
+			"item": "ad_astra:steel_plating"
+		},
+		{
+			"item": "ad_astra:steel_plating_stairs"
+		},
+		{
+			"item": "ad_astra:steel_pillar"
+		},
+		{
+			"item": "ad_astra:glowing_steel_pillar"
+		},
+		{
+			"item": "ad_astra:steel_plating_button"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 10
+	},
+	"temperature": 950,
+	"time": 20
+}

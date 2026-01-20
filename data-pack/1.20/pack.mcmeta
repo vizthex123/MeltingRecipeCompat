@@ -1,0 +1,6 @@
+{
+	"pack" :{
+		"pack_format": 15,
+		"description": "Adds mod compat melting recipes to the Smeltery and Foundry (and their standalone versions)."
+	}
+}

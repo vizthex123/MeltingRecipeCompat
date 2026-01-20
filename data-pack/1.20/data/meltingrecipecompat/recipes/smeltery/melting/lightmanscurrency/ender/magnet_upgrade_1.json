@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "lightmanscurrency"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "lightmanscurrency:coin_chest_magnet_upgrade_1"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 250
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 80
+		},
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 200
+		}
+	],
+	"temperature": 477,
+	"time": 40
+}

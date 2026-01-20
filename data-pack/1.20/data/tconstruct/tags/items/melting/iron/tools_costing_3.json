@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "ad_astra:wrench",
+			"required": false
+		},
+		{
+			"id": "prettypipes:wrench",
+			"required": false
+		},
+		{
+			"id": "projectred_exploration:iron_sickle",
+			"required": false
+		}
+	]
+}

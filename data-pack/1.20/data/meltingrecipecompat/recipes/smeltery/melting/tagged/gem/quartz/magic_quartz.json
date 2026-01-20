@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:magic_quartz"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:magic_quartz"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 100
+	},
+	"temperature": 637,
+	"time": 48
+}

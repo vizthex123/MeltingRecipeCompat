@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:canteen"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_tin",
+		"amount": 360
+	},
+	"temperature": 225,
+	"time": 40
+}

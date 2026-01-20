@@ -1,0 +1,38 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ae2"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "ae2:advanced_card"
+		},
+		{
+			"item": "ae2:equal_distribution_card"
+		},
+		{
+			"item": "ae2:fuzzy_card"
+		},
+		{
+			"item": "ae2:speed_card"
+		},
+		{
+			"item": "ae2:inverter_card"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 135
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 100
+		}
+	],
+	"temperature": 800,
+	"time": 48
+}

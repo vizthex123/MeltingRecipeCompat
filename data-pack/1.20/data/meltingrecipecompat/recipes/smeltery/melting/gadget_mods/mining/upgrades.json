@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mininggadgets"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "mininggadgets:upgrade_empty"
+		},
+		{
+			"item": "mininggadgets:upgrade_freezing"
+		},
+		{
+			"item": "mininggadgets:upgrade_efficiency_1"
+		},
+		{
+			"item": "mininggadgets:upgrade_efficiency_2"
+		},
+		{
+			"item": "mininggadgets:upgrade_efficiency_3"
+		},
+		{
+			"item": "mininggadgets:upgrade_efficiency_4"
+		},
+		{
+			"item": "mininggadgets:upgrade_efficiency_5"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 200
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 250
+		}
+	],
+	"temperature": 1450,
+	"time": 32
+}

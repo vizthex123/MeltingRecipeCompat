@@ -1,0 +1,9 @@
+{
+	"type": "tconstruct:casting_table",
+	"fluid": {
+		"fluid": "tconstruct:magma",
+		"amount": 250
+	},
+	"result": "minecraft:magma_cream",
+	"cooling_time": 20
+}

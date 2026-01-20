@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "savage_and_ravage"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "savage_and_ravage:blast_proof_slab"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 30
+	},
+	"temperature": 700,
+	"time": 44
+}

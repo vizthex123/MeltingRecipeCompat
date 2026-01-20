@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "buildinggadgets2"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "buildinggadgets2:gadget_cut_paste"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 720
+	},
+	"temperature": 800,
+	"time": 40
+}

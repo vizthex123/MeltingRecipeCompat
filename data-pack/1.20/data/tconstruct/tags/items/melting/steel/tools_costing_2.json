@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "railcraft:steel_shears",
+			"required": false
+		}
+	]
+}

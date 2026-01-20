@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "laserbridges"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "laserbridges:laser_source_block"
+		},
+		{
+			"item": "laserbridges:laser_fence_source_block"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 315
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 4000
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 125
+		}
+	],
+	"temperature": 800,
+	"time": 120
+}

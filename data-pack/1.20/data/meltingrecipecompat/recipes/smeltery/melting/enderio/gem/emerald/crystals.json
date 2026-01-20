@@ -1,0 +1,38 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderio"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "enderio:vibrant_crystal"
+		},
+		{
+			"item": "enderio:ender_crystal"
+		},
+		{
+			"item": "enderio:enticing_crystal"
+		},
+		{
+			"item": "enderio:prescient_crystal"
+		},
+		{
+			"item": "enderio:staff_of_levity"
+		},
+		{
+			"item": "enderio:staff_of_travelling"
+		},
+		{
+			"item": "enderio:electromagnet"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_emerald",
+		"amount": 100
+	},
+	"temperature": 934,
+	"time": 72
+}

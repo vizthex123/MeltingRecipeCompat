@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "hole_filler_mod"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "hole_filler_mod:throwable_hole_filler_smart"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 250
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 200
+		}
+	],
+	"temperature": 450,
+	"time": 24
+}

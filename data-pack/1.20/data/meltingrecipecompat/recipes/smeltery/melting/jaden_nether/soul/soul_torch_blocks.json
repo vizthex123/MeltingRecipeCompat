@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "netherexp"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "netherexp:ghoul_o_lantern"
+		},
+		{
+			"item": "netherexp:soul_burning_skull_block"
+		},
+		{
+			"item": "netherexp:soul_burning_wither_skull_block"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:liquid_soul",
+		"amount": 250
+	},
+	"temperature": 400,
+	"time": 24
+}

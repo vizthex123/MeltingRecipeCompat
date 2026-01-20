@@ -1,0 +1,25 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "thermal_extra:soul_infused",
+			"required": false
+		},
+		{
+			"id": "thermal_extra:shellite",
+			"required": false
+		},
+		{
+			"id": "thermal_extra:twinite",
+			"required": false
+		},
+		{
+			"id": "thermal_extra:dragonsteel",
+			"required": false
+		},
+		{
+			"id": "thermal_extra:abyssal",
+			"required": false
+		}
+	]
+}

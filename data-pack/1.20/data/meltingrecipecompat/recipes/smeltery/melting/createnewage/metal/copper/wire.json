@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create_new_age"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "create_new_age:copper_wire"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 20
+	},
+	"temperature": 500,
+	"time": 40
+}

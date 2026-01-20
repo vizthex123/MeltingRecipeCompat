@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "byg"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"rate": "metal",
+	"ingredient": {
+		"tag": "forge:ores/pendorite"
+	},
+	"result": {
+		"fluid": "tcintegrations:pendorite",
+		"amount": 90
+	},
+	"temperature": 1175,
+	"time": 144
+}

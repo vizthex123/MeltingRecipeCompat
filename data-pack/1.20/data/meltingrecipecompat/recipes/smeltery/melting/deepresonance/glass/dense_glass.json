@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "deepresonance"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "deepresonance:dense_glass"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 4500
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_obsidian",
+			"amount": 1000
+		}
+	],
+	"temperature": 750,
+	"time": 140
+}

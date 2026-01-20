@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "disenchanting_table"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "disenchanting_table:disenchanting_table"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 4000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 200
+		}
+	],
+	"temperature": 1000,
+	"time": 160
+}

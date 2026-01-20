@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:fallout_lights"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:fallout_lights"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 150
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 20
+		}
+	],
+	"temperature": 800,
+	"time": 48
+}

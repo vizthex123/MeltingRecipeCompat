@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+		"type": "forge:not",
+			"value": {
+				"type": "forge:tag_empty",
+				"tag": "forge:plates/amethyst_bronze"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:plates/amethyst_bronze"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_amethyst_bronze",
+		"amount": 90
+	},
+	"temperature": 820,
+	"time": 60
+}

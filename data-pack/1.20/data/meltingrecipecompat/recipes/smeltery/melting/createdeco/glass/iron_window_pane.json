@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "createdeco"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "createdeco:iron_window_pane"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 125
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 50
+		}
+	],
+	"temperature": 800,
+	"time": 24
+}

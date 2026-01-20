@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ad_astra:tier_1_rover"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 2520
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 810
+		},
+		{
+			"fluid": "tcintegrations:molten_desh",
+			"amount": 1350
+		}
+	],
+	"temperature": 950,
+	"time": 200
+}

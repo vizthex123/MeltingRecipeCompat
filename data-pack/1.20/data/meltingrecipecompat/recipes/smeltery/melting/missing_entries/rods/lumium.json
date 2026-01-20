@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+		"type": "forge:not",
+			"value": {
+				"type": "forge:tag_empty",
+				"tag": "forge:rods/lumium"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:rods/lumium"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_lumium",
+		"amount": 90
+	},
+	"temperature": 1050,
+	"time": 20
+}

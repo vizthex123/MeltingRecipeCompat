@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "railcraft:energy_minecart"
+		},
+		{
+			"item": "railcraft:tank_minecart"
+		},
+		{
+			"item": "railcraft:world_spike_minecart"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 450
+	},
+	"temperature": 800,
+	"time": 44
+}

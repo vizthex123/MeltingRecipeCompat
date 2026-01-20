@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+		"type": "forge:not",
+			"value": {
+				"type": "forge:tag_empty",
+				"tag": "forge:coins/slimesteel"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:coins/slimesteel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_slimesteel",
+		"amount": 30
+	},
+	"temperature": 900,
+	"time": 40
+}

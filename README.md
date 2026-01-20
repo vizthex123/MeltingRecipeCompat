@@ -14,7 +14,7 @@ Report issues (and/or suggest mod support) [here](https://github.com/vizthex123/
 
 [Changes to default recipes](https://github.com/vizthex123/MeltingRecipeCompat/wiki/Vanilla-changes)
 
-[Supported mods](https://github.com/vizthex123/MeltingRecipeCompat/blob/main/CFAssets/support_table_new.md)
+[Supported mods](https://github.com/vizthex123/MeltingRecipeCompat/blob/main/CFAssets/support_table.md)
 
 <br />
 
@@ -23,3 +23,5 @@ Report issues (and/or suggest mod support) [here](https://github.com/vizthex123/
 [CurseForge](https://www.curseforge.com/minecraft/data-packs/melting-recipe-compatibility)
 
 [Modrinth](https://modrinth.com/datapack/melting-recipe-compatibility)
+
+[Discord](https://discord.com/invite/NtwzA6X) 

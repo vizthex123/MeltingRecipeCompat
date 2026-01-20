@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bigreactors"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "bigreactors:reinforced_turbinerotorshaft"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 360
+	},
+	"temperature": 950,
+	"time": 48
+}

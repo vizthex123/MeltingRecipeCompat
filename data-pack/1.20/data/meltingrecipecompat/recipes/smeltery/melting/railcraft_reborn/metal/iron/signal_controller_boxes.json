@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "railcraft:analog_signal_controller_box"
+		},
+		{
+			"item": "railcraft:signal_block_relay_box"
+		},
+		{
+			"item": "railcraft:signal_capacitor_box"
+		},
+		{
+			"item": "railcraft:signal_controller_box"
+		},
+		{
+			"item": "railcraft:signal_interlock_box"
+		},
+		{
+			"item": "railcraft:signal_receiver_box"
+		},
+		{
+			"item": "railcraft:signal_sequencer_box"
+		},
+		{
+			"item": "railcraft:token_signal_box"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 360
+	},
+	"temperature": 800,
+	"time": 40
+}

@@ -1,0 +1,27 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "thermal_extra:lumium_pickaxe"
+		},
+		{
+			"item": "thermal_extra:lumium_axe"
+		},
+		{
+			"item": "thermal_extra:lumium_helmet"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_lumium",
+		"amount": 450,
+		"unit_size": 10
+	},
+	"temperature": 1050,
+	"time": 72
+}

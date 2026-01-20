@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "forestry:electron_tube_ender"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 125
+	},
+	"temperature": 477,
+	"time": 32
+}

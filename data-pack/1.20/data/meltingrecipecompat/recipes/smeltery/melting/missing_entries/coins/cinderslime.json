@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+		"type": "forge:not",
+			"value": {
+				"type": "forge:tag_empty",
+				"tag": "forge:coins/cinderslime"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:coins/cinderslime"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_cinderslime",
+		"amount": 30
+	},
+	"temperature": 1050,
+	"time": 40
+}

@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "botania:mana_diamond"
+		},
+		{
+			"item": "botania:avatar"
+		},
+		{
+			"item": "botania:blood_pendant"
+		},
+		{
+			"item": "botania:divining_rod"
+		},
+		{
+			"item": "botania:divining_rod"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 100
+	},
+	"temperature": 1450,
+	"time": 72
+}

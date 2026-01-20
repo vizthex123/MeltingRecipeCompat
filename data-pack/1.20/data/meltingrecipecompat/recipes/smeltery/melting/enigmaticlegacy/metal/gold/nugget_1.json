@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enigmaticlegacy"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "enigmaticlegacy:animal_guide"
+		},
+		{
+			"item": "enigmaticlegacy:astral_potato"
+		},
+		{
+			"item": "enigmaticlegacy:curse_transposer"
+		},
+		{
+			"item": "enigmaticlegacy:enchantment_transposer"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 10
+	},
+	"temperature": 700,
+	"time": 12
+}

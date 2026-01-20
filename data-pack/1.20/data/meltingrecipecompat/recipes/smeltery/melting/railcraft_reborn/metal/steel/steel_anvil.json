@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "railcraft:steel_anvil"
+		},
+		{
+			"item": "railcraft:chipped_steel_anvil"
+		},
+		{
+			"item": "railcraft:damaged_steel_anvil"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 2790
+	},
+	"temperature": 950,
+	"time": 340
+}

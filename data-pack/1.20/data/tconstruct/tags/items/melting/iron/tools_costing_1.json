@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "immersiveengineering:wirecutter",
+			"required": false
+		},
+		{
+			"id": "projectred_exploration:wool_gin",
+			"required": false
+		},
+		{
+			"id": "rftoolsbase:smartwrench",
+			"required": false
+		},
+		{
+			"id": "rftoolsbase:smartwrench_select",
+			"required": false
+		}
+	]
+}

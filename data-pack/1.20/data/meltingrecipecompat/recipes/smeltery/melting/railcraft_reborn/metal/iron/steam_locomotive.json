@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "railcraft:steam_locomotive"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 1110
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:liquid_soul",
+			"amount": 2000
+		},
+		{
+			"fluid": "tconstruct:magma",
+			"amount": 125
+		}
+	],
+	"temperature": 800,
+	"time": 100
+}

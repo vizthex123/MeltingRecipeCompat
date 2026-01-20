@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "laboratoryblocks"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "laboratoryblocks:laboratory_door"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 25
+	},
+	"temperature": 637,
+	"time": 52
+}

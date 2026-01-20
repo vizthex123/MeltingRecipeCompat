@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "thermal_extra:signalum_hammer"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_signalum",
+		"amount": 1350,
+		"unit_size": 20
+	},
+	"temperature": 999,
+	"time": 100
+}

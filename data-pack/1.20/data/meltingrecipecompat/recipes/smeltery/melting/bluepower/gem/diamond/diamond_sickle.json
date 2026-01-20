@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bluepower"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "bluepower:diamond_sickle"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 300,
+		"unit_size": 10
+	},
+	"temperature": 1450,
+	"time": 144
+}

@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderio"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "enderio:energized_gear"
+		},
+		{
+			"item": "enderio:vibrant_gear"
+		},
+		{
+			"item": "enderio:dark_bimetal_gear"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 400
+	},
+	"temperature": 800,
+	"time": 120
+}

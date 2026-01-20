@@ -1,0 +1,89 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "#enderio:clear_glass",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_p",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_np",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_m",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_nm",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_a",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_na",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_d",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_dp",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_dnp",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_dm",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_dnm",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_da",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_dna",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_e",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_ep",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_enp",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_em",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_enm",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_ea",
+			"required": false
+		},
+		{
+			"id": "#enderio:clear_glass_ena",
+			"required": false
+		}
+	]
+}

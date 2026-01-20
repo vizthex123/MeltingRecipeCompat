@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mininggadgets"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mininggadgets:upgrade_size_2"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 900
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 3500
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 1500
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 250
+		}
+	],
+	"temperature": 1250,
+	"time": 48
+}

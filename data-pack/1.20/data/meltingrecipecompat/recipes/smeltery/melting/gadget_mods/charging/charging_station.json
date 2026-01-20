@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "charginggadgets"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "charginggadgets:charging_station"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 360
+	},
+	"temperature": 800,
+	"time": 60
+}

@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:tools/copper/cost_4"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:tools/copper/cost_4"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 360,
+		"unit_size": 10
+	},
+	"temperature": 500,
+	"time": 92
+}

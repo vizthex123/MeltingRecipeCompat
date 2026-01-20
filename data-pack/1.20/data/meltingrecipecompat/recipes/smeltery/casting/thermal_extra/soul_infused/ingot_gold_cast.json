@@ -1,0 +1,27 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "thermalconstruct"
+			}
+		}
+	],
+	"type": "tconstruct:casting_table",
+	"fluid": {
+		"fluid": "thermal_extra:soul_infused",
+		"amount": 90
+	},
+	"result": {
+		"tag": "forge:ingots/soul_infused"
+	},
+	"cast": {
+		"tag": "tconstruct:casts/multi_use/ingot"
+	},
+	"cooling_time": 80
+}

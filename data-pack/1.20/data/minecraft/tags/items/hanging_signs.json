@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "netherexp:claret_hanging_sign",
+			"required": false
+		},
+		{
+			"id": "netherexp:smokestalk_hanging_sign",
+			"required": false
+		},
+		{
+			"id": "phantasm:pream_hanging_sign",
+			"required": false
+		}
+	]
+}

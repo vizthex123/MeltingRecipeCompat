@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "laboratoryblocks"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "laboratoryblocks:screwed_laboratory_block"
+		},
+		{
+			"item": "laboratoryblocks:enlighted_screwed_laboratory_block"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 6
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 30
+		}
+	],
+	"temperature": 637,
+	"time": 40
+}

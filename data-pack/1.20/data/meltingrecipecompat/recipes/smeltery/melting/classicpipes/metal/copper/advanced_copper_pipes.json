@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "classicpipes"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "classicpipes:advanced_copper_pipe"
+		},
+		{
+			"item": "classicpipes:advanced_copper_fluid_pipe"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 20
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 10
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 125
+		}
+	],
+	"temperature": 500,
+	"time": 56
+}

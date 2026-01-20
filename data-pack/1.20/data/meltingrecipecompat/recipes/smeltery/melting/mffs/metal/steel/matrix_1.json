@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mffs"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "mffs:focus_matrix"
+		},
+		{
+			"item": "mffs:anti_hostile_module"
+		},
+		{
+			"item": "mffs:inverter_module"
+		},
+		{
+			"item": "mffs:scale_module"
+		},
+		{
+			"item": "mffs:silence_module"
+		},
+		{
+			"item": "mffs:sponge_module"
+		},
+		{
+			"item": "mffs:warn_module"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 40
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 11
+		}
+	],
+	"temperature": 950,
+	"time": 40
+}

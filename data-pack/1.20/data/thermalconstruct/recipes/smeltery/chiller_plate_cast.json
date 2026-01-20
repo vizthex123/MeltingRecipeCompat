@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermalconstruct"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal_extra:chiller_plate_cast"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 450
+	},
+	"temperature": 700,
+	"time": 64
+}

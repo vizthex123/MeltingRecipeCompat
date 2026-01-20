@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "appmek"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "appmek:chemical_storage_cell_16k"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_osmium",
+		"amount": 270
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 810
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 4000
+		}
+	],
+	"temperature": 975,
+	"time": 112
+}

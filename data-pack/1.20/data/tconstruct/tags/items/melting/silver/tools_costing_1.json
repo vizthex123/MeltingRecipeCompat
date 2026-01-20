@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "abnormals_delight:silver_knife",
+			"required": false
+		},
+		{
+			"id": "caverns_and_chasms:silver_shovel",
+			"required": false
+		},
+		{
+			"id": "iceandfire:silver_shovel",
+			"required": false
+		},
+		{
+			"id": "projectred_exploration:athame",
+			"required": false
+		}
+	]
+}

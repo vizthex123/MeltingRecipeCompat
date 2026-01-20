@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "forestry:bronze_pickaxe",
+			"required": false
+		},
+		{
+			"id": "forestry:bronze_axe",
+			"required": false
+		}
+	]
+}

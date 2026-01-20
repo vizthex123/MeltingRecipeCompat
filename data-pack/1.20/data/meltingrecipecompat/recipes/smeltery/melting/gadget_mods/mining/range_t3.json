@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mininggadgets"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mininggadgets:upgrade_range_3"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 1300
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_emerald",
+			"amount": 1100
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 6250
+		}
+	],
+	"temperature": 1450,
+	"time": 44
+}

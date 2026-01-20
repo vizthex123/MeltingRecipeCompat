@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "railcraft:blast_furnace_bricks"
+	},
+	"result": {
+		"fluid": "tconstruct:liquid_soul",
+		"amount": 1000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:magma",
+			"amount": 50
+		}
+	],
+	"temperature": 400,
+	"time": 60
+}

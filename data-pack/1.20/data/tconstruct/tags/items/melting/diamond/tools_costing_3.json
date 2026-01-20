@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "projectred_exploration:diamond_sickle",
+			"required": false
+		}
+	]
+}

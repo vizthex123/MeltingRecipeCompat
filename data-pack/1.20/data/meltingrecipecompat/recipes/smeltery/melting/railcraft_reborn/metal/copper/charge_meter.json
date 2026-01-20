@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "railcraft:charge_meter"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 180
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_brass",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 250
+		}
+	],
+	"temperature": 500,
+	"time": 40
+}

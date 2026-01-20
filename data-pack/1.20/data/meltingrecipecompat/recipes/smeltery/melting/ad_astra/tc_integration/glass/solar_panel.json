@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ad_astra:solar_panel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 3000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 180
+		},
+		{
+			"fluid": "tcintegrations:molten_desh",
+			"amount": 900
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 300
+		}
+	],
+	"temperature": 750,
+	"time": 40
+}

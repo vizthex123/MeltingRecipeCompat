@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+		  "type": "mantle:tag_filled",
+		  "tag": "forge:rods/twinite"
+		},
+		{
+		  "type": "forge:mod_loaded",
+		  "modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:rods/twinite"
+	},
+	"result": {
+		"tag": "forge:twinite",
+		"amount": 90
+	},
+	"temperature": 900,
+	"time": 13
+}

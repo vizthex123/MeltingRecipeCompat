@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "prettypipes:pipe_frame",
+			"required": false
+		},
+		{
+			"id": "prettypipes:pipe",
+			"required": false
+		},
+		{
+			"id": "ppfluids:fluid_pipe",
+			"required": false
+		}
+	]
+}

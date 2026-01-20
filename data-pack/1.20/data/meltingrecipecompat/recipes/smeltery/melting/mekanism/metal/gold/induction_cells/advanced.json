@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:advanced_induction_cell"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 8640
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 5220
+		},
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 630
+		},
+		{
+			"fluid": "tconstruct:molten_steel",
+			"amount": 1800
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 20000
+		}
+	],
+	"temperature": 700,
+	"time": 200
+}

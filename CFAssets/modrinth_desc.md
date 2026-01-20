@@ -1,8 +1,8 @@
-This datapack adds mod compat melting recipes to [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct).
+This datapack adds mod compat melting recipes to [Tinker's Construct](https://modrinth.com/mod/tinkers-construct).
 
 Originally designed for my modpack, [The Essence of Everything: Quintessence](https://www.curseforge.com/minecraft/modpacks/teoe-2).
 
-Since the recipe syntax is the same for the 1.18 and 1.19 versions, any changes & additions will apply to both of them (provided the supported mods are available for that version).
+I'll try to add support across all versions, but - as with all of my projects - my current focus is on 1.20.1. Feel free to suggest support I should add on the [issue tracker](https://github.com/vizthex123/MeltingRecipeCompat/issues) or [discord server](https://discord.com/invite/NtwzA6X).
 
 <br />
 
@@ -16,4 +16,4 @@ Since the recipe syntax is the same for the 1.18 and 1.19 versions, any changes 
 
 <br />
 
-## _[Mod support table](https://github.com/vizthex123/MeltingRecipeCompat/wiki/Mod-support) and [changes to default recipes](https://github.com/vizthex123/MeltingRecipeCompat/wiki/Vanilla-changes)._
+## _[Mod support table](https://github.com/vizthex123/MeltingRecipeCompat/blob/main/CFAssets/support_table.md) and [changes to default recipes](https://github.com/vizthex123/MeltingRecipeCompat/wiki/Vanilla-changes)._

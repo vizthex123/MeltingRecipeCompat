@@ -1,0 +1,69 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "botania:azulejo_0",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_1",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_2",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_3",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_4",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_5",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_6",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_7",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_8",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_9",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_10",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_11",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_12",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_13",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_14",
+			"required": false
+		},
+		{
+			"id": "botania:azulejo_15",
+			"required": false
+		}
+	]
+}

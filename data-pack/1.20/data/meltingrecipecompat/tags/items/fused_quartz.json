@@ -1,0 +1,93 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "enderio:pressurized_fluid_tank",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_p",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_np",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_m",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_nm",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_a",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_na",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_d",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_dp",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_dnp",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_dm",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_dnm",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_da",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_dna",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_e",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_ep",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_enp",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_em",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_enm",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_ea",
+			"required": false
+		},
+		{
+			"id": "#enderio:fused_quartz_ena",
+			"required": false
+		}
+	]
+}

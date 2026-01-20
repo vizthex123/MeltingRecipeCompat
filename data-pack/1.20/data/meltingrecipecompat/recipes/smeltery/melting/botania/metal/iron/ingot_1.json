@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "botania:piston_relay"
+		},
+		{
+			"item": "botania:turntable"
+		}
+	],
+	"result": {
+			"fluid": "tconstruct:molten_iron",
+			"amount": 90
+	},
+	"temperature": 800,
+	"time": 52
+}

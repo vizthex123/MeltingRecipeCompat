@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "ad_astra:space_suit"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 855,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 810,
+			"unit_size": 25
+		}
+	],
+	"temperature": 950,
+	"time": 48
+}

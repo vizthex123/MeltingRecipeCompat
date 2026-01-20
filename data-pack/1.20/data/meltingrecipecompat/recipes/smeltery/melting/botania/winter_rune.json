@@ -1,0 +1,25 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "tcintegrations"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "botania:rune_winter"
+	},
+	"result": {
+		"fluid": "minecraft:water",
+		"amount": 1000
+	},
+	"temperature": 0,
+	"time": 16
+}

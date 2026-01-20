@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironfurnaces"
+		},
+		{
+			"type": "mantle:tag_filled",
+			"tag": "forge:ingots/silver"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ironfurnaces:upgrade_silver"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_silver",
+		"amount": 630
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 90
+		}
+	],
+	"temperature": 790,
+	"time": 60
+}

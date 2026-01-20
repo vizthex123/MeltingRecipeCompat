@@ -1,0 +1,25 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "appbot"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "tcintegrations"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "appbot:mana_cell_housing"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_glass",
+		"amount": 2000
+	},
+	"temperature": 750,
+	"time": 52
+}

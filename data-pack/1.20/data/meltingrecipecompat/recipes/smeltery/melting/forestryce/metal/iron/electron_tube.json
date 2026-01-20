@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "forestry:electron_tube_iron"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 112
+	},
+	"temperature": 800,
+	"time": 32
+}

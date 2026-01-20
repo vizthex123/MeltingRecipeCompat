@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderio"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "enderio:ensouled_chassis"
+		},
+		{
+			"item": "enderio:aversion_obelisk"
+		},
+		{
+			"item": "enderio:xp_obelisk"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 500
+	},
+	"temperature": 637,
+	"time": 60
+}

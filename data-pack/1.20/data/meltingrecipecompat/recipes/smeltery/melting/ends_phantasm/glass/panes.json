@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "phantasm"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "phantasm:crystal_glass_pane"
+		},
+		{
+			"item": "phantasm:void_crystal_glass_pane"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 125
+	},
+	"temperature": 750,
+	"time": 64
+}

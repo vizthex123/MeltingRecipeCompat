@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "xycraft_machines"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "xycraft_machines:ignition_plate"
+		},
+		{
+			"item": "xycraft_machines:water_block"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_aluminum",
+		"amount": 90
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 30
+		}
+	],
+	"temperature": 425,
+	"time": 40
+}

@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironbookshelves"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ironbookshelves:netherite_bookshelf"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_obsidian",
+			"amount": 8000
+		},
+		{
+			"fluid": "tconstruct:molten_emerald",
+			"amount": 800
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 800
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 720
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 360
+		}
+	],
+	"temperature": 1250,
+	"time": 84
+}

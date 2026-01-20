@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderio"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "enderio:powered_spawner"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 500
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_emerald",
+			"amount": 200
+		}
+	],
+	"temperature": 637,
+	"time": 80
+}

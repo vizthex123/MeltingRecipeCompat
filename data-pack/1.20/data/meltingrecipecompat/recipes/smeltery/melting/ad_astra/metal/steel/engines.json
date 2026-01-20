@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "tcintegrations"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "ad_astra:steel_engine"
+		},
+		{
+			"item": "ad_astra:desh_engine"
+		},
+		{
+			"item": "ad_astra:ostrum_engine"
+		},
+		{
+			"item": "ad_astra:calorite_engine"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 1300
+	},
+	"temperature": 950,
+	"time": 48
+}

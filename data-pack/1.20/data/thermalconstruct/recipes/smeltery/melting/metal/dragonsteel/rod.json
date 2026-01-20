@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+		  "type": "mantle:tag_filled",
+		  "tag": "forge:rods/dragonsteel"
+		},
+		{
+		  "type": "forge:mod_loaded",
+		  "modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:rods/dragonsteel"
+	},
+	"result": {
+		"tag": "forge:dragonsteel",
+		"amount": 90
+	},
+	"temperature": 1200,
+	"time": 14
+}

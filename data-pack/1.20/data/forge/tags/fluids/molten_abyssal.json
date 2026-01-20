@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "thermalconstruct:molten_abyssal",
+			"required": false
+		},
+		{
+			"id": "thermal_extra:abyssal",
+			"required": false
+		}
+	]
+}

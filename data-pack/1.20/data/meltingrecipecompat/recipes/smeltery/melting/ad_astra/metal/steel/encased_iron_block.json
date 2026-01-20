@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ad_astra:encased_iron_block"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 8
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 4
+		}
+	],
+	"temperature": 950,
+	"time": 20
+}

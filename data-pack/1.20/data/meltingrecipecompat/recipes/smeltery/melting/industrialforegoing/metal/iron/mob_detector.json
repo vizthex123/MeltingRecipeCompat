@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "industrialforegoing"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "industrialforegoing:mob_detector"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 540
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 360
+		},
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 300
+		}
+	],
+	"temperature": 800,
+	"time": 72
+}

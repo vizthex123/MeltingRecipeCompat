@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "thermalconstruct"
+			}
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "thermal_extra:dragonsteel_chestplate"
+	},
+	"result": {
+		"tag": "forge:molten_dragonsteel",
+		"amount": 720,
+		"unit_size": 10
+	},
+	"temperature": 1200,
+	"time": 88
+}

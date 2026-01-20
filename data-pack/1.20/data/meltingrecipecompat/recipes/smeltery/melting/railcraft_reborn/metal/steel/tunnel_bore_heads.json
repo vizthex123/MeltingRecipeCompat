@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "railcraft:iron_tunnel_bore_head"
+		},
+		{
+			"item": "railcraft:bronze_tunnel_bore_head"
+		},
+		{
+			"item": "railcraft:steel_tunnel_bore_head"
+		},
+		{
+			"item": "railcraft:diamond_tunnel_bore_head"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 720
+	},
+	"temperature": 950,
+	"time": 60
+}

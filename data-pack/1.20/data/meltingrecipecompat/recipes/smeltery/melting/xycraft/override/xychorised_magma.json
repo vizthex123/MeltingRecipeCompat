@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "xycraft_override"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "xycraft_override:magma_blue"
+		},
+		{
+			"item": "xycraft_override:magma_green"
+		},
+		{
+			"item": "xycraft_override:magma_red"
+		},
+		{
+			"item": "xycraft_override:magma_dark"
+		},
+		{
+			"item": "xycraft_override:magma_light"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:magma",
+		"amount": 1000
+	},
+	"temperature": 300,
+	"time": 124
+}

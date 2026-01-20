@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "solarcooker"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "solarcooker:shining_diamond_block"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 900
+	},
+	"temperature": 1450,
+	"time": 228
+}

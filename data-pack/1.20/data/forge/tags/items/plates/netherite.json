@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "createdeco:netherite_sheet",
+			"required": false
+		}
+	]
+}

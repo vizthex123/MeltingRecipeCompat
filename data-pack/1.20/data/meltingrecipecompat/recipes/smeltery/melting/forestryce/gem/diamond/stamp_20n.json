@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "forestry:stamp_20n"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 33
+	},
+	"temperature": 1450,
+	"time": 20
+}

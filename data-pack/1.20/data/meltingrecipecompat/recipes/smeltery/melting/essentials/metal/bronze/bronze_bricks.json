@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "essentials"
+		},
+		{
+			"type": "mantle:tag_filled",
+			"tag": "forge:ingots/bronze"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "essentials:bricks_bronze"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 10
+	},
+	"temperature": 700,
+	"time": 40
+}

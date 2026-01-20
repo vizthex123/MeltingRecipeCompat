@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "phantasm"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "phantasm:polished_obsidian"
+		},
+		{
+			"item": "phantasm:polished_obsidian_bricks"
+		},
+		{
+			"item": "phantasm:polished_obsidian_bricks_stairs"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 500
+	},
+	"temperature": 1000,
+	"time": 80
+}

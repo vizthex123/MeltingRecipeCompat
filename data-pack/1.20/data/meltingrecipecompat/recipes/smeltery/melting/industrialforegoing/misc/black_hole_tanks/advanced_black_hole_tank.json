@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "industrialforegoing"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "industrialforegoing:advanced_black_hole_tank"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_debris",
+		"amount": 180
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 1080
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 540
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 400
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 750
+		}
+	],
+	"temperature": 1175,
+	"time": 72
+}

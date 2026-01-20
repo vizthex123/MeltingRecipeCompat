@@ -1,0 +1,85 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "createdeco:decal_warning",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_creeper",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_skull",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_flow",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_ice",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_radioactive",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_up",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_down",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_left",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_right",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_bottom_left",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_bottom_right",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_top_left",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_top_right",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_cross",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_fluid",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_fire",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_fire_diamond",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_electrical",
+			"required": false
+		},
+		{
+			"id": "createdeco:decal_no_entry",
+			"required": false
+		}
+	]
+}

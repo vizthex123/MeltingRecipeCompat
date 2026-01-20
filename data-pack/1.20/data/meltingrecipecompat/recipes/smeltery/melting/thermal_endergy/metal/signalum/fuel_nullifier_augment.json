@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermalendergy"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermalendergy:dynamo_fuel_nullifier_augment"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_signalum",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 125
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 500
+		},
+		{
+			"fluid": "tconstruct:molten_obsidian",
+			"amount": 500
+		}
+	],
+	"temperature": 999,
+	"time": 60
+}

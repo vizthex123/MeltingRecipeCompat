@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create_new_age"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "create_new_age:overcharged_diamond_wire"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 50
+	},
+	"temperature": 1450,
+	"time": 40
+}

@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "forestry:farm_valve_stone_brick"
+		},
+		{
+			"item": "forestry:farm_valve_mossy_stone_brick"
+		},
+		{
+			"item": "forestry:farm_valve_cracked_stone_brick"
+		},
+		{
+			"item": "forestry:farm_valve_brick_chiseled"
+		},
+		{
+			"item": "forestry:farm_valve_cut_sandstone"
+		},
+		{
+			"item": "forestry:farm_valve_sandstone_chiseled"
+		},
+		{
+			"item": "forestry:farm_valve_brick_nether"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 2000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_tin",
+			"amount": 360
+		}
+	],
+	"temperature": 750,
+	"time": 40
+}

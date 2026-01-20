@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "copperworks"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "copperworks:copper_bracer_chestplate"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 2880,
+		"unit_size": 20
+	},
+	"temperature": 500,
+	"time": 80
+}

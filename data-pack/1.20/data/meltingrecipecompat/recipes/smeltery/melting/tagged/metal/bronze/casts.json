@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:casts/bronze"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:casts/bronze"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 360
+	},
+	"temperature": 700,
+	"time": 68
+}

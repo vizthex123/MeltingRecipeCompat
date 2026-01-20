@@ -1,0 +1,113 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bluepower"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "bluepower:fixture_white"
+		},
+		{
+			"item": "bluepower:fixture_orange"
+		},
+		{
+			"item": "bluepower:fixture_magenta"
+		},
+		{
+			"item": "bluepower:fixture_blue"
+		},
+		{
+			"item": "bluepower:fixture_light_blue"
+		},
+		{
+			"item": "bluepower:fixture_yellow"
+		},
+		{
+			"item": "bluepower:fixture_lime"
+		},
+		{
+			"item": "bluepower:fixture_green"
+		},
+		{
+			"item": "bluepower:fixture_pink"
+		},
+		{
+			"item": "bluepower:fixture_gray"
+		},
+		{
+			"item": "bluepower:fixture_light_gray"
+		},
+		{
+			"item": "bluepower:fixture_cyan"
+		},
+		{
+			"item": "bluepower:fixture_purple"
+		},
+		{
+			"item": "bluepower:fixture_brown"
+		},
+		{
+			"item": "bluepower:fixture_red"
+		},
+		{
+			"item": "bluepower:fixture_black"
+		},
+		{
+			"item": "bluepower:fixtureinverted_white"
+		},
+		{
+			"item": "bluepower:fixtureinverted_orange"
+		},
+		{
+			"item": "bluepower:fixtureinverted_magenta"
+		},
+		{
+			"item": "bluepower:fixtureinverted_blue"
+		},
+		{
+			"item": "bluepower:fixtureinverted_light_blue"
+		},
+		{
+			"item": "bluepower:fixtureinverted_yellow"
+		},
+		{
+			"item": "bluepower:fixtureinverted_lime"
+		},
+		{
+			"item": "bluepower:fixtureinverted_green"
+		},
+		{
+			"item": "bluepower:fixtureinverted_pink"
+		},
+		{
+			"item": "bluepower:fixtureinverted_gray"
+		},
+		{
+			"item": "bluepower:fixtureinverted_light_gray"
+		},
+		{
+			"item": "bluepower:fixtureinverted_cyan"
+		},
+		{
+			"item": "bluepower:fixtureinverted_purple"
+		},
+		{
+			"item": "bluepower:fixtureinverted_brown"
+		},
+		{
+			"item": "bluepower:fixtureinverted_red"
+		},
+		{
+			"item": "bluepower:fixtureinverted_black"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 1000
+	},
+	"temperature": 750,
+	"time": 52
+}

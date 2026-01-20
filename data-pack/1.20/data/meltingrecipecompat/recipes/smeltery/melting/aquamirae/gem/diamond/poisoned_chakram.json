@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquamirae"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "aquamirae:poisoned_chakra"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 400,
+		"unit_size": 10
+	},
+	"temperature": 1450,
+	"time": 60
+}

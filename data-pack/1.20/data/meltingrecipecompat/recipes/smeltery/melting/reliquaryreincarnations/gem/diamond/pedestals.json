@@ -1,0 +1,75 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "reliquary"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "reliquary:pedestals/white_pedestal"
+		},
+		{
+			"item": "reliquary:pedestals/orange_pedestal"
+		},
+		{
+			"item": "reliquary:pedestals/magenta_pedestal"
+		},
+		{
+			"item": "reliquary:pedestals/blue_pedestal"
+		},
+		{
+			"item": "reliquary:pedestals/light_blue_pedestal"
+		},
+		{
+			"item": "reliquary:pedestals/yellow_pedestal"
+		},
+		{
+			"item": "reliquary:pedestals/lime_pedestal"
+		},
+		{
+			"item": "reliquary:pedestals/pink_pedestal"
+		},
+		{
+			"item": "reliquary:pedestals/gray_pedestal"
+		},
+		{
+			"item": "reliquary:pedestals/light_gray_pedestal"
+		},
+		{
+			"item": "reliquary:pedestals/cyan_pedestal"
+		},
+		{
+			"item": "reliquary:pedestals/purple_pedestal"
+		},
+		{
+			"item": "reliquary:pedestals/brown_pedestal"
+		},
+		{
+			"item": "reliquary:pedestals/green_pedestal"
+		},
+		{
+			"item": "reliquary:pedestals/red_pedestal"
+		},
+		{
+			"item": "reliquary:pedestals/black_pedestal"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 400
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 20
+		},
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 400
+		}
+	],
+	"temperature": 1450,
+	"time": 120
+}

@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "createappliedkinetics"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "createappliedkinetics:energy_provider"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_brass",
+		"amount": 1800
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 10
+		}
+	],
+	"temperature": 605,
+	"time": 100
+}

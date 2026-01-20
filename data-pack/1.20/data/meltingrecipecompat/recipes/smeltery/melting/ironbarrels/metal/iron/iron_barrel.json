@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ironbarrels"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ironbarrels:iron_barrel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 720
+	},
+	"temperature": 800,
+	"time": 60
+}

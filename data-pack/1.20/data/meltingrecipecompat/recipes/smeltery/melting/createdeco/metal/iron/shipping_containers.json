@@ -1,0 +1,65 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "createdeco"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "createdeco:white_shipping_container"
+		},
+		{
+			"item": "createdeco:orange_shipping_container"
+		},
+		{
+			"item": "createdeco:magenta_shipping_container"
+		},
+		{
+			"item": "createdeco:blue_shipping_container"
+		},
+		{
+			"item": "createdeco:light_blue_shipping_container"
+		},
+		{
+			"item": "createdeco:yellow_shipping_container"
+		},
+		{
+			"item": "createdeco:lime_shipping_container"
+		},
+		{
+			"item": "createdeco:pink_shipping_container"
+		},
+		{
+			"item": "createdeco:gray_shipping_container"
+		},
+		{
+			"item": "createdeco:light_gray_shipping_container"
+		},
+		{
+			"item": "createdeco:cyan_shipping_container"
+		},
+		{
+			"item": "createdeco:purple_shipping_container"
+		},
+		{
+			"item": "createdeco:brown_shipping_container"
+		},
+		{
+			"item": "createdeco:green_shipping_container"
+		},
+		{
+			"item": "createdeco:red_shipping_container"
+		},
+		{
+			"item": "createdeco:black_shipping_container"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 180
+	},
+	"temperature": 800,
+	"time": 64
+}

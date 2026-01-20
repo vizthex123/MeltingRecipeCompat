@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "hole_filler_mod"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "hole_filler_mod:throwable_hole_filler_water"
+	},
+	"result": {
+		"fluid": "minecraft:water",
+		"amount": 2000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_clay",
+			"amount": 125
+		}
+	],
+	"temperature": 0,
+	"time": 16
+}

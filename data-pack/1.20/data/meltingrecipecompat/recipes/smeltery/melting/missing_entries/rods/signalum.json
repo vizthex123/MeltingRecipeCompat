@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+		"type": "forge:not",
+			"value": {
+				"type": "forge:tag_empty",
+				"tag": "forge:rods/signalum"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:rods/signalum"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_signalum",
+		"amount": 90
+	},
+	"temperature": 999,
+	"time": 20
+}

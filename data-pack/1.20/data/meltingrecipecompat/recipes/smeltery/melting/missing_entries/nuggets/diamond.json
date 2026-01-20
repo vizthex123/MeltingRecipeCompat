@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+			"value": {
+			"type": "forge:tag_empty",
+			"tag": "forge:nuggets/diamond"
+		},
+		"type": "forge:not"
+	  }
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:nuggets/diamond"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 10
+	},
+	"temperature": 1450,
+	"time": 6
+}

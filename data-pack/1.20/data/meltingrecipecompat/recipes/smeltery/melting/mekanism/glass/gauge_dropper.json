@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "mekanism:gauge_dropper"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 1250
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 90
+		}
+	],
+	"temperature": 750,
+	"time": 50
+}

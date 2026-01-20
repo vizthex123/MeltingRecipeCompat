@@ -1,0 +1,73 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "prettypipes"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "prettypipes:blank_module"
+		},
+		{
+			"item": "prettypipes:stack_size_module"
+		},
+		{
+			"item": "prettypipes:redstone_module"
+		},
+		{
+			"item": "prettypipes:low_speed_module"
+		},
+		{
+			"item": "prettypipes:low_low_priority_module"
+		},
+		{
+			"item": "prettypipes:medium_low_priority_module"
+		},
+		{
+			"item": "prettypipes:high_low_priority_module"
+		},
+		{
+			"item": "prettypipes:low_high_priority_module"
+		},
+		{
+			"item": "prettypipes:medium_high_priority_module"
+		},
+		{
+			"item": "prettypipes:high_high_priority_module"
+		},
+		{
+			"item": "prettypipes:low_crafting_module"
+		},
+		{
+			"item": "prettypipes:nbt_filter_modifier"
+		},
+		{
+			"item": "prettypipes:round_robin_sorting_modifier"
+		},
+		{
+			"item": "prettypipes:random_sorting_modifier"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 400
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 22
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 15
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 250
+		}
+	],
+	"temperature": 637,
+	"time": 40
+}

@@ -1,0 +1,27 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "thermalconstruct"
+			}
+		}
+	],
+	"type": "tconstruct:casting_table",
+	"fluid": {
+		"fluid": "thermal_extra:abyssal",
+		"amount": 360
+	},
+	"result": {
+		"tag": "forge:gears/abyssal"
+	},
+	"cast": {
+		"tag": "tconstruct:casts/multi_use/gear"
+	},
+	"cooling_time": 160
+}

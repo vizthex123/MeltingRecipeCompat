@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "railcraft:embarking_track_kit"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 62
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:earth_slime",
+			"amount": 62
+		}
+	],
+	"temperature": 477,
+	"time": 28
+}

@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ad_astra:steel_plating_pressure_plate"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 20
+	},
+	"temperature": 950,
+	"time": 20
+}

@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "essentials"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "essentials:wither_cannon"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 6000
+	},
+	"byproducts": [
+		{
+			"fluid": "minecraft:milk",
+			"amount": 250
+		}
+	],
+	"temperature": 1000,
+	"time": 240
+}

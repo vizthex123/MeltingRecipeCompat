@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "laboratoryblocks"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "laboratoryblocks:laboratory_bookshelf"
+		},
+		{
+			"item": "laboratoryblocks:chiseled_laboratory_bookshelf"
+		},
+		{
+			"item": "laboratoryblocks:enlighted_laboratory_bookshelf"
+		},
+		{
+			"item": "laboratoryblocks:enlighted_chiseled_laboratory_bookshelf"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 75
+	},
+	"temperature": 637,
+	"time": 56
+}

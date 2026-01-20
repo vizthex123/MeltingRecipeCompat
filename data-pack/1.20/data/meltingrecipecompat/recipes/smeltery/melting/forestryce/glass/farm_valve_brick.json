@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forestry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "forestry:farm_valve_brick"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 2000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_clay",
+			"amount": 1000
+		},
+		{
+			"fluid": "tconstruct:molten_tin",
+			"amount": 360
+		}
+	],
+	"temperature": 750,
+	"time": 40
+}

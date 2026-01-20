@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+		"type": "forge:not",
+			"value": {
+				"type": "forge:tag_empty",
+				"tag": "forge:coins/hepatizon"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:coins/hepatizon"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_hepatizon",
+		"amount": 30
+	},
+	"temperature": 1400,
+	"time": 40
+}

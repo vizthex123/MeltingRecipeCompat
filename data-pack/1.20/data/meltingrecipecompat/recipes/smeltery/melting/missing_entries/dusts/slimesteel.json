@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+		"type": "forge:not",
+			"value": {
+				"type": "forge:tag_empty",
+				"tag": "forge:dusts/slimesteel"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:dusts/slimesteel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_slimesteel",
+		"amount": 90
+	},
+	"temperature": 900,
+	"time": 60
+}

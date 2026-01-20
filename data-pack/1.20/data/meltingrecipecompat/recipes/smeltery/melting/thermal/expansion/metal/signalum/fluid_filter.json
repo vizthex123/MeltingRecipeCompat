@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal"
+		},
+		{
+			"type": "forge:item_exists",
+			"item": "thermal:fluid_filter_augment"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal:fluid_filter_augment"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_signalum",
+		"amount": 90
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_bronze",
+			"amount": 40
+		}
+	],
+	"temperature": 999,
+	"time": 68
+}

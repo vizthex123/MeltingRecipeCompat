@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "mekanism:upgrade_anchor"
+		},
+		{
+			"item": "mekanism:upgrade_energy"
+		},
+		{
+			"item": "mekanism:upgrade_filter"
+		},
+		{
+			"item": "mekanism:upgrade_gas"
+		},
+		{
+			"item": "mekanism:upgrade_muffling"
+		},
+		{
+			"item": "mekanism:upgrade_speed"
+		},
+		{
+			"item": "mekanism:upgrade_stone_generator"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 2000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 180
+		}
+	],
+	"temperature": 750,
+	"time": 32
+}

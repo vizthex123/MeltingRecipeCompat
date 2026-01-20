@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "extendedcrafting"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "extendedcrafting:ender_ingot_block"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 2250
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 810
+		}
+	],
+	"temperature": 477,
+	"time": 180
+}

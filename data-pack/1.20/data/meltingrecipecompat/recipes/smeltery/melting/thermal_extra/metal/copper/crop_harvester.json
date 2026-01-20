@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal_extra:device_harvester"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 1620
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 810
+		}
+	],
+	"temperature": 500,
+	"time": 60
+}

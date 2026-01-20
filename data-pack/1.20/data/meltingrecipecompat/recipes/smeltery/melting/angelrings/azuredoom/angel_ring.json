@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "doomangelring"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "doomangelring:angelring"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 540,
+		"unit_size": 10
+	},
+	"temperature": 700,
+	"time": 52
+}

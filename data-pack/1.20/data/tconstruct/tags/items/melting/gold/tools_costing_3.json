@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "create:wrench",
+			"required": false
+		},
+		{
+			"id": "projectred_exploration:gold_sickle",
+			"required": false
+		}
+	]
+}

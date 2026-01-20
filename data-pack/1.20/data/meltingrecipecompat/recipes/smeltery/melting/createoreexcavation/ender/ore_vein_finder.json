@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "createoreexcavation"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "createoreexcavation:vein_finder"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 250
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_amethyst",
+			"amount": 100
+		}
+	],
+	"temperature": 477,
+	"time": 52
+}

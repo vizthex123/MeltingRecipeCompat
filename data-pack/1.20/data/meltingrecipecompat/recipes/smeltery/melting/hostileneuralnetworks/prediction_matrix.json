@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "hostilenetworks"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "hostilenetworks:prediction_matrix"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 62
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 5
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 5
+		}
+	],
+	"temperature": 750,
+	"time": 40
+}

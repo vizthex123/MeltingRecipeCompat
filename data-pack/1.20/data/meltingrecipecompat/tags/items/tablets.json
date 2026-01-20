@@ -1,0 +1,29 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "rftoolsbase:tablet",
+			"required": false
+		},
+		{
+			"id": "rftoolsbase:tablet_filled",
+			"required": false
+		},
+		{
+			"id": "rftoolscontrol:tablet_processor",
+			"required": false
+		},
+		{
+			"id": "rftoolsstorage:tablet_scanner",
+			"required": false
+		},
+		{
+			"id": "rftoolsutility:tablet_redstone",
+			"required": false
+		},
+		{
+			"id": "rftoolsutility:tablet_screen",
+			"required": false
+		}
+	]
+}

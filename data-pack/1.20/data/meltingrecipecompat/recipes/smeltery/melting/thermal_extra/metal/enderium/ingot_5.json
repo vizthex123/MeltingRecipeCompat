@@ -1,0 +1,27 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "thermal_extra:enderium_pickaxe"
+		},
+		{
+			"item": "thermal_extra:enderium_axe"
+		},
+		{
+			"item": "thermal_extra:enderium_helmet"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_enderium",
+		"amount": 450,
+		"unit_size": 10
+	},
+	"temperature": 1350,
+	"time": 72
+}

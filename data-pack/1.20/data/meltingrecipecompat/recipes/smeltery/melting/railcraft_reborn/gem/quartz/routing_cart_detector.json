@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "railcraft:routing_detector"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 3200
+	},
+	"temperature": 637,
+	"time": 80
+}

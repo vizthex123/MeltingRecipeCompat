@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "immersiveengineering:slab_storage_aluminum"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_aluminum",
+		"amount": 405
+	},
+	"temperature": 425,
+	"time": 116
+}

@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "createdeco"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "createdeco:blue_copper_lamp"
+		},
+		{
+			"item": "createdeco:green_copper_lamp"
+		},
+		{
+			"item": "createdeco:red_copper_lamp"
+		},
+		{
+			"item": "createdeco:yellow_copper_lamp"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 100
+	},
+	"temperature": 500,
+	"time": 44
+}

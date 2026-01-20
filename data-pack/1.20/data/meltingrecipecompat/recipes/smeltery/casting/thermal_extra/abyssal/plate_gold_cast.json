@@ -1,0 +1,27 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "thermalconstruct"
+			}
+		}
+	],
+	"type": "tconstruct:casting_table",
+	"fluid": {
+		"fluid": "thermal_extra:abyssal",
+		"amount": 90
+	},
+	"result": {
+		"tag": "forge:plates/abyssal"
+	},
+	"cast": {
+		"tag": "tconstruct:casts/multi_use/plate"
+	},
+	"cooling_time": 80
+}

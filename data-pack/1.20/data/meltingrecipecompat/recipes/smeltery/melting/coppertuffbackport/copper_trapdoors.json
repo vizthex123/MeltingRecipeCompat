@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "copperandtuffbackport"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "copperandtuffbackport:copper_trapdoor"
+		},
+		{
+			"item": "copperandtuffbackport:exposed_copper_trapdoor"
+		},
+		{
+			"item": "copperandtuffbackport:weathered_copper_trapdoor"
+		},
+		{
+			"item": "copperandtuffbackport:oxidized_copper_trapdoor"
+		},
+		{
+			"item": "copperandtuffbackport:waxed_copper_trapdoor"
+		},
+		{
+			"item": "copperandtuffbackport:waxed_exposed_copper_trapdoor"
+		},
+		{
+			"item": "copperandtuffbackport:waxed_weathered_copper_trapdoor"
+		},
+		{
+			"item": "copperandtuffbackport:waxed_oxidized_copper_trapdoor"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 2430
+	},
+	"temperature": 500,
+	"time": 120
+}

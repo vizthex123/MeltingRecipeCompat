@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:brick/deco"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:brick/deco"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 500
+	},
+	"temperature": 450,
+	"time": 80
+}

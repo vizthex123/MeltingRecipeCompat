@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "caverns_and_chasms:silver_pickaxe",
+			"required": false
+		},
+		{
+			"id": "caverns_and_chasms:silver_axe",
+			"required": false
+		},
+		{
+			"id": "iceandfire:silver_pickaxe",
+			"required": false
+		},
+		{
+			"id": "iceandfire:silver_axe",
+			"required": false
+		}
+	]
+}

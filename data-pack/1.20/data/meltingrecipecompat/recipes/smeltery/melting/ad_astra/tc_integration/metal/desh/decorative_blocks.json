@@ -1,0 +1,45 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "ad_astra:desh_plateblock"
+		},
+		{
+			"item": "ad_astra:desh_factory_block"
+		},
+		{
+			"item": "ad_astra:desh_panel"
+		},
+		{
+			"item": "ad_astra:desh_pillar"
+		},
+		{
+			"item": "ad_astra:glowing_desh_pillar"
+		},
+		{
+			"item": "ad_astra:desh_plating"
+		},
+		{
+			"item": "ad_astra:desh_plating_stairs"
+		},
+		{
+			"item": "ad_astra:desh_plating_button"
+		}
+	],
+	"result": {
+		"fluid": "tcintegrations:molten_desh",
+		"amount": 10
+	},
+	"temperature": 500,
+	"time": 20
+}

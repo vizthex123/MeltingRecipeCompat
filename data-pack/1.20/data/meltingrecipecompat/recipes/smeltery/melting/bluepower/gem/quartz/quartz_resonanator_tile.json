@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bluepower"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "bluepower:quartz_resonator_tile"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 133
+	},
+	"temperature": 637,
+	"time": 56
+}

@@ -1,0 +1,22 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:brick_slab",
+		{
+			"id": "immersiveengineering:slab_clinker_brick",
+			"required": false
+		},
+		{
+			"id": "quark:brick_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:brick/slabs",
+			"required": false
+		},
+		{
+			"id": "#meltingrecipecompat:terracotta/slabs",
+			"required": false
+		}
+	]
+}

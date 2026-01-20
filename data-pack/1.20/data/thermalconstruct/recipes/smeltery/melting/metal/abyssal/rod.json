@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+		  "type": "mantle:tag_filled",
+		  "tag": "forge:rods/abyssal"
+		},
+		{
+		  "type": "forge:mod_loaded",
+		  "modid": "thermal_extra"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "forge:rods/abyssal"
+	},
+	"result": {
+		"tag": "forge:abyssal",
+		"amount": 90
+	},
+	"temperature": 1200,
+	"time": 16
+}

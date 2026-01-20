@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "laboratoryblocks"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "laboratoryblocks:laboratory_ladder"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 20
+	},
+	"temperature": 800,
+	"time": 24
+}

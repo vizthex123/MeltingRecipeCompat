@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "gendustry"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "gendustry:elite_upgrade_frame"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 1800
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_bronze",
+			"amount": 1620
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 180
+		}
+	],
+	"temperature": 700,
+	"time": 44
+}

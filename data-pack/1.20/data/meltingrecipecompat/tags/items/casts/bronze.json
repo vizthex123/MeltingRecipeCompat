@@ -1,0 +1,101 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "thermal:chiller_ball_cast",
+			"required": false
+		},
+		{
+			"id": "thermal:chiller_ingot_cast",
+			"required": false
+		},
+		{
+			"id": "thermal:chiller_rod_cast",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_coin",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_gem",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_gear",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_wire",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_pick_head",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_small_axe_head",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_small_blade",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_adze_head",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_hammer_head",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_broad_blade",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_broad_axe_head",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_large_plate",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_tough_binding",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_tool_handle",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_tough_handle",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_bow_limb",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_bow_grip",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_helmet_plating",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_chestplate_plating",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_leggings_plating",
+			"required": false
+		},
+		{
+			"id": "thermalconstruct:bronze_cast_maille",
+			"required": false
+		}
+	]
+}

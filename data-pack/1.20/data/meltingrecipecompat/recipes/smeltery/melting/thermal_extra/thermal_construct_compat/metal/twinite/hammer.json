@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_extra"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermalconstruct"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "thermal_extra:twinite_hammer"
+	},
+	"result": {
+		"fluid": "thermalconstruct:molten_twinite",
+		"amount": 1350,
+		"unit_size": 20
+	},
+	"temperature": 900,
+	"time": 100
+}

@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "create:copper_diving_boots",
+			"required": false
+		},
+		{
+			"id": "more_useful_copper:copper_boots",
+			"required": false
+		}
+	]
+}

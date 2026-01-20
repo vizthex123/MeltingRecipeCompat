@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "railcraft:zinc_electrode"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_zinc",
+		"amount": 270
+	},
+	"temperature": 420,
+	"time": 40
+}

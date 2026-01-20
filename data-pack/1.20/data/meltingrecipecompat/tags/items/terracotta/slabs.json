@@ -1,0 +1,277 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomemakeover:terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:white_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:orange_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:magenta_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:yellow_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:blue_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:light_blue_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:lime_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:pink_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:gray_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:light_gray_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:cyan_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:purple_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:brown_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:green_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:red_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "biomemakeover:black_terracotta_brick_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:white_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:orange_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:magenta_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:yellow_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:blue_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_blue_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:lime_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:pink_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:gray_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:light_gray_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:cyan_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:purple_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:brown_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:green_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:red_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "clayworks:black_terracotta_slab",
+			"required": false
+		},
+		{
+			"id": "quark:shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:white_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:orange_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:magenta_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:blue_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:light_blue_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:yellow_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:green_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:lime_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:pink_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:gray_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:light_gray_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:cyan_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:purple_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:brown_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:red_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:black_shingles_slab",
+			"required": false
+		},
+		{
+			"id": "quark:shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:white_shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:orange_shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:magenta_shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:blue_shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:light_blue_shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:yellow_shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:green_shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:lime_shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:pink_shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:gray_shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:light_gray_shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:cyan_shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:purple_shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:brown_shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:red_shingles_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:black_shingles_vertical_slab",
+			"required": false
+		}
+	]
+}

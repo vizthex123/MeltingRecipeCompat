@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create_new_age"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "create_new_age:overcharged_iron"
+		},
+		{
+			"item": "create_new_age:overcharged_iron_sheet"
+		},
+		{
+			"item": "create_new_age:nuclear_fuel"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 90
+	},
+	"temperature": 800,
+	"time": 56
+}

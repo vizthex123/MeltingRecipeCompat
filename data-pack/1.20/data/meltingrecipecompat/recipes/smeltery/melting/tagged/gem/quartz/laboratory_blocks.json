@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:laboratory_blocks"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:laboratory_blocks"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 12
+	},
+	"temperature": 637,
+	"time": 48
+}

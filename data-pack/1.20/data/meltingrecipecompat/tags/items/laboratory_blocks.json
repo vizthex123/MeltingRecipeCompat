@@ -1,0 +1,229 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "laboratoryblocks:laboratory_block",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:laboratory_pillar",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:gray_laboratory_pillar",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:gray_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:mixed_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:oak_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:dark_oak_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:spruce_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:birch_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:jungle_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:acacia_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:mangrove_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:cherry_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:bamboo_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:crimson_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:warped_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_laboratory_block",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_laboratory_pillar",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_gray_laboratory_pillar",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_gray_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_mixed_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:oak_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:dark_oak_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:spruce_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:birch_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:jungle_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:acacia_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:mangrove_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:cherry_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:bamboo_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:crimson_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:warped_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_oak_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_dark_oak_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_spruce_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_birch_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_jungle_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_acacia_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_mangrove_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_cherry_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_bamboo_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_crimson_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_warped_laboratory_floor",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_oak_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_dark_oak_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_spruce_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_birch_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_jungle_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_acacia_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_mangrove_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_cherry_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_bamboo_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_crimson_laboratory_tiles",
+			"required": false
+		},
+		{
+			"id": "laboratoryblocks:enlighted_warped_laboratory_tiles",
+			"required": false
+		}
+	]
+}

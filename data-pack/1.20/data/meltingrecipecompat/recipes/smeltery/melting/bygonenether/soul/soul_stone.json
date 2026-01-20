@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bygonenether"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "bygonenether:soul_stone"
+	},
+	"result": {
+		"fluid": "tconstruct:liquid_soul",
+		"amount": 1000
+	},
+	"temperature": 400,
+	"time": 80
+}

@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "createsifter"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "createsifter:advanced_brass_mesh"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_brass",
+		"amount": 990
+	},
+	"temperature": 605,
+	"time": 60
+}

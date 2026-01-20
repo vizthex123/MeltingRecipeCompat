@@ -1,0 +1,49 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "prettypipes"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "prettypipes:item_terminal"
+		},
+		{
+			"item": "prettypipes:crafting_terminal"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 2190
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 1170
+		},
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 45
+		},
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 800
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 400
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 500
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 750
+		}
+	],
+	"temperature": 800,
+	"time": 60
+}

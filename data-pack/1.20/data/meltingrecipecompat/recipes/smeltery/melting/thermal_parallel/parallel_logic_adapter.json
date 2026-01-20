@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "thermal_parallel"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "thermal_parallel:argument_parallel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_signalum",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_bronze",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 90
+		}
+	],
+	"temperature": 999,
+	"time": 40
+}

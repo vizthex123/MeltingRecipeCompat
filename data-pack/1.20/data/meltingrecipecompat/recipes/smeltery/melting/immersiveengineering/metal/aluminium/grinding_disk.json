@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "immersiveengineering"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "immersiveengineering:grindingdisk"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_aluminum",
+		"amount": 540,
+		"unit_size": 1
+	},
+	"temperature": 425,
+	"time": 92
+}

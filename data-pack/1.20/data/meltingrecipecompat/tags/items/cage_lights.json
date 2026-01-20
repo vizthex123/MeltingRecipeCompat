@@ -1,0 +1,133 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "projectred_illumination:white_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:orange_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:magenta_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:light_blue_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:yellow_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:lime_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:pink_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:gray_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:light_gray_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:cyan_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:purple_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:blue_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:brown_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:green_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:red_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:black_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:white_inverted_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:orange_inverted_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:magenta_inverted_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:light_blue_inverted_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:yellow_inverted_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:lime_inverted_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:pink_inverted_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:gray_inverted_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:light_gray_inverted_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:cyan_inverted_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:purple_inverted_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:blue_inverted_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:brown_inverted_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:green_inverted_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:red_inverted_cage_light",
+			"required": false
+		},
+		{
+			"id": "projectred_illumination:black_inverted_cage_light",
+			"required": false
+		}
+	]
+}

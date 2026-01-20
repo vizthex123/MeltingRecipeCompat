@@ -1,0 +1,37 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mekanism"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "mekanism:ultimate_control_circuit"
+		},
+		{
+			"item": "mekanism:sps_port"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_refined_obsidian",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 400
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_osmium",
+			"amount": 90
+		}
+	],
+	"temperature": 1475,
+	"time": 66
+}

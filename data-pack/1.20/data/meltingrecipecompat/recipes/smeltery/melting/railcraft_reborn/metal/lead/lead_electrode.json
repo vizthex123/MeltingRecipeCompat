@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "railcraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "railcraft:lead_electrode"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_lead",
+		"amount": 270
+	},
+	"temperature": 330,
+	"time": 40
+}

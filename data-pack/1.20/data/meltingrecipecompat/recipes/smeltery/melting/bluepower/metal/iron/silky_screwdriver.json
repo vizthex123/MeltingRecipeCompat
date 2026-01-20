@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bluepower"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "bluepower:silky_screwdriver"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 90,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_tungsten",
+			"amount": 10,
+			"unit_size": 1
+		}
+	],
+	"temperature": 800,
+	"time": 60
+}

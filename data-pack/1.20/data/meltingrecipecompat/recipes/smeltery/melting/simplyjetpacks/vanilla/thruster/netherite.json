@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "simplyjetpacks"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "simplyjetpacks:thruster_vanilla4"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 450
+	},
+	"temperature": 1250,
+	"time": 72
+}

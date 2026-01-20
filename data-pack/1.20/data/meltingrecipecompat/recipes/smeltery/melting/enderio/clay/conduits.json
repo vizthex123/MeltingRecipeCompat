@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderio"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "enderio:energy_conduit"
+		},
+		{
+			"item": "enderio:item_conduit"
+		},
+		{
+			"item": "enderio:redstone_conduit"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 24
+	},
+	"temperature": 450,
+	"time": 24
+}
