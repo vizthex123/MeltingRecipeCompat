@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:tools/netherite/paxels"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+			"tag": "meltingrecipecompat:tools/netherite/paxels"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 270,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 700,
+			"unit_size": 25
+		}
+	],
+	"temperature": 1250,
+	"time": 80
+}

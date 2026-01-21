@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:tools/neptunium/cost_2"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:tools/neptunium/cost_2"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_neptunium",
+		"amount": 180,
+		"unit_size": 10
+	},
+	"temperature": 950,
+	"time": 120
+}

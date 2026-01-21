@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:spell_prism"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 400
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 360
+		}
+	],
+	"temperature": 637,
+	"time": 60
+}

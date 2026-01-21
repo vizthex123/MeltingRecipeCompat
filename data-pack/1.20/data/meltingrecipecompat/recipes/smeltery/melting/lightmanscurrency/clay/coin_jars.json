@@ -7,7 +7,7 @@
 	],
 	"type": "tconstruct:melting",
 	"ingredient": {
-		"tag": "lightmanscurrency:coin_jar_all"
+		"tag": "lightmanscurrency:coin_jar/all"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_clay",

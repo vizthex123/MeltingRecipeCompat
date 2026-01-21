@@ -1,0 +1,33 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "azurepaxels:netherite_paxel",
+			"required": false
+		},
+		{
+			"id": "easypaxellite:netherite_paxel_ingot",
+			"required": false
+		},
+		{
+			"id": "easypaxellite:netherite_paxel",
+			"required": false
+		},
+		{
+			"id": "onlypaxel:netherite_paxel",
+			"required": false
+		},
+		{
+			"id": "only_paxel:netherite_paxel",
+			"required": false
+		},
+		{
+			"id": "simple_paxels:netherite_paxel",
+			"required": false
+		},
+		{
+			"id": "#forge:paxels/netherite",
+			"required": false
+		}
+	]
+}

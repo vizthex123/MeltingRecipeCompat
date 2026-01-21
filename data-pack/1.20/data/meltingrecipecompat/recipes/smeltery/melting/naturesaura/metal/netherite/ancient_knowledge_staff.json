@@ -7,12 +7,12 @@
 	],
 	"type": "tconstruct:melting",
 	"ingredient": {
-		"item": "naturesaura:pet_reviver"
+		"item": "naturesaura:netherite_finder"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_netherite",
 		"amount": 90
 	},
 	"temperature": 1250,
-	"time": 68
+	"time": 60
 }

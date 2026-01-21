@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:glyph_decelerate"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:liquid_soul",
+			"amount": 1000
+		}
+	],
+	"temperature": 700,
+	"time": 48
+}

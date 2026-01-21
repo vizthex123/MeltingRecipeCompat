@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:drygmy_charm"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_source_gem",
+		"amount": 300
+	},
+	"temperature": 980,
+	"time": 40
+}

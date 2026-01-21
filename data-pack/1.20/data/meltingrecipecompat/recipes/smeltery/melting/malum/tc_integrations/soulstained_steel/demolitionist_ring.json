@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "malum:ring_of_the_demolitionist"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_soul_stained_steel",
+		"amount": 90
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 540
+		}
+	],
+	"temperature": 950,
+	"time": 40
+}

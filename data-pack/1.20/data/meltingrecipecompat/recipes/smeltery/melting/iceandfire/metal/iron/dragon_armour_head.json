@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "iceandfire:dragonarmor_iron_head"
+		},
+		{
+			"item": "iceandfire:dragonarmor_iron_neck"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 4050
+	},
+	"temperature": 800,
+	"time": 300
+}

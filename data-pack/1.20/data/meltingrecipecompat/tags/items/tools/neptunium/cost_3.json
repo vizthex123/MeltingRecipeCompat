@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "aquaculture:neptunium_pickaxe",
+			"required": false
+		},
+		{
+			"id": "aquaculture:neptunium_axe",
+			"required": false
+		},
+		{
+			"id": "aquaculture:neptunium_bow",
+			"required": false
+		}
+	]
+}

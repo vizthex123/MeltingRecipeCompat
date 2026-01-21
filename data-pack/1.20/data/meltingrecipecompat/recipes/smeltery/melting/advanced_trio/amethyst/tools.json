@@ -1,0 +1,27 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "advanced_amethyst"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "advanced_amethyst:amethyst_pickaxe"
+		},
+		{
+			"item": "advanced_amethyst:amethyst_axe"
+		},
+		{
+			"item": "advanced_amethyst:amethyst_excavator"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_amethyst",
+		"amount": 300,
+		"unit_size": 25
+	},
+	"temperature": 950,
+	"time": 80
+}

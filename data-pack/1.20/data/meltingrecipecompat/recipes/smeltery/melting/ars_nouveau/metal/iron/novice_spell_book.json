@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:novice_spell_book"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 810
+	},
+	"temperature": 800,
+	"time": 60
+}

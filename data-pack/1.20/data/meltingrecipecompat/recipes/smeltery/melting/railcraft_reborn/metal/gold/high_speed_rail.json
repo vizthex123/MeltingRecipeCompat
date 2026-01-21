@@ -11,12 +11,12 @@
 	},
 	"result": {
 		"fluid": "tconstruct:molten_gold",
-		"amount": 33
+		"amount": 30
 	},
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_steel",
-			"amount": 33
+			"amount": 30
 		}
 	],
 	"temperature": 700,

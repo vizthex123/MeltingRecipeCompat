@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:lingering_flask_cannon"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 180
+	},
+	"byproducts": [
+		{
+			"fluid": "tcintegrations:molten_source_gem",
+			"amount": 200
+		}
+	],
+	"temperature": 700,
+	"time": 44
+}

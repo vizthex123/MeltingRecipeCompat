@@ -22,6 +22,10 @@
 		{
 			"id": "netherexp:ancient_lantern",
 			"required": false
+		},
+		{
+			"id": "ars_nouveau:glyph_light",
+			"required": false
 		}
 	]
 }

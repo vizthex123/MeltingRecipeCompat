@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "malum:necklace_of_blissful_harmony"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 200
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 540
+		},
+		{
+			"fluid": "tcintegrations:molten_soul_stained_steel",
+			"amount": 90
+		}
+	],
+	"temperature": 1450,
+	"time": 48
+}

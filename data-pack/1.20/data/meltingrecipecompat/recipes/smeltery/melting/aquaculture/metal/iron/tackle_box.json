@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquaculture"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "aquaculture:tackle_box"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 1260
+	},
+	"temperature": 800,
+	"time": 48
+}

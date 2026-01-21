@@ -1,0 +1,25 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "tcintegrations"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:dull_trinket"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 40
+	},
+	"temperature": 800,
+	"time": 40
+}

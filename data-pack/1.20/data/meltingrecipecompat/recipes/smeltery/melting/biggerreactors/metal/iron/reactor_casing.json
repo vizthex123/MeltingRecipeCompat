@@ -16,7 +16,7 @@
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_uranium",
-			"amount": 22
+			"amount": 20
 		}
 	],
 	"temperature": 800,

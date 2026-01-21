@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturesaura"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "naturesaura:token_joy"
+		},
+		{
+			"item": "naturesaura:token_euphoria"
+		},
+		{
+			"item": "naturesaura:color_changer"
+		},
+		{
+			"item": "naturesaura:dimension_rail_overworld"
+		},
+		{
+			"item": "naturesaura:auto_crafter"
+		},
+		{
+			"item": "naturesaura:flower_generator"
+		},
+		{
+			"item": "naturesaura:moss_generator"
+		},
+		{
+			"item": "naturesaura:spring"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 40
+	},
+	"temperature": 800,
+	"time": 40
+}

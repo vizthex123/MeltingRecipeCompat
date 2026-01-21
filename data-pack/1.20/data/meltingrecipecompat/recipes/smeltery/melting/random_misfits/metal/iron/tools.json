@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "randomisfits"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "randomisfits:iron_multitool"
+		},
+		{
+			"item": "randomisfits:iron_excavator"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 810,
+		"unit_size": 10
+	},
+	"temperature": 800,
+	"time": 120
+}

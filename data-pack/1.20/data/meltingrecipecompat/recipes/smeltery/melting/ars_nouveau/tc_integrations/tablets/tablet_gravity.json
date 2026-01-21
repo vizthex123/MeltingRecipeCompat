@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:ritual_gravity"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 2880
+	},
+	"byproducts": [
+		{
+			"fluid": "tcintegrations:molten_source_gem",
+			"amount": 200
+		}
+	],
+	"temperature": 800,
+	"time": 56
+}

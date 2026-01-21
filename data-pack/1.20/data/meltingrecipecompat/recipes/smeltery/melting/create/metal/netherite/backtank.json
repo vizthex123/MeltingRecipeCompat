@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "create:netherite_backtank"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 90,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 1080,
+			"unit_size": 40
+		}
+	],
+	"temperature": 1250,
+	"time": 160
+}

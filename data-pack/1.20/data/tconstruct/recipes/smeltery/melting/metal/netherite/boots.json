@@ -1,0 +1,20 @@
+{
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:tools/netherite/netherite_boots"
+	},
+	"result": {
+		"tag": "forge:molten_netherite",
+		"amount": 90,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+		  "fluid": "tconstruct:molten_diamond",
+		  "amount": 400,
+		  "unit_size": 25
+		}
+	],
+  "temperature": 1250,
+  "time": 74
+}

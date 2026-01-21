@@ -1,0 +1,13 @@
+{
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:tools/diamond/cost_5"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 500,
+		"unit_size": 25
+	},
+	"temperature": 1450,
+	"time": 176
+}

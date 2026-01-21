@@ -11,12 +11,12 @@
 	},
 	"result": {
 		"fluid": "tconstruct:molten_iron",
-		"amount": 515
+		"amount": 510
 	},
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_copper",
-			"amount": 495
+			"amount": 490
 		}
 	],
 	"temperature": 800,

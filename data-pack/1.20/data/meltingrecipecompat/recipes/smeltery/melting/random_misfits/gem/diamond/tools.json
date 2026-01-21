@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "randomisfits"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "randomisfits:diamond_multitool"
+		},
+		{
+			"item": "randomisfits:diamond_excavator"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 810,
+		"unit_size": 10
+	},
+	"temperature": 1450,
+	"time": 120
+}

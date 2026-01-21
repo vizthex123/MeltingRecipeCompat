@@ -16,7 +16,7 @@
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_ender",
-			"amount": 62
+			"amount": 50
 		}
 	],
 	"temperature": 750,

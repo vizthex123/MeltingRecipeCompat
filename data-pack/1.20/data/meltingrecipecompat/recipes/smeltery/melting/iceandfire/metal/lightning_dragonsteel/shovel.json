@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "iceandfire:dragonsteel_lightning_shovel"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_dragonsteel_lightning",
+		"amount": 90,
+		"unit_size": 10
+	},
+	"temperature": 1450,
+	"time": 80
+}

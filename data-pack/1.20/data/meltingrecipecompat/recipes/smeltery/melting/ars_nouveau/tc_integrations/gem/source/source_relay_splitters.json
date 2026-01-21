@@ -1,0 +1,37 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "ars_nouveau:glyph_split"
+		},
+		{
+			"item": "ars_nouveau:relay_splitter"
+		}
+	],
+	"result": {
+		"fluid": "tcintegrations:molten_source_gem",
+		"amount": 400
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 400
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 540
+		}
+	],
+	"temperature": 980,
+	"time": 52
+}

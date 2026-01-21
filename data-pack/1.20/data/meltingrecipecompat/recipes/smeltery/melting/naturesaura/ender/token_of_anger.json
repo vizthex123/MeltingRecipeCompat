@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturesaura"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "naturesaura:token_anger"
+		},
+		{
+			"item": "naturesaura:token_rage"
+		},
+		{
+			"item": "naturesaura:dimension_rail_end"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 125
+	},
+	"temperature": 477,
+	"time": 40
+}

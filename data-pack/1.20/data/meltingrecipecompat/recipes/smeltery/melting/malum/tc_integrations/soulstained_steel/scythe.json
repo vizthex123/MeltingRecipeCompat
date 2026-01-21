@@ -1,0 +1,35 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "malum:soul_stained_steel_scythe"
+		},
+		{
+			"item": "malum:edge_of_deliverance"
+		}
+	],
+	"result": {
+		"fluid": "tcintegrations:molten_soul_stained_steel",
+		"amount": 360,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 270,
+			"unit_size": 10
+		}
+	],
+	"temperature": 950,
+	"time": 114
+}

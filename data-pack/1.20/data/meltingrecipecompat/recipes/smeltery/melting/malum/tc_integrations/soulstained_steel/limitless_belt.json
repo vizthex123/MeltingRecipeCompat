@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "malum:belt_of_the_limitless"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_soul_stained_steel",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 810
+		}
+	],
+	"temperature": 950,
+	"time": 60
+}

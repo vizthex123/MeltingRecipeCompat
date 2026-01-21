@@ -16,7 +16,7 @@
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_brass",
-			"amount": 50
+			"amount": 60
 		}
 	],
 	"temperature": 750,

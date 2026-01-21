@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "randomisfits"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "randomisfits:netherite_lumberaxe"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 990,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 1100,
+			"unit_size": 25
+		}
+	],
+	"temperature": 1250,
+	"time": 120
+}

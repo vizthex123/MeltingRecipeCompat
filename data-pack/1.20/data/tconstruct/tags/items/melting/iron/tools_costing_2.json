@@ -2,6 +2,22 @@
 	"replace": false,
 	"values": [
 		{
+			"id": "aquaculture:iron_fillet_knife",
+			"required": false
+		},
+		{
+			"id": "aquaculture:iron_fishing_rod",
+			"required": false
+		},
+		{
+			"id": "malum:lamplighters_tongs",
+			"required": false
+		},
+		{
+			"id": "malum:tuning_fork",
+			"required": false
+		},
+		{
 			"id": "quark:trowel",
 			"required": false
 		}

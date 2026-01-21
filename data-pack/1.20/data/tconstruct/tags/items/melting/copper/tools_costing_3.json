@@ -2,6 +2,26 @@
 	"replace": false,
 	"values": [
 		{
+			"id": "advanced_copper:copper_pickaxe",
+			"required": false
+		},
+		{
+			"id": "advanced_copper:copper_axe",
+			"required": false
+		},
+		{
+			"id": "advanced_copper:copper_excavator",
+			"required": false
+		},
+		{
+			"id": "iceandfire:copper_pickaxe",
+			"required": false
+		},
+		{
+			"id": "iceandfire:copper_axe",
+			"required": false
+		},
+		{
 			"id": "more_useful_copper:copper_pickaxe",
 			"required": false
 		},

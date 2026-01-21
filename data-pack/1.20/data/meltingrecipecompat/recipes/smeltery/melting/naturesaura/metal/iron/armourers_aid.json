@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturesaura"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "naturesaura:blast_furnace_booster"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:liquid_soul",
+			"amount": 1500
+		}
+	],
+	"temperature": 800,
+	"time": 60
+}

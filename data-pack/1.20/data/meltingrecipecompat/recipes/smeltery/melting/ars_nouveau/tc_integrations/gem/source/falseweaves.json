@@ -1,0 +1,30 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "ars_nouveau:falseweave"
+		},
+		{
+			"item": "ars_nouveau:ghostweave"
+		},
+		{
+			"item": "ars_nouveau:mirrorweave"
+		}
+	],
+	"result": {
+		"fluid": "tcintegrations:molten_source_gem",
+		"amount": 10
+	},
+	"temperature": 980,
+	"time": 20
+}

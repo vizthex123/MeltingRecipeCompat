@@ -1,0 +1,25 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "tcintegrations"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:glyph_cold_snap"
+	},
+	"result": {
+		"fluid": "minecraft:water",
+		"amount": 1000
+	},
+	"temperature": 0,
+	"time": 40
+}

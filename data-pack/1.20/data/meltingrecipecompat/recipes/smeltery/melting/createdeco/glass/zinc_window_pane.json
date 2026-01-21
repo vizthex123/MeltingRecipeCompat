@@ -16,7 +16,7 @@
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_zinc",
-			"amount": 50
+			"amount": 60
 		}
 	],
 	"temperature": 420,

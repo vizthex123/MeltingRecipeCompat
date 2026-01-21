@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "undergarden"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "undergarden:cloggrum_pickaxe"
+		},
+		{
+			"item": "undergarden:cloggrum_axe"
+		}
+	],
+	"result": {
+		"fluid": "tcintegrations:molten_cloggrum",
+		"amount": 270,
+		"unit_size": 10
+	},
+	"temperature": 900,
+	"time": 180
+}

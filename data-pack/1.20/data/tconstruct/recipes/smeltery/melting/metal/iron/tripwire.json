@@ -1,11 +1,11 @@
 {
 	"type": "tconstruct:melting",
 	"ingredient": {
-		"item": "minecraft:tripwire_hook"
+		"tag": "meltingrecipecompat:tripwires"
 	},
 	"result": {
 		"tag": "forge:molten_iron",
-		"amount": 45
+		"amount": 40
 	},
 	"temperature": 800,
 	"time": 40

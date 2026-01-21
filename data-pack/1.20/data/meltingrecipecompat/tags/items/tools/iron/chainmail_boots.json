@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:chainmail_boots",
+		{
+			"id": "leathered_boots:leathered_chainmail_boots",
+			"required": false
+		}
+	]
+}

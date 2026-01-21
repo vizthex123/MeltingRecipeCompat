@@ -1,0 +1,48 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "botania:dirt_rod"
+		},
+		{
+			"item": "botania:skydirt_rod"
+		},
+		{
+			"item": "botania:water_rod"
+		},
+		{
+			"item": "botania:tornado_rod"
+		},
+		{
+			"item": "botania:fire_rod"
+		},
+		{
+			"item": "botania:smelt_rod"
+		},
+		{
+			"item": "botania:exchange_rod"
+		},
+		{
+			"item": "botania:slingshot"
+		},
+		{
+			"item": "botania:temperance_stone"
+		}
+	],
+	"result": {
+		"fluid": "tcintegrations:molten_manasteel",
+		"amount": 40
+	},
+	"temperature": 950,
+	"time": 28
+}

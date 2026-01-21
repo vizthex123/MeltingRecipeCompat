@@ -31,7 +31,7 @@
 		},
 		{
 			"fluid": "tconstruct:molten_glass",
-			"amount": 62
+			"amount": 50
 		}
 	],
 	"temperature": 637,

@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "piercingpaxels"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "piercingpaxels:netherite_paxel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 450,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 1100,
+			"unit_size": 25
+		}
+	],
+	"temperature": 1250,
+	"time": 88
+}

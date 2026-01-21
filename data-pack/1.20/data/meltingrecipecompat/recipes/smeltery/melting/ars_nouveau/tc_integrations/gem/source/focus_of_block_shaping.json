@@ -1,0 +1,40 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:shapers_focus"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_source_gem",
+		"amount": 100
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 100
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 90
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 450
+		},
+		{
+			"fluid": "tconstruct:earth_slime",
+			"amount": 2250
+		}
+	],
+	"temperature": 980,
+	"time": 40
+}

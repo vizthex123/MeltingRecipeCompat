@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "piercingpaxels"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "piercingpaxels:netherite_paxel_upgrade_kit"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 450
+	},
+	"temperature": 1250,
+	"time": 72
+}

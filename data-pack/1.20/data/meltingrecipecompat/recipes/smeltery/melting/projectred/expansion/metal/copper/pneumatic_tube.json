@@ -11,12 +11,12 @@
 	},
 	"result": {
 		"fluid": "tconstruct:molten_copper",
-		"amount": 75
+		"amount": 70
 	},
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_glass",
-			"amount": 93
+			"amount": 50
 		}
 	],
 	"temperature": 500,

@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "piercingpaxels"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "piercingpaxels:gold_paxel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 990,
+		"unit_size": 10
+	},
+	"temperature": 700,
+	"time": 160
+}

@@ -1,0 +1,35 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquaculture"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "aquaculture:oak_fish_mount"
+		},
+		{
+			"item": "aquaculture:dark_oak_fish_mount"
+		},
+		{
+			"item": "aquaculture:spruce_fish_mount"
+		},
+		{
+			"item": "aquaculture:birch_fish_mount"
+		},
+		{
+			"item": "aquaculture:jungle_fish_mount"
+		},
+		{
+			"item": "aquaculture:acacia_fish_mount"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 40
+	},
+	"temperature": 800,
+	"time": 24
+}

@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "randomisfits"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "randomisfits:golden_hammer"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 1170,
+		"unit_size": 15
+	},
+	"temperature": 700,
+	"time": 160
+}

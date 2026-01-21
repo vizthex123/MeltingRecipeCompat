@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:item_detector"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 5000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 100
+		}
+	],
+	"temperature": 750,
+	"time": 60
+}

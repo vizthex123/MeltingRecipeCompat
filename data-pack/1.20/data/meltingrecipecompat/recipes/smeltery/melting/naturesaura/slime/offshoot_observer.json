@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturesaura"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "naturesaura:slime_split_generator"
+	},
+	"result": {
+		"fluid": "tconstruct:earth_slime",
+		"amount": 6750
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 40
+		},
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 500
+		}
+	],
+	"temperature": 50,
+	"time": 120
+}

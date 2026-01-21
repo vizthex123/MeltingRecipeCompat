@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "botania:thunder_sword",
+			"required": false
+		},
+		{
+			"id": "iceandfire:pixie_wand",
+			"required": false
+		},
+		{
+			"id": "iceandfire:tide_trident",
+			"required": false
+		}
+	]
+}

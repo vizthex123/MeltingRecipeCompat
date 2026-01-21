@@ -1,0 +1,30 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "tcintegrations"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "ars_nouveau:arcane_pedestal"
+		},
+		{
+			"item": "ars_nouveau:arcane_platform"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 40
+	},
+	"temperature": 700,
+	"time": 48
+}

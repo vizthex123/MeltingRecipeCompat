@@ -12,6 +12,12 @@
 		},
 		{
 			"item": "quark:rusty_iron_plate"
+		},
+		{
+			"item": "quark:iron_plate_stairs"
+		},
+		{
+			"item": "quark:rusty_iron_plate_stairs"
 		}
 	],
 	"result": {

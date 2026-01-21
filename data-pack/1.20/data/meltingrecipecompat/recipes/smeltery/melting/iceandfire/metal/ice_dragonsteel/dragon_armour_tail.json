@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandice"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "iceandice:dragonarmor_dragonsteel_ice_tail"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_dragonsteel_ice",
+		"amount": 2430
+	},
+	"temperature": 1450,
+	"time": 260
+}

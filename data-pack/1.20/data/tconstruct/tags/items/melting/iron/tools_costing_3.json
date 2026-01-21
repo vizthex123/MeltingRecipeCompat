@@ -6,11 +6,27 @@
 			"required": false
 		},
 		{
+			"id": "bluepower:iron_sickle",
+			"required": false
+		},
+		{
+			"id": "laserio:laser_wrench",
+			"required": false
+		},
+		{
+			"id": "malum:crude_scythe",
+			"required": false
+		},
+		{
 			"id": "prettypipes:wrench",
 			"required": false
 		},
 		{
 			"id": "projectred_exploration:iron_sickle",
+			"required": false
+		},
+		{
+			"id": "only_excavators_mod:iron_excavator",
 			"required": false
 		}
 	]

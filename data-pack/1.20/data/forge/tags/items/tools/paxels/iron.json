@@ -1,0 +1,37 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "azurepaxels:iron_paxel",
+			"required": false
+		},
+		{
+			"id": "cl0uds_paxels:iron_paxel",
+			"required": false
+		},
+		{
+			"id": "easypaxellite:iron_paxel",
+			"required": false
+		},
+		{
+			"id": "generic_multitools:iron_paxel",
+			"required": false
+		},
+		{
+			"id": "onlypaxel:iron_paxel",
+			"required": false
+		},
+		{
+			"id": "only_paxel:iron_paxel",
+			"required": false
+		},
+		{
+			"id": "simple_paxels:iron_paxel",
+			"required": false
+		},
+		{
+			"id": "#forge:paxels/iron",
+			"required": false
+		}
+	]
+}

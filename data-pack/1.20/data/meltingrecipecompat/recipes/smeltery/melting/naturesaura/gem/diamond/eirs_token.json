@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturesaura"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "naturesaura:break_prevention"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 100
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:liquid_soul",
+			"amount": 500
+		}
+	],
+	"temperature": 1450,
+	"time": 32
+}

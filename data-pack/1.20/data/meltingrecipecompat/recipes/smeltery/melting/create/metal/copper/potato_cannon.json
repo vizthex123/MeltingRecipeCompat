@@ -11,7 +11,7 @@
 	},
 	"result": {
 		"fluid": "tconstruct:molten_copper",
-		"amount": 381,
+		"amount": 380,
 		"unit_size": 10
 	},
 	"byproducts": [

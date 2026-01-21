@@ -3,6 +3,10 @@
 		{
 			"type": "forge:mod_loaded",
 			"modid": "buzzier_bees"
+		},
+		{
+		  "type": "mantle:tag_filled",
+		  "tag": "forge:honey"
 		}
 	],
 	"type": "tconstruct:melting",

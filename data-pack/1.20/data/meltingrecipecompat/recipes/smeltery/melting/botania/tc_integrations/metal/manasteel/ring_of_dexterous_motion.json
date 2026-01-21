@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "botania:dodge_ring"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_manasteel",
+		"amount": 400
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_emerald",
+			"amount": 100
+		}
+	],
+	"temperature": 950,
+	"time": 60
+}

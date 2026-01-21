@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "randomisfits"
+		},
+		{
+			"type": "mantle:tag_filled",
+			"tag": "forge:ingots/bronze"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "randomisfits:bronze_lumberaxe"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_bronze",
+		"amount": 990,
+		"unit_size": 10
+	},
+	"temperature": 700,
+	"time": 140
+}

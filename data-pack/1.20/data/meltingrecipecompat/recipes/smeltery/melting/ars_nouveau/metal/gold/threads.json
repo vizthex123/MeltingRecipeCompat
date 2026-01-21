@@ -1,0 +1,77 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "ars_nouveau:blank_thread"
+		},
+		{
+			"item": "ars_nouveau:thread_depths"
+		},
+		{
+			"item": "ars_nouveau:thread_heights"
+		},
+		{
+			"item": "ars_nouveau:thread_whirlisprig"
+		},
+		{
+			"item": "ars_nouveau:thread_drygmy"
+		},
+		{
+			"item": "ars_nouveau:thread_high_step"
+		},
+		{
+			"item": "ars_nouveau:thread_spellpower"
+		},
+		{
+			"item": "ars_nouveau:thread_life_drain"
+		},
+		{
+			"item": "ars_nouveau:thread_starbuncle"
+		},
+		{
+			"item": "ars_nouveau:thread_chilling"
+		},
+		{
+			"item": "ars_nouveau:thread_undying"
+		},
+		{
+			"item": "ars_nouveau:thread_feather"
+		},
+		{
+			"item": "ars_nouveau:thread_warding"
+		},
+		{
+			"item": "ars_nouveau:thread_gliding"
+		},
+		{
+			"item": "ars_nouveau:thread_immolation"
+		},
+		{
+			"item": "ars_nouveau:thread_amethyst_golem"
+		},
+		{
+			"item": "ars_nouveau:thread_magic_capacity"
+		},
+		{
+			"item": "ars_nouveau:thread_kindling"
+		},
+		{
+			"item": "ars_nouveau:thread_wixie"
+		},
+		{
+			"item": "ars_nouveau:thread_repairing"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 30
+	},
+	"temperature": 700,
+	"time": 32
+}

@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "tcintegrations"
+			}
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "ars_nouveau:enchanters_sword"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 1620,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 200,
+			"unit_size": 10
+		}
+	],
+	"temperature": 700,
+	"time": 48
+}

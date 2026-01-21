@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "malum:accelerating_inlay"
+		},
+		{
+			"item": "malum:blazing_diode"
+		},
+		{
+			"item": "malum:impurity_stabilizer"
+		},
+		{
+			"item": "malum:mending_diffuser"
+		},
+		{
+			"item": "malum:prismatic_focus_lens"
+		},
+		{
+			"item": "malum:warping_engine"
+		},
+		{
+			"item": "malum:ring_of_alchemical_mastery"
+		},
+		{
+			"item": "malum:ring_of_arcane_prowess"
+		},
+		{
+			"item": "malum:ring_of_curative_talent"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 1000
+	},
+	"temperature": 450,
+	"time": 36
+}

@@ -4,6 +4,14 @@
 		{
 			"id": "bygonenether:gilded_netherite_shield",
 			"required": false
+		},
+		{
+			"id": "only_excavators_mod:netherite_excavator",
+			"required": false
+		},
+		{
+			"id": "only_hammer_mod:netherite_hammer",
+			"required": false
 		}
 	]
 }

@@ -15,7 +15,7 @@
 	},
 	"result": {
 		"fluid": "tconstruct:molten_netherite",
-		"amount": 45
+		"amount": 40
 	},
 	"byproducts": [
 		{
@@ -36,7 +36,7 @@
 		},
 		{
 			"fluid": "tconstruct:molten_silver",
-			"amount": 45
+			"amount": 40
 		},
 		{
 			"fluid": "tconstruct:molten_iron",

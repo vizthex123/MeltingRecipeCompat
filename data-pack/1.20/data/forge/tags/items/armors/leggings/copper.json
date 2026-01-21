@@ -2,6 +2,14 @@
 	"replace": false,
 	"values": [
 		{
+			"id": "advanced_copper:copper_leggings",
+			"required": false
+		},
+		{
+			"id": "iceandfire:copper_leggings",
+			"required": false
+		},
+		{
 			"id": "more_useful_copper:copper_leggings",
 			"required": false
 		}

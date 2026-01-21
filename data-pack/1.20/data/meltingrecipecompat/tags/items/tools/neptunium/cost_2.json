@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "aquaculture:neptunium_fillet_knife",
+			"required": false
+		},
+		{
+			"id": "aquaculture:neptunium_fishing_rod",
+			"required": false
+		},
+		{
+			"id": "aquaculture:neptunium_sword",
+			"required": false
+		},
+		{
+			"id": "aquaculture:neptunium_hoe",
+			"required": false
+		}
+	]
+}

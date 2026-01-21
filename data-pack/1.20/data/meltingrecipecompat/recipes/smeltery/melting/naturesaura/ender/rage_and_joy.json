@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturesaura"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "naturesaura:chorus_generator"
+		},
+		{
+			"item": "naturesaura:powder_placer"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 125
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 40
+		}
+	],
+	"temperature": 477,
+	"time": 40
+}

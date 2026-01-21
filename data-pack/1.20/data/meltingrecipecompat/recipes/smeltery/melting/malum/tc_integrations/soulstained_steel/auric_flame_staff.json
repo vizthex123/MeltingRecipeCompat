@@ -1,0 +1,30 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "malum:staff_of_the_auric_flame"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_soul_stained_steel",
+		"amount": 360,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 810,
+			"unit_size": 15
+		}
+	],
+	"temperature": 950,
+	"time": 140
+}

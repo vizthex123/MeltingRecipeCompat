@@ -1,8 +1,11 @@
 |																																																																		| 1.18.X | 1.19.2 | 1.20.1 | Datapack Version | Notes |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------:|:--------:|:---------:|:-----------------------:|:--------:|
 | [Abnormal's Delight](https://www.curseforge.com/minecraft/mc-mods/abnormals-delight)																					|				|			    |✔			|3.0							|				|
-| [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)																															|				|			    |✔			|3.0							|				|
-| [Ad Astra: Giselle Addon](https://www.curseforge.com/minecraft/mc-mods/ad-astra-giselle-addon)																	|				|			    |✔			|3.0							|				|
+| [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)																															|				|			    |✔			|3.0							|Supports [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations). |
+| [Ad Astra: Giselle Addon](https://www.curseforge.com/minecraft/mc-mods/ad-astra-giselle-addon)																	|				|			    |✔			|3.0							|Supports [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations). |
+| [Advanced Amethyst](https://www.curseforge.com/minecraft/mc-mods/advanced-amethyst)																				|				|			    |✔			|3.1							|				|
+| [Advanced Copper](https://www.curseforge.com/minecraft/mc-mods/advanced-copper)																						|				|			    |✔			|3.1							|				|
+| [Advanced Emerald](https://www.curseforge.com/minecraft/mc-mods/advanced-emerald)																					|				|			    |✔			|3.1							|				|
 | [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge)																	|✔			|✔			|✔			|1.2							|				|
 | [AdminShop Overhauled](https://www.curseforge.com/minecraft/mc-mods/adminshop)																							|✔			|✔			|✔			|1.3							|				|
 | [Advancement Frames](https://www.curseforge.com/minecraft/mc-mods/advancement-frames)																			|✔			|✔			|✔			|1.0.1						|				|
@@ -16,11 +19,14 @@
 | [AE2 Import Export Card](https://www.curseforge.com/minecraft/mc-mods/ae2-import-export-card)																	|				|			    |✔			|3.0							|				|
 | [AE2 Things](https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge)																										|✔			|✔			|✔			|1.3							|				|
 | [Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics)																				|✔			|✔			|✔			|1.3							|				|
+| [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)																											|				|			    |✔			|3.1							|Supports [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations). |
 | [Aquamirae](https://www.curseforge.com/minecraft/mc-mods/aquamirae)																													|✔			|✔			|✔			|1.3							|				|
+| [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)																											|				|			    |✔			|3.1							|Supports [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations). |
 | [Atmospheric](https://www.curseforge.com/minecraft/mc-mods/atmospheric)																											|				|			    |✔			|3.0							|				|
 | [Automatic Sorter](https://www.curseforge.com/minecraft/mc-mods/automatic-sorter)																							|				|			    |✔			|3.0							|				|
 | [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)																													|				|			    |✔			|3.0							|				|
 | [AzureDoom's Angel Ring](https://www.curseforge.com/minecraft/mc-mods/azuredooms-angel-ring)																|				|			    |✔			|3.0							|				|
+| [Azure Paxels](https://www.curseforge.com/minecraft/mc-mods/azure-paxels)																											|				|			    |✔			|3.1							|				|
 | [Bag of Holding](https://www.curseforge.com/minecraft/mc-mods/bag-of-holding)																									|✔			|✔			|✔			|1.5							|				|
 | [The Bag of Holding](https://modrinth.com/mod/the-bag-of-holding)																																|✔			|✔			|			    |1.5							|				|
 | [Bigger Reactors](https://www.curseforge.com/minecraft/mc-mods/biggerreactors)																									|✔			|✔			|✔			|1.5							|				|
@@ -28,7 +34,7 @@
 | [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)																							|✔			|✔			|			    |1.3							|				|
 | [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)																											|✔			| 				|✔			|1.1							|				|
 | [BluePower](https://www.curseforge.com/minecraft/mc-mods/blue-power)																													|✔			|✔			|✔			|1.3							|				|
-| [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)																																|✔			|✔			|✔			|1.3							|Requires [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations) for most recipes. |
+| [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)																																|✔			|✔			|✔			|1.3							|Supports [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations). |
 | [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)																							|				|			    |✔			|3.0							|				|
 | [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees)																											|				|			    |✔			|3.0							|				|
 | [Bygone Nether](https://www.curseforge.com/minecraft/mc-mods/bygone-nether)																									|✔			|✔			|✔			|1.2							|				|
@@ -37,8 +43,10 @@
 | [Ceramic Shears](https://www.curseforge.com/minecraft/mc-mods/ceramic-shears)																									|✔			|✔			|✔			|1.4							|				|
 | [Charging Gadgets](https://www.curseforge.com/minecraft/mc-mods/charging-gadgets)																							|				|			    |✔			|3.0							|				|
 | [ChickenChunks 1.8+](https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8)																				|✔			|✔			|✔			|1.1							|				|
+| [Cl0ud's Paxels](https://www.curseforge.com/minecraft/mc-mods/cl0uds-paxels)																										|				|			    |✔			|3.1							|				|
 | [Classic Pipes](https://www.curseforge.com/minecraft/mc-mods/classic-pipes)																											|				|			    |✔			|3.0							|				|
 | [Clayworks](https://www.curseforge.com/minecraft/mc-mods/clayworks)																														|✔			|✔			|✔			|1.3							|				|
+| [Cloud Storage](https://www.curseforge.com/minecraft/mc-mods/alexs-cloud-storage)																							|				|			    |✔			|3.1							|				|
 | [Cognition](https://www.curseforge.com/minecraft/mc-mods/cognition-mod)																												|✔			|✔			|✔			|1.3							|				|
 | [Colds: Easy Paxel](https://www.curseforge.com/minecraft/mc-mods/easy-paxel)																										|✔			|				|			    |1.2							|				|
 | [Colds: Easy Paxel Lite](https://www.curseforge.com/minecraft/mc-mods/colds-easy-paxel-lite)																			|✔			|✔			|✔			|1.2							|				|
@@ -75,9 +83,11 @@
 | [Fullblock Energistics](https://www.curseforge.com/minecraft/mc-mods/fullblock-energistics)																				|				|✔			|✔			|2.0							|				|
 | [Functional Storage](https://www.curseforge.com/minecraft/mc-mods/functional-storage)																					|✔			|✔			|✔			|1.3							|				|
 | [Gendustry: Community Edition](https://www.curseforge.com/minecraft/mc-mods/gendustry-community-edition)										|				|			    |✔			|3.0							|				|
+| [Generic Multitools](https://www.curseforge.com/minecraft/mc-mods/finnspaxels)																									|				|			    |✔			|3.1							|				|
 | [HammerLib](https://www.curseforge.com/minecraft/mc-mods/hammer-lib)																												|				|			    |✔			|3.0							|				|
 | [Hole Filler Mod](https://www.curseforge.com/minecraft/mc-mods/hole-filler-mod)																									|				|			    |✔			|3.0							|				|
 | [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)																|✔			|✔			|✔			|1.3							|Check out [Extra Data Models](https://www.curseforge.com/minecraft/data-packs/extra-data-models)! I spent a while making it. |
+| [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)																			|				|			    |✔			|3.1							|Requires [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations) for most recipes. |
 | [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)																	|✔			|✔			|✔			|1.3							|				|
 | [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)																				|✔			|✔			|✔			|1.3							|				|
 | [Industrial Foregoing Souls](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-souls)														|				|			    |✔			|3.0							|				|
@@ -92,15 +102,16 @@
 | [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)															|				|			    |✔			|3.0							|				|
 | [Laser Bridges & Doors](https://www.curseforge.com/minecraft/mc-mods/laser-bridges-doors)																				|				|			    |✔			|3.0							|				|
 | [LaserIO](https://www.curseforge.com/minecraft/mc-mods/laserio)																																	|✔			|✔			|✔			|1.5							|Also supports [LaserIO UEL](https://www.curseforge.com/minecraft/mc-mods/laserio-uel) |
+| [Leathered Boots](https://www.curseforge.com/minecraft/mc-mods/leathered-boots)																								|				|			    |✔			|3.1							|				|
 | [Lightman's Currency](https://www.curseforge.com/minecraft/mc-mods/lightmans-currency)																				|✔			|✔			|✔			|									|				|
 | [Lightman's Currency Tech](https://www.curseforge.com/minecraft/mc-mods/lc-tech)																								|✔			|✔			|✔			|									|				|
 | [Long Fall Boots](https://www.curseforge.com/minecraft/mc-mods/long-fall-boots)																									|✔			|✔			|			    |1.0.1						|				|
 | [ME Requester](https://www.curseforge.com/minecraft/mc-mods/me-requester)																										|✔			|✔			|✔			|1.3							|				|
-| [Malum](https://www.curseforge.com/minecraft/mc-mods/malum)																																|✔			|✔			|✔			|1.3							|				|
+| [Malum](https://www.curseforge.com/minecraft/mc-mods/malum)																																|✔			|✔			|✔			|1.3							|Requires [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations) for most recipes. |
 | [Measurements](https://www.curseforge.com/minecraft/mc-mods/measurements)																									|✔			|✔			|✔			|1.0.1						|				|
 | [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)																													|✔			|✔			|✔			|1.3							|				|
 | [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)																				|✔			|✔			|✔			|1.3							|				|
-| [Mekanism Advanced Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-advancedgenerators)									|✔			|✔			|✔			|1.4							|				|
+| [Mekanism Advanced Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-advancedgenerators)								|✔			|✔			|✔			|1.4							|				|
 | [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)																		|✔			|✔			|✔			|1.3							|				|
 | [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)																								|✔			|✔			|✔			|1.3							|				|
 | [Mining Gadgets](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)																								|				|			    |✔			|3.0							|				|
@@ -111,10 +122,16 @@
 | [Neapolitan](https://www.curseforge.com/minecraft/mc-mods/neapolitan)																													|✔			|✔			|✔			|1.3							|				|
 | [Netherific](https://www.curseforge.com/minecraft/mc-mods/netherific)																														|✔			|			    |			    |1.3							|				|
 | [Obscuria's Essentials (Legacy)](https://www.curseforge.com/minecraft/mc-mods/ob-core)																					|✔			|				|				|									|				|
-| [Oh the Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)																|✔			|✔			|			    |1.2							|Requires [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations) for most recipes. |
+| [Oh the Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)																|✔			|✔			|			    |1.2							|Supports [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations). |
+| [Only Bags](https://www.curseforge.com/minecraft/mc-mods/only-bags)																														|				|			    |✔			|3.1							|				|
+| [Only Excavator](https://www.curseforge.com/minecraft/mc-mods/only-excavator)																									|				|			    |✔			|3.1							|				|
+| [Only Hammer](https://www.curseforge.com/minecraft/mc-mods/only-hammers-mod)																							|				|			    |✔			|3.1							|				|
 | [Only Paxel](https://www.curseforge.com/minecraft/mc-mods/only-paxel)																													|✔			|✔			|✔			|1.2							|				|
+| [Only Paxels](https://www.curseforge.com/minecraft/mc-mods/only-paxels)																												|				|			    |✔			|3.1							|				|
 | [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)																			|✔			|✔			|✔			|									|				|
 | [Portality](https://www.curseforge.com/minecraft/mc-mods/portality)																															|✔			|			    |			    |1.3							|				|
+| [RePortality](https://www.curseforge.com/minecraft/mc-mods/reportality)																													|				|			    |✔			|3.0							|				|
+| [Piercing Paxels](https://www.curseforge.com/minecraft/mc-mods/piercingpaxels)																									|				|			    |✔			|3.1							|				|
 | [Pretty Pipes](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)																												|				|			    |✔			|3.0							|				|
 | [Pretty Pipes: Fluids](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes-fluids)																					|				|			    |✔			|3.0							|				|
 | [Project Red - Core](https://www.curseforge.com/minecraft/mc-mods/project-red-core)																							|				|			    |✔			|3.0							|				|
@@ -133,14 +150,15 @@
 | [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage)																									|✔			|✔			|✔			|1.3							|				|
 | [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)																										|✔			|✔			|✔			|1.3							|				|
 | [Railcraft Reborn](https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn)																								|				|			    |✔			|3.0							|				|
+| [Random Misfits](https://www.curseforge.com/minecraft/mc-mods/random-misfits)																								|				|			    |✔			|3.1							|				|
 | [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps)																									|				|			    |✔			|3.0							|				|
-| [RePortality](https://www.curseforge.com/minecraft/mc-mods/reportality)																													|				|			    |✔			|3.0							|				|
 | [Redstone Pen](https://www.curseforge.com/minecraft/mc-mods/redstone-pen)																										|				|			    |✔			|3.0							|				|
 | [Refined Pipes](https://www.curseforge.com/minecraft/mc-mods/refined-pipes)																											|✔			|			    |			    |1.3							|				|
 | [Reliquary Reincarnations](https://www.curseforge.com/minecraft/mc-mods/reliquary-reincarnations)																|✔			|✔			|✔			|1.3							|				|
 | [Savage & Ravage](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage)																						|				|			    |✔			|3.0							|				|
 | [Scannable](https://www.curseforge.com/minecraft/mc-mods/scannable)																														|✔			|✔			|✔			|1.3							|				|
 | [Simple Paxels](https://www.curseforge.com/minecraft/mc-mods/simple-paxels)																										|✔			|				|			    |1.2							|				|
+| [Simplest Paxels](https://www.curseforge.com/minecraft/mc-mods/simplest-paxels)																									|				|			    |✔			|3.1							|				|
 | [Simple Quarry](https://www.curseforge.com/minecraft/mc-mods/simple-quarry)																										|✔			|✔			|✔			|1.3							|				|
 | [Simply Jetpacks](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2)																							|✔			|✔			|✔			|1.3							|				|
 | [Solar Cooker](https://www.curseforge.com/minecraft/mc-mods/solar-cooker)																											|✔			|✔			|✔			|1.3							|				|
@@ -163,7 +181,9 @@
 | [Thermal Systeams](https://www.curseforge.com/minecraft/mc-mods/thermal-systeams)																						|✔			|✔			|✔			|1.3							|				|
 | [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators)																										|				|			    |✔			|3.0							|				|
 | [Travel Anchors](https://www.curseforge.com/minecraft/mc-mods/travel-anchors)																									|✔			|✔			|✔			|1.3							|				|
+| [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)																							|				|			    |✔			|3.1							|Requires [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations) for most recipes. |
 | [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)																							|				|			    |✔			|3.0							|				|
+| [VOIDED's Simple Paxels](https://www.curseforge.com/minecraft/mc-mods/voideds-simple-paxels)																	|				|			    |✔			|3.1							|				|
 | [Voltaic](https://www.curseforge.com/minecraft/mc-mods/voltaic-api)																															|				|			    |✔			|3.0							|				|
 | [WA Ender Quarry](https://www.curseforge.com/minecraft/mc-mods/wa-ender-quarry)																							|				|			    |✔			|3.0							|				|
 | [Woodworks](https://www.curseforge.com/minecraft/mc-mods/woodworks)																												|✔			|✔			|✔			|1.3							|				|

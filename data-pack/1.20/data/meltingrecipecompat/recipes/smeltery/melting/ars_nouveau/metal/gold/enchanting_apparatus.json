@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:enchanting_apparatus"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 220
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 100
+		}
+	],
+	"temperature": 700,
+	"time": 40
+}

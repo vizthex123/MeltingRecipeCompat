@@ -11,7 +11,7 @@
 	},
 	"result": {
 		"fluid": "tconstruct:molten_copper",
-		"amount": 585
+		"amount": 580
 	},
 	"temperature": 500,
 	"time": 60

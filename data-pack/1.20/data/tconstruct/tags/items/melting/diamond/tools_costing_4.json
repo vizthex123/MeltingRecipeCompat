@@ -2,7 +2,27 @@
 	"replace": false,
 	"values": [
 		{
+			"id": "ars_nouveau:battlemage_boots",
+			"required": false
+		},
+		{
 			"id": "ironchests:diamond_dolly",
+			"required": false
+		},
+		{
+			"id": "leathered_boots:leathered_diamond_boots",
+			"required": false
+		},
+		{
+			"id": "multitools:diamond_multitool",
+			"required": false
+		},
+		{
+			"id": "multitoolmod:diamond_multitool",
+			"required": false
+		},
+		{
+			"id": "only_hammer_mod:diamond_hammer",
 			"required": false
 		}
 	]

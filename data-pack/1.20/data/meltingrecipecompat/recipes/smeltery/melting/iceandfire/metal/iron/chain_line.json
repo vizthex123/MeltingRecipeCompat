@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "iceandfire:chain"
+		},
+		{
+			"item": "iceandfire:deathworm_gauntlet_red"
+		},
+		{
+			"item": "iceandfire:deathworm_gauntlet_white"
+		},
+		{
+			"item": "iceandfire:deathworm_gauntlet_yellow"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 330
+	},
+	"temperature": 800,
+	"time": 100
+}

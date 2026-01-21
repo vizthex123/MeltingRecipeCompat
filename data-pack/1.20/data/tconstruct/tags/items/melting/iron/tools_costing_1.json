@@ -2,6 +2,26 @@
 	"replace": false,
 	"values": [
 		{
+			"id": "bluepower:screwdriver",
+			"required": false
+		},
+		{
+			"id": "bluepower:wool_card",
+			"required": false
+		},
+		{
+			"id": "iceandfire:dragon_flute",
+			"required": false
+		},
+		{
+			"id": "iceandfire:siren_flute",
+			"required": false
+		},
+		{
+			"id": "iceandfire:hippogryph_sword",
+			"required": false
+		},
+		{
 			"id": "immersiveengineering:wirecutter",
 			"required": false
 		},

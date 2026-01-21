@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:void_jar"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 1000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 250
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 270
+		}
+	],
+	"temperature": 750,
+	"time": 44
+}

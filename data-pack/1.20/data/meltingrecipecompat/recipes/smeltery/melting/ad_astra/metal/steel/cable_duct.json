@@ -16,7 +16,7 @@
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_copper",
-			"amount": 195
+			"amount": 190
 		}
 	],
 	"temperature": 950,

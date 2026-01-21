@@ -1,0 +1,39 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "tcintegrations"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "ars_nouveau:agronomic_sourcelink"
+		},
+		{
+			"item": "ars_nouveau:alchemical_sourcelink"
+		},
+		{
+			"item": "ars_nouveau:vitalic_sourcelink"
+		},
+		{
+			"item": "ars_nouveau:mycelial_sourcelink"
+		},
+		{
+			"item": "ars_nouveau:volcanic_sourcelink"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 180
+	},
+	"temperature": 700,
+	"time": 48
+}

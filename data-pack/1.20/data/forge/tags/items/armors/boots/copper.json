@@ -2,7 +2,15 @@
 	"replace": false,
 	"values": [
 		{
+			"id": "advanced_copper:copper_boots",
+			"required": false
+		},
+		{
 			"id": "create:copper_diving_boots",
+			"required": false
+		},
+		{
+			"id": "iceandfire:copper_boots",
 			"required": false
 		},
 		{

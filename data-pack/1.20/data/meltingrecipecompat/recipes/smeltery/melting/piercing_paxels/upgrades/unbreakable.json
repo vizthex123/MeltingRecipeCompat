@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "piercingpaxels"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "piercingpaxels:upgrade_unbreakable"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 270
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 40
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 400
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 250
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 7000
+		}
+	],
+	"temperature": 1250,
+	"time": 66
+}

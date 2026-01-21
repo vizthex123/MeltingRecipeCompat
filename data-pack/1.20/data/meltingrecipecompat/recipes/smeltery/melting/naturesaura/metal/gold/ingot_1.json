@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturesaura"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "naturesaura:eye"
+		},
+		{
+			"item": "naturesaura:eye_improved"
+		},
+		{
+			"item": "naturesaura:animal_container"
+		},
+		{
+			"item": "naturesaura:aura_detector"
+		},
+		{
+			"item": "naturesaura:nature_altar"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 90
+	},
+	"temperature": 700,
+	"time": 60
+}

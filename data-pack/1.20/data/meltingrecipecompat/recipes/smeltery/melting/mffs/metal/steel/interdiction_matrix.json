@@ -19,12 +19,12 @@
 			"amount": 420
 		},
 		{
-			"fluid": "tconstruct:molten_obsidian",
-			"amount": 8000
-		},
-		{
 			"fluid": "tconstruct:molten_ender",
 			"amount": 250
+		},
+		{
+			"fluid": "tconstruct:molten_obsidian",
+			"amount": 8000
 		}
 	],
 	"temperature": 950,

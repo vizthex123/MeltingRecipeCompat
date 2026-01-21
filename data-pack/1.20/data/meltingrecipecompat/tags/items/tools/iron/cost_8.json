@@ -1,0 +1,14 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:iron_chestplate",
+		{
+			"id": "ars_nouveau:arcanist_robes",
+			"required": false
+		},
+		{
+			"id": "malum:catalyst_lobber",
+			"required": false
+		}
+	]
+}

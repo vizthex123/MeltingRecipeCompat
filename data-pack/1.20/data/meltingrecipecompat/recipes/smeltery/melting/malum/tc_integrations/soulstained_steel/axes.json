@@ -1,0 +1,31 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "malum:soul_stained_steel_pickaxe"
+		},
+		{
+			"item": "malum:soul_stained_steel_axe"
+		},
+		{
+			"item": "malum:weight_of_worlds"
+		}
+	],
+	"result": {
+		"fluid": "tcintegrations:molten_soul_stained_steel",
+		"amount": 270,
+		"unit_size": 10
+	},
+	"temperature": 950,
+	"time": 114
+}

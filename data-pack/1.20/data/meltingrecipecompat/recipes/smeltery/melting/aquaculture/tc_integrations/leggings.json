@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquaculture"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "aquaculture:neptunium_leggings"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_neptunium",
+		"amount": 630,
+		"unit_size": 10
+	},
+	"temperature": 950,
+	"time": 216
+}

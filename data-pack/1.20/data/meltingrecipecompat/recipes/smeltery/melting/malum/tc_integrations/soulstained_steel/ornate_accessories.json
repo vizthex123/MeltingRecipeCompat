@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "malum:ornate_necklace"
+		},
+		{
+			"item": "malum:ornate_ring"
+		},
+		{
+			"item": "malum:ring_of_desperate_voracity"
+		},
+		{
+			"item": "malum:ring_of_esoteric_spoils"
+		}
+	],
+	"result": {
+		"fluid": "tcintegrations:molten_soul_stained_steel",
+		"amount": 90
+	},
+	"temperature": 950,
+	"time": 40
+}

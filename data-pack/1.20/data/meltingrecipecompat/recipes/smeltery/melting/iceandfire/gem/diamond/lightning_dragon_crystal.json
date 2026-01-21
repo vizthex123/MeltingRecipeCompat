@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "iceandfire:summoning_crystal_lightning"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 100
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_amethyst",
+			"amount": 100
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 250
+		}
+	],
+	"temperature": 1450,
+	"time": 40
+}

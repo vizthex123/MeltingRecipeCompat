@@ -1,0 +1,30 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "randomisfits"
+		},
+		{
+			"type": "mantle:tag_filled",
+			"tag": "forge:ingots/steel"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "randomisfits:steel_glass_cutter"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 90,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_amethyst",
+			"amount": 100,
+			"unit_size": 25
+		}
+	],
+	"temperature": 700,
+	"time": 80
+}

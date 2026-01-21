@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "advanced_emerald"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "advanced_emerald:emerald_hammer"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_emerald",
+		"amount": 400,
+		"unit_size": 25
+	},
+	"temperature": 934,
+	"time": 100
+}

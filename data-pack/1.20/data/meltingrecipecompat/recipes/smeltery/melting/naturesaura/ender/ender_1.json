@@ -12,6 +12,9 @@
 		},
 		{
 			"item": "naturesaura:outpost_finder"
+		},
+		{
+			"item": "naturesaura:end_city_finder"
 		}
 	],
 	"result": {

@@ -1,0 +1,31 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "tcintegrations"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:amulet_of_mana_boost"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 300
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 40
+		}
+	],
+	"temperature": 1450,
+	"time": 48
+}

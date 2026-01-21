@@ -1,0 +1,27 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "advanced_emerald"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "advanced_emerald:emerald_pickaxe"
+		},
+		{
+			"item": "advanced_emerald:emerald_axe"
+		},
+		{
+			"item": "advanced_emerald:emerald_excavator"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_emerald",
+		"amount": 300,
+		"unit_size": 25
+	},
+	"temperature": 934,
+	"time": 80
+}

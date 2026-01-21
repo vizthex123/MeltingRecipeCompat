@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "randomisfits"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "randomisfits:golden_glass_cutter"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 90,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_amethyst",
+			"amount": 100,
+			"unit_size": 25
+		}
+	],
+	"temperature": 700,
+	"time": 80
+}

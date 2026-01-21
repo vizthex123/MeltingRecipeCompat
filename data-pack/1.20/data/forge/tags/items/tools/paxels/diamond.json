@@ -1,0 +1,37 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "azurepaxels:diamond_paxel",
+			"required": false
+		},
+		{
+			"id": "cl0uds_paxels:diamond_paxel",
+			"required": false
+		},
+		{
+			"id": "easypaxellite:diamond_paxel",
+			"required": false
+		},
+		{
+			"id": "generic_multitools:diamond_paxel",
+			"required": false
+		},
+		{
+			"id": "onlypaxel:diamond_paxel",
+			"required": false
+		},
+		{
+			"id": "only_paxel:diamond_paxel",
+			"required": false
+		},
+		{
+			"id": "simple_paxels:diamond_paxel",
+			"required": false
+		},
+		{
+			"id": "#forge:paxels/diamond",
+			"required": false
+		}
+	]
+}

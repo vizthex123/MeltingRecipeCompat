@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "iceandfire:dragonarmor_copper_body"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 6480
+	},
+	"temperature": 500,
+	"time": 400
+}

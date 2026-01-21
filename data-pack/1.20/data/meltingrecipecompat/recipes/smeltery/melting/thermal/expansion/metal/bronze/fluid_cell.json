@@ -24,7 +24,7 @@
 		},
 		{
 			"fluid": "tconstruct:molten_quartz",
-			"amount": 125
+			"amount": 100
 		},
 		{
 			"fluid": "tconstruct:molten_glass",

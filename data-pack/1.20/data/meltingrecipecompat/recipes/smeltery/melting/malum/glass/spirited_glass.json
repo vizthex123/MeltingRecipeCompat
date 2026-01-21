@@ -1,0 +1,47 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "malum:aerial_spirited_glass"
+		},
+		{
+			"item": "malum:arcane_spirited_glass"
+		},
+		{
+			"item": "malum:aqueous_spirited_glass"
+		},
+		{
+			"item": "malum:earthen_spirited_glass"
+		},
+		{
+			"item": "malum:eldritch_spirited_glass"
+		},
+		{
+			"item": "malum:infernal_spirited_glass"
+		},
+		{
+			"item": "malum:sacred_spirited_glass"
+		},
+		{
+			"item": "malum:wicked_spirited_glass"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 1000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 5
+		}
+	],
+	"temperature": 750,
+	"time": 60
+}

@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "aquaculture:gold_fillet_knife",
+			"required": false
+		},
+		{
+			"id": "aquaculture:gold_fishing_rod",
+			"required": false
+		}
+	]
+}

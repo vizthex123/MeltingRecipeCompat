@@ -1,0 +1,30 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "malum:tyrving"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 4000,
+		"unit_size": 100
+	},
+	"byproducts": [
+		{
+			"fluid": "tcintegrations:molten_soul_stained_steel",
+			"amount": 270,
+			"unit_size": 10
+		}
+	],
+	"temperature": 950,
+	"time": 100
+}

@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "malum:block_of_alchemical_calx"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 2250
+	},
+	"temperature": 450,
+	"time": 56
+}

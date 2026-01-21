@@ -10,6 +10,46 @@ Lines appended with a version in brackets (e.g. Text Here [1.19]) denote changes
 
 --------------------------------------------------
 
+## 3.1
+
+Updated many recipes to adhere to Tinkers' standards (i.e. avoiding multiples of 5, opting to round outputs down to the nerest multiple of 10 instead)
+- Since there's almost 3,500 recipes (and I don't have every supported mod installed), I've decided to do this over the course of a few updates. If you notice any of the others, please let me know in the CuresForge comments section, on the [issue tracker](https://github.com/vizthex103/MeltingRecipeCompat/issues), or in the [discord server](https://discord.com/invite/NtwzA6X).
+
+Added casting recipes for Translocators' Diamond Nugget (as a band-aid fix for leftover Molten Diamond you might have)<br />
+Reverted my Tripwire Hook change to (try and) adhere to Tinkers' recipe standards across the entire pack
+- Also unified it with my Trapped Chests recipe
+
+Changed Essentials' Splitters to primarily output Iron (was Gold)<br />
+Updated support for Aquaculture, Malum, and Nature's Aura
+
+
+Mod support added:
+- Advanced Amethyst
+- Advanced Copper
+- Advanced Emerald
+- Aquaculture 2
+- Ars Nouveau
+- Azure Paxels
+- Cl0ud's Paxels
+- Cloud Storage
+- Generic Multitools
+- Ice and Fire: Dragons
+- Leathered Boots
+- Only Bags
+- Only Excavator
+- Only Hammer
+- Only Paxels
+- Piercing Paxels
+- Random Misfits
+- Simplest Paxels
+- The Undergarden
+- VOIDED's Simple Paxels
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 3.0
 
 Ported to 1.20.1
@@ -41,7 +81,7 @@ Fixed the Netherite barrel giving Molten Debris when it shouldn't *[Iron Barrels
 
 
 
-Updated support for the following mods:
+Mod support updated:
 - AE2 Things
 - Applied Botanics
 - Botania
@@ -119,7 +159,6 @@ Mod support added:
 <br /> <br />
 
 --------------------------------------------------
-
 
 ## 2.0
 
@@ -300,7 +339,7 @@ Optimised a few recipes by combining them into a single entry
 - Also fixed the incorrect melting temperatures in several recipes
 
 Fixed all the melting times not using the proper time units
-- For some reason, Tinkers uses a 4:1 time ratio (e.g. 12 time equals 3 seconds for the item to melt) instead of the standard 20:1 (20 ticks per second)
+- For some reason, Tinkers uses a 4:1 time ratio (e.g. 10 time equals 3 seconds for the item to melt) instead of the standard 20:1 (20 ticks per second)
 
 Fixed Bygone Nether's Gilded Netherite recipes not loading in<br />
 Fixed the Obscuria's Essentials Paladin's Helmet using a Helmet instead<br />

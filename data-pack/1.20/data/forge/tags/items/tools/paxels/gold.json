@@ -1,0 +1,37 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "azurepaxels:golden_paxel",
+			"required": false
+		},
+		{
+			"id": "cl0uds_paxels:golden_paxel",
+			"required": false
+		},
+		{
+			"id": "easypaxellite:golden_paxel",
+			"required": false
+		},
+		{
+			"id": "generic_multitools:gold_paxel",
+			"required": false
+		},
+		{
+			"id": "onlypaxel:golden_paxel",
+			"required": false
+		},
+		{
+			"id": "only_paxel:gold_paxel",
+			"required": false
+		},
+		{
+			"id": "simple_paxels:golden_paxel",
+			"required": false
+		},
+		{
+			"id": "#forge:paxels/golden",
+			"required": false
+		}
+	]
+}

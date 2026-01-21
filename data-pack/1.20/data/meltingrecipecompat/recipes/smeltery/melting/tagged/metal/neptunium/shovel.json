@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquaculture"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "aquaculture:neptunium_shovel"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_neptunium",
+		"amount": 90
+	},
+	"temperature": 950,
+	"time": 68
+}

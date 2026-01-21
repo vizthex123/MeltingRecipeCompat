@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "malum:belt_of_the_magebane"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_soul_stained_steel",
+		"amount": 360
+	},
+	"temperature": 950,
+	"time": 40
+}

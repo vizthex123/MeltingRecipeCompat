@@ -16,7 +16,7 @@
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_gold",
-			"amount": 315
+			"amount": 310
 		},
 		{
 			"fluid": "tconstruct:molten_glass",

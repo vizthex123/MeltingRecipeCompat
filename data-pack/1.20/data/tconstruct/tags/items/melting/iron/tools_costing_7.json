@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "ars_nouveau:arcanist_leggings",
+			"required": false
+		},
+		{
+			"id": "hammerlib:wrench",
+			"required": false
+		},
+		{
+			"id": "thermal:wrench",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:golden_chestplate",
+		{
+			"id": "ars_nouveau:sorcerer_robes",
+			"required": false
+		}
+	]
+}

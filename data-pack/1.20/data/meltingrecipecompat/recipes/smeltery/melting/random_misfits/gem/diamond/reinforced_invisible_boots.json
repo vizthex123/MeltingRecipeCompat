@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "randomisfits"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "randomisfits:reinforced_invisible_boots"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 400,
+		"unit_size": 25
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 8000,
+			"unit_size": 50
+		}
+	],
+	"temperature": 1450,
+	"time": 108
+}

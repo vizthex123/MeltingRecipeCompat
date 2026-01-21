@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquaculture"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "aquaculture:diamond_hook"
+		},
+		{
+			"item": "aquaculture:nether_star_hook"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 400
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 40
+		}
+	],
+	"temperature": 1450,
+	"time": 32
+}

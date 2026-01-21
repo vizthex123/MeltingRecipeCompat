@@ -16,7 +16,7 @@
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_electrum",
-			"amount": 7
+			"amount": 5
 		}
 	],
 	"temperature": 450,

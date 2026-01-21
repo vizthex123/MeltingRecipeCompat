@@ -1,0 +1,35 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturesaura"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "naturesaura:token_fear"
+		},
+		{
+			"item": "naturesaura:token_terror"
+		},
+		{
+			"item": "naturesaura:cave_finder"
+		},
+		{
+			"item": "naturesaura:light_staff"
+		},
+		{
+			"item": "naturesaura:furnace_heater"
+		},
+		{
+			"item": "naturesaura:dimension_rail_nether"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:liquid_soul",
+		"amount": 500
+	},
+	"temperature": 400,
+	"time": 40
+}

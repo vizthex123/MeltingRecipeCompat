@@ -19,7 +19,7 @@
 	"result": {
 		"fluid": "tconstruct:molten_glass",
 		"amount": 2000,
-		"unit_size": 20
+		"unit_size": 50
 	},
 	"temperature": 750,
 	"time": 40

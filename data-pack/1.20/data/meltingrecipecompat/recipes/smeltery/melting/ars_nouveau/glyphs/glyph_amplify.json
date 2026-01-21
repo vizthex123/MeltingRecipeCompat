@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:glyph_amplify"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 300
+	},
+	"temperature": 1450,
+	"time": 48
+}

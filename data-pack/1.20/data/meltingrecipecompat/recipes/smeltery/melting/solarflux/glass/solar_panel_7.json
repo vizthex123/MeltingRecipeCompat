@@ -16,7 +16,7 @@
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_iron",
-			"amount": 24187
+			"amount": 24180
 		},
 		{
 			"fluid": "tconstruct:molten_gold",
@@ -28,11 +28,11 @@
 		},
 		{
 			"fluid": "tconstruct:molten_emerald",
-			"amount": 112
+			"amount": 100
 		},
 		{
 			"fluid": "tconstruct:molten_diamond",
-			"amount": 1935
+			"amount": 1900
 		},
 		{
 			"fluid": "tconstruct:molten_clay",

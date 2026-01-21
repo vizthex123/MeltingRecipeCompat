@@ -1,0 +1,13 @@
+{
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:tools/gold/cost_8"
+	},
+	"result": {
+		"tag": "forge:molten_gold",
+		"amount": 720,
+		"unit_size": 10
+	},
+	"temperature": 700,
+	"time": 161
+}

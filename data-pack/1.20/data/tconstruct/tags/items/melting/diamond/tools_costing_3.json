@@ -4,6 +4,10 @@
 		{
 			"id": "projectred_exploration:diamond_sickle",
 			"required": false
+		},
+		{
+			"id": "only_excavators_mod:diamond_excavator",
+			"required": false
 		}
 	]
 }

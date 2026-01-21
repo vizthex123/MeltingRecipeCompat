@@ -16,11 +16,11 @@
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_copper",
-			"amount": 702
+			"amount": 700
 		},
 		{
 			"fluid": "tconstruct:molten_aluminum",
-			"amount": 45
+			"amount": 40
 		},
 		{
 			"fluid": "tconstruct:molten_nickel",
@@ -32,7 +32,7 @@
 		},
 		{
 			"fluid": "tconstruct:molten_electrum",
-			"amount": 22
+			"amount": 20
 		},
 		{
 			"fluid": "tconstruct:molten_amethyst",
@@ -40,7 +40,7 @@
 		},
 		{
 			"fluid": "tconstruct:molten_glass",
-			"amount": 1666
+			"amount": 1650
 		}
 	],
 	"temperature": 800,

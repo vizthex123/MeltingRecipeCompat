@@ -8,6 +8,15 @@
 
 4) Byproduct exception: If one material is used in a greater than 1:1 ratio, it becomes the primary material (e.g. using a Copper Block and Iron Plate with the Plate being on top of the Block).
 
-5) Items in tag files are organised alphabetically by mod and then registry name
+
+
+Extra notes:
+
+Items in tag files are organised alphabetically by mod and then registry name.
+
+Odd output values (e.g. 33) are rounded down to the nearest multiple of 10 (25 for gems and 100 for blocks)
+- Values between 11 and 19 are rounded down to 10
+- Values between 6 and 9 are rounded down to 5
+- Values between 3 and 4 are rounded down to 2
 
 The `time` field doesn't use game ticks, instead using smeltery ticks (4:1 ratio - so 20 time = 5 seconds (since 1 time = 4 smeltery ticks)).

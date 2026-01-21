@@ -2,11 +2,19 @@
 	"replace": false,
 	"values": [
 		{
+			"id": "bluepower:gold_sickle",
+			"required": false
+		},
+		{
 			"id": "create:wrench",
 			"required": false
 		},
 		{
 			"id": "projectred_exploration:gold_sickle",
+			"required": false
+		},
+		{
+			"id": "only_excavators_mod:gold_excavator",
 			"required": false
 		}
 	]

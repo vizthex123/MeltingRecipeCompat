@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "randomisfits"
+		},
+		{
+			"type": "mantle:tag_filled",
+			"tag": "forge:ingots/steel"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "randomisfits:steel_multitool"
+		},
+		{
+			"item": "randomisfits:steel_excavator"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_steel",
+		"amount": 810,
+		"unit_size": 10
+	},
+	"temperature": 950,
+	"time": 120
+}

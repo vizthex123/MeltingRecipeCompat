@@ -11,12 +11,12 @@
 	},
 	"result": {
 		"fluid": "tconstruct:molten_steel",
-		"amount": 405
+		"amount": 400
 	},
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_iron",
-			"amount": 405
+			"amount": 400
 		},
 		{
 			"fluid": "tconstruct:molten_copper",

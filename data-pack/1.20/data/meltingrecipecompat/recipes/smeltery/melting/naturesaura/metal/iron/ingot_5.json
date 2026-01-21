@@ -8,9 +8,6 @@
 	"type": "tconstruct:melting",
 	"ingredient": [
 		{
-			"item": "naturesaura:blast_furnace_booster"
-		},
-		{
 			"item": "naturesaura:placer"
 		},
 		{

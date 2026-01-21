@@ -1,0 +1,25 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "tcintegrations"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:scryers_crystal"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 250
+	},
+	"temperature": 477,
+	"time": 48
+}

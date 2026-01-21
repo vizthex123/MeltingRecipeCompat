@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "malum:spectral_optic"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 125
+	},
+	"temperature": 750,
+	"time": 20
+}

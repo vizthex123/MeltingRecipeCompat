@@ -1,0 +1,89 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "malum:esoteric_spool"
+		},
+		{
+			"item": "malum:ancient_weave"
+		},
+		{
+			"item": "malum:cornered_weave"
+		},
+		{
+			"item": "malum:dreaded_weave"
+		},
+		{
+			"item": "malum:mechanical_weave_v1"
+		},
+		{
+			"item": "malum:mechanical_weave_v2"
+		},
+		{
+			"item": "malum:ace_prideweave"
+		},
+		{
+			"item": "malum:agender_prideweave"
+		},
+		{
+			"item": "malum:aro_prideweave"
+		},
+		{
+			"item": "malum:aroace_prideweave"
+		},
+		{
+			"item": "malum:bi_prideweave"
+		},
+		{
+			"item": "malum:demiboy_prideweave"
+		},
+		{
+			"item": "malum:demigirl_prideweave"
+		},
+		{
+			"item": "malum:enby_prideweave"
+		},
+		{
+			"item": "malum:gay_prideweave"
+		},
+		{
+			"item": "malum:genderfluid_prideweave"
+		},
+		{
+			"item": "malum:genderqueer_prideweave"
+		},
+		{
+			"item": "malum:intersex_prideweave"
+		},
+		{
+			"item": "malum:lesbian_prideweave"
+		},
+		{
+			"item": "malum:pan_prideweave"
+		},
+		{
+			"item": "malum:plural_prideweave"
+		},
+		{
+			"item": "malum:poly_prideweave"
+		},
+		{
+			"item": "malum:pride_prideweave"
+		},
+		{
+			"item": "malum:trans_prideweave"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 90
+	},
+	"temperature": 800,
+	"time": 20
+}

@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "cl0uds_paxels:netherite_paxel",
+			"required": false
+		},
+		{
+			"id": "generic_multitools:netherite_paxel",
+			"required": false
+		}
+	]
+}

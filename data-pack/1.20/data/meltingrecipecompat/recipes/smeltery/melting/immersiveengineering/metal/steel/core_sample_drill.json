@@ -20,7 +20,7 @@
 		},
 		{
 			"fluid": "tconstruct:molten_copper",
-			"amount": 225
+			"amount": 220
 		}
 	],
 	"temperature": 950,

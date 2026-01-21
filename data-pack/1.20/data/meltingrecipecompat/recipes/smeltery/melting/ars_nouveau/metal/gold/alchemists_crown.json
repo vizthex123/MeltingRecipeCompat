@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "ars_nouveau:alchemists_crown"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 450,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 3000,
+			"unit_size": 50
+		}
+	],
+	"temperature": 700,
+	"time": 48
+}

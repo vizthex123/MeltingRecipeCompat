@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "undergarden"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "undergarden:cloggrum_sword"
+		},
+		{
+			"item": "undergarden:cloggrum_hoe"
+		}
+	],
+	"result": {
+		"fluid": "tcintegrations:molten_cloggrum",
+		"amount": 180,
+		"unit_size": 10
+	},
+	"temperature": 900,
+	"time": 180
+}

@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		},
+		{
+			"type": "forge:not",
+			"value": {
+				"type": "forge:mod_loaded",
+				"modid": "tcintegrations"
+			}
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "malum:necklace_of_the_mystic_mirror"
+		},
+		{
+			"item": "malum:necklace_of_the_watcher"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 250
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_glass",
+			"amount": 125
+		}
+	],
+	"temperature": 477,
+	"time": 40
+}

@@ -15,12 +15,12 @@
 	},
 	"result": {
 		"fluid": "tconstruct:molten_bronze",
-		"amount": 45
+		"amount": 40
 	},
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_lead",
-			"amount": 22
+			"amount": 20
 		}
 	],
 	"temperature": 700,

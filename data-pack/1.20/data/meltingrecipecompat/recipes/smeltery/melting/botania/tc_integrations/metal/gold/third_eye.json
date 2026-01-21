@@ -1,0 +1,40 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "botania"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "botania:third_eye"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 320
+	},
+	"byproducts": [
+		{
+			"fluid": "tcintegrations:molten_manasteel",
+			"amount": 40
+		},
+		{
+			"fluid": "tconstruct:molten_quartz",
+			"amount": 800
+		},
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 100
+		},
+		{
+			"fluid": "tconstruct:molten_ender",
+			"amount": 250
+		}
+	],
+	"temperature": 700,
+	"time": 40
+}

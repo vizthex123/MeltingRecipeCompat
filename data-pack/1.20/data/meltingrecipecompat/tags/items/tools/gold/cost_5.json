@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:golden_helmet",
+		{
+			"id": "ars_nouveau:sorcerer_hood",
+			"required": false
+		}
+	]
+}

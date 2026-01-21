@@ -1,6 +1,19 @@
 {
 	"replace": false,
 	"values": [
+		"minecraft:iron_boots",
+		{
+			"id": "ars_nouveau:arcanist_boots",
+			"required": false
+		},
+		{
+			"id": "bluepower:iron_saw",
+			"required": false
+		},
+		{
+			"id": "leathered_boots:leathered_iron_boots",
+			"required": false
+		},
 		{
 			"id": "bigreactors:wrench",
 			"required": false
@@ -11,6 +24,22 @@
 		},
 		{
 			"id": "ironchests:iron_dolly",
+			"required": false
+		},
+		{
+			"id": "multitools:iron_multitool",
+			"required": false
+		},
+		{
+			"id": "multitoolmod:iron_multitool",
+			"required": false
+		},
+		{
+			"id": "only_excavators_mod:iron_excavator",
+			"required": false
+		},
+		{
+			"id": "only_hammer_mod:iron_hammer",
 			"required": false
 		},
 		{

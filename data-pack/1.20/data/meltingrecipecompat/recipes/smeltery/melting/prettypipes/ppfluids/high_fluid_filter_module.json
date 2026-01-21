@@ -11,7 +11,7 @@
 	},
 	"result": {
 		"fluid": "tconstruct:molten_iron",
-		"amount": 825
+		"amount": 820
 	},
 	"byproducts": [
 		{
@@ -20,7 +20,7 @@
 		},
 		{
 			"fluid": "tconstruct:molten_copper",
-			"amount": 22
+			"amount": 20
 		},
 		{
 			"fluid": "tconstruct:molten_quartz",

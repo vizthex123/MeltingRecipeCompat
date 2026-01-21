@@ -1,0 +1,31 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "randomisfits"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "randomisfits:netherite_glass_cutter"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 90,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 100,
+			"unit_size": 25
+		},
+		{
+			"fluid": "tconstruct:molten_amethyst",
+			"amount": 100,
+			"unit_size": 25
+		}
+	],
+	"temperature": 1250,
+	"time": 80
+}

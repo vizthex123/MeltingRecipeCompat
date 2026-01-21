@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "iceandfire:dragonarmor_diamond_body"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 7200
+	},
+	"temperature": 1450,
+	"time": 400
+}

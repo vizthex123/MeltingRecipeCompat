@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "aquaculture:diamond_fillet_knife",
+			"required": false
+		},
+		{
+			"id": "aquaculture:diamond_fishing_rod",
+			"required": false
+		}
+	]
+}

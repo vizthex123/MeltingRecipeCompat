@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "advanced_copper"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "advanced_copper:copper_paxel"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 630,
+		"unit_size": 10
+	},
+	"temperature": 500,
+	"time": 135
+}

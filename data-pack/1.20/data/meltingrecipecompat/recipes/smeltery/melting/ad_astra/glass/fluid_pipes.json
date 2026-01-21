@@ -23,7 +23,7 @@
 	],
 	"result": {
 		"fluid": "tconstruct:molten_glass",
-		"amount": 185
+		"amount": 100
 	},
 	"temperature": 750,
 	"time": 32

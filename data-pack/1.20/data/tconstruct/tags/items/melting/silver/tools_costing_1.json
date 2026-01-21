@@ -2,6 +2,10 @@
 	"replace": false,
 	"values": [
 		{
+			"id": "bluepower:athame",
+			"required": false
+		},
+		{
 			"id": "abnormals_delight:silver_knife",
 			"required": false
 		},

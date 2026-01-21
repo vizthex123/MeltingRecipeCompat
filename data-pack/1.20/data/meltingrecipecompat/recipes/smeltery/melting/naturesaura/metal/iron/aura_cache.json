@@ -7,12 +7,12 @@
 	],
 	"type": "tconstruct:melting",
 	"ingredient": {
-		"item": "naturesaura:animal_spawner"
+		"item": "naturesaura:aura_cache"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_iron",
 		"amount": 270
 	},
 	"temperature": 800,
-	"time": 100
+	"time": 80
 }

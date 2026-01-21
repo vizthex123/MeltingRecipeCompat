@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "undergarden"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "undergarden:cloggrum_lantern"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_cloggrum",
+		"amount": 80
+	},
+	"temperature": 900,
+	"time": 36
+}

@@ -9,10 +9,6 @@
 			"modid": "mekanism"
 		},
 		{
-			"type": "forge:mod_loaded",
-			"modid": "tcintegrations"
-		},
-		{
 			"type": "forge:not",
 			"value": {
 				"type": "forge:mod_loaded",

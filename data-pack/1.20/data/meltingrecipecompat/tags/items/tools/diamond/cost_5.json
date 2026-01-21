@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:diamond_helmet",
+		{
+			"id": "ars_nouveau:battlemage_hood",
+			"required": false
+		}
+	]
+}

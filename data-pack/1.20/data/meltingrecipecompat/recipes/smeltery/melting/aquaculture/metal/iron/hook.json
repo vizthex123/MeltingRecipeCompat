@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquaculture"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "aquaculture:iron_hook"
+		},
+		{
+			"item": "aquaculture:light_hook"
+		},
+		{
+			"item": "aquaculture:note_hook"
+		},
+		{
+			"item": "aquaculture:redstone_hook"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 40
+	},
+	"temperature": 800,
+	"time": 28
+}

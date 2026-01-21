@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "ars_nouveau:ritual_awakening"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_source_gem",
+		"amount": 400
+	},
+	"temperature": 980,
+	"time": 44
+}

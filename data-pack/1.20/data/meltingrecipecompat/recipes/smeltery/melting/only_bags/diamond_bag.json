@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "only_bags"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "only_bags:diamond_bag"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 5400
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 4860
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 4860
+		}
+	],
+	"temperature": 1450,
+	"time": 440
+}

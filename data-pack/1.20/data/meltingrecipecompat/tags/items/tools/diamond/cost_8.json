@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:diamond_chestplate",
+		{
+			"id": "ars_nouveau:battlemage_robes",
+			"required": false
+		}
+	]
+}

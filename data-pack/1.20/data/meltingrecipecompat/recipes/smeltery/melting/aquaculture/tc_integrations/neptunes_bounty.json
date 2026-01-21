@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquaculture"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "aquaculture:neptunes_bounty"
+	},
+	"result": {
+		"fluid": "tcintegrations:molten_neptunium",
+		"amount": 720
+	},
+	"temperature": 950,
+	"time": 80
+}

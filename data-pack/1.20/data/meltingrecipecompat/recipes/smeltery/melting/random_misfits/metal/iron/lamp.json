@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "randomisfits"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "randomisfits:lamp"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 30
+	},
+	"temperature": 800,
+	"time": 28
+}

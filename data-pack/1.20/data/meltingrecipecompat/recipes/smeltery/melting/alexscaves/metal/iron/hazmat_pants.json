@@ -11,7 +11,7 @@
 	},
 	"result": {
 		"fluid": "tconstruct:molten_iron",
-		"amount": 157,
+		"amount": 150,
 		"unit_size": 10
 	},
 	"temperature": 800,

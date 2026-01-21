@@ -1,0 +1,27 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tcintegrations"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "malum:elaborate_brooch"
+		},
+		{
+			"item": "malum:gluttonous_brooch"
+		}
+	],
+	"result": {
+		"fluid": "tcintegrations:molten_soul_stained_steel",
+		"amount": 900
+	},
+	"temperature": 950,
+	"time": 60
+}
