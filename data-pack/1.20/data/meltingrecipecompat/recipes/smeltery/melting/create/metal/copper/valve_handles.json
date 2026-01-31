@@ -1,12 +1,9 @@
 {
 	"conditions": [
 		{
-		"value": {
-			"type": "forge:tag_empty",
-			"tag": "create:valve_handles"
-		},
-		"type": "forge:not"
-	  }
+			"type": "forge:mod_loaded",
+			"modid": "create"
+		}
 	],
 	"type": "tconstruct:melting",
 	"ingredient": {

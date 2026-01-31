@@ -16,7 +16,7 @@
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_diamond",
-			"amount": 122
+			"amount": 120
 		}
 	],
 	"temperature": 950,

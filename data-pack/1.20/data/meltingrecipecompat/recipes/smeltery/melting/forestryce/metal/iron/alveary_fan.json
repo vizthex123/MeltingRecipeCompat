@@ -16,7 +16,7 @@
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_gold",
-			"amount": 112
+			"amount": 110
 		}
 	],
 	"temperature": 800,

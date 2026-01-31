@@ -16,7 +16,7 @@
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_iron",
-			"amount": 33
+			"amount": 30
 		}
 	],
 	"temperature": 950,

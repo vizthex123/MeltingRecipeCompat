@@ -11,12 +11,12 @@
 	},
 	"result": {
 		"fluid": "tconstruct:molten_iron",
-		"amount": 135
+		"amount": 130
 	},
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_gold",
-			"amount": 67
+			"amount": 60
 		}
 	],
 	"temperature": 800,

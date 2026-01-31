@@ -11,12 +11,12 @@
 	},
 	"result": {
 		"fluid": "tconstruct:molten_ender",
-		"amount": 62
+		"amount": 50
 	},
 	"byproducts": [
 		{
 			"fluid": "tconstruct:earth_slime",
-			"amount": 62
+			"amount": 50
 		}
 	],
 	"temperature": 477,

@@ -10,6 +10,18 @@ Lines appended with a version in brackets (e.g. Text Here [1.19]) denote changes
 
 --------------------------------------------------
 
+## 3.1.1
+
+Removed duplicated support for Savage & Ravage<br />
+Finished standardising all of the melting values
+- I probably should've just done this in v3.1, but i wanted to get that out just in case I let this project sit untouched for months on end lol
+- I also fixed a few minor issues I spotted whilst doing this
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 3.1
 
 Updated many recipes to adhere to Tinkers' standards (i.e. avoiding multiples of 5, opting to round outputs down to the nerest multiple of 10 instead)

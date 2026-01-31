@@ -16,7 +16,7 @@
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_iron",
-			"amount": 225
+			"amount": 220
 		},
 		{
 			"fluid": "tconstruct:molten_osmium",

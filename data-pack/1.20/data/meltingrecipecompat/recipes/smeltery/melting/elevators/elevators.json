@@ -1,12 +1,9 @@
 {
 	"conditions": [
-	  {
-		"value": {
-			"type": "forge:tag_empty",
-			"tag": "elevatorid:elevators"
-		},
-		"type": "forge:not"
-	  }
+		{
+			"type": "forge:mod_loaded",
+			"modid": "elevatorid"
+		}
 	],
 	"type": "tconstruct:melting",
 	"ingredient": {

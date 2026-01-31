@@ -16,7 +16,7 @@
 	"byproducts": [
 		{
 			"fluid": "tconstruct:molten_diamond",
-			"amount": 33
+			"amount": 30
 		},
 		{
 			"fluid": "tconstruct:earth_slime",
