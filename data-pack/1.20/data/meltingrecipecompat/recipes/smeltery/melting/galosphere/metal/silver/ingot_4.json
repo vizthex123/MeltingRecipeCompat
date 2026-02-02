@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "galosphere"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "galosphere:barometer"
+		},
+		{
+			"item": "galosphere:silver_balance"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_silver",
+		"amount": 360
+	},
+	"temperature": 790,
+	"time": 76
+}

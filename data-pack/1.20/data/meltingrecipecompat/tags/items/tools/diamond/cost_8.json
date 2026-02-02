@@ -5,6 +5,18 @@
 		{
 			"id": "ars_nouveau:battlemage_robes",
 			"required": false
+		},
+		{
+			"id": "outer_end:cobalt_crystal_chestplate",
+			"required": false
+		},
+		{
+			"id": "outer_end:mint_crystal_chestplate",
+			"required": false
+		},
+		{
+			"id": "outer_end:rose_crystal_chestplate",
+			"required": false
 		}
 	]
 }

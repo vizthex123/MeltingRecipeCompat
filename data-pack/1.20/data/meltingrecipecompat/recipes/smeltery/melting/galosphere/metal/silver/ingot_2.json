@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "galosphere"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "galosphere:silver_bomb"
+		},
+		{
+			"item": "galosphere:combustion_table"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_silver",
+		"amount": 180
+	},
+	"temperature": 790,
+	"time": 68
+}

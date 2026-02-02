@@ -12,6 +12,10 @@
 		{
 			"id": "phantasm:pream_hanging_sign",
 			"required": false
+		},
+		{
+			"id": "outer_end:azure_hanging_sign",
+			"required": false
 		}
 	]
 }

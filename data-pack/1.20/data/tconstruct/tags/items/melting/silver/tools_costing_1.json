@@ -14,6 +14,26 @@
 			"required": false
 		},
 		{
+			"id": "galosphere:sterling_helmet",
+			"required": false
+		},
+		{
+			"id": "galosphere:sterling_chestplate",
+			"required": false
+		},
+		{
+			"id": "galosphere:sterling_leggings",
+			"required": false
+		},
+		{
+			"id": "galosphere:sterling_boots",
+			"required": false
+		},
+		{
+			"id": "galosphere:sterling_horse_armor",
+			"required": false
+		},
+		{
 			"id": "iceandfire:silver_shovel",
 			"required": false
 		},

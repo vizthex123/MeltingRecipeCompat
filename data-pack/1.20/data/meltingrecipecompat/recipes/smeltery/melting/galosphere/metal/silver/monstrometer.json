@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "galosphere"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "galosphere:monstrometer"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_silver",
+		"amount": 4860
+	},
+	"temperature": 790,
+	"time": 240
+}

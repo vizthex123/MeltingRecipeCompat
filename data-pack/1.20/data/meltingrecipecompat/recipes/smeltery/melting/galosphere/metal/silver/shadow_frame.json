@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "galosphere"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "galosphere:shadow_frame"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_silver",
+		"amount": 50
+	},
+	"temperature": 790,
+	"time": 36
+}

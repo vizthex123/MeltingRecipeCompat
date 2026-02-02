@@ -10,6 +10,22 @@ Lines appended with a version in brackets (e.g. Text Here [1.19]) denote changes
 
 --------------------------------------------------
 
+## 3.2
+
+Fixed the incorrect melting temperature for Malum's Tyrving<br />
+Fixed More Useful Copper's Copper Horse Armour not having a recipe<br />
+Fixed the More Useful Copper recipe for Hanging Signs outputting slighty too much Copper
+
+Mod support added:
+- Galosphere
+- The Outer End
+- Jet Boots
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 3.1.1
 
 Removed duplicated support for Savage & Ravage<br />

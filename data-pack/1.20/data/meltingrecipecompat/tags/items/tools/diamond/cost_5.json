@@ -5,6 +5,18 @@
 		{
 			"id": "ars_nouveau:battlemage_hood",
 			"required": false
+		},
+		{
+			"id": "outer_end:cobalt_crystal_helmet",
+			"required": false
+		},
+		{
+			"id": "outer_end:mint_crystal_helmet",
+			"required": false
+		},
+		{
+			"id": "outer_end:rose_crystal_helmet",
+			"required": false
 		}
 	]
 }

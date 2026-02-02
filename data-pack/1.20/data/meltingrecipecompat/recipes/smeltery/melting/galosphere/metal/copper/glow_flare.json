@@ -2,17 +2,17 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "more_useful_copper"
+			"modid": "galosphere"
 		}
 	],
 	"type": "tconstruct:melting",
 	"ingredient": {
-		"tag": "minecraft:hanging_signs"
+		"item": "galosphere:glow_flare"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_copper",
-		"amount": 10
+		"amount": 20
 	},
 	"temperature": 500,
-	"time": 60
+	"time": 40
 }

@@ -83,6 +83,7 @@
 | [Fullblock Energistics](https://www.curseforge.com/minecraft/mc-mods/fullblock-energistics)																				|				|✔			|✔			|2.0							|				|
 | [Functional Storage](https://www.curseforge.com/minecraft/mc-mods/functional-storage)																					|✔			|✔			|✔			|1.3							|				|
 | [Gendustry: Community Edition](https://www.curseforge.com/minecraft/mc-mods/gendustry-community-edition)										|				|			    |✔			|3.0							|				|
+| [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)																													|				|			    |✔			|3.2							|				|
 | [Generic Multitools](https://www.curseforge.com/minecraft/mc-mods/finnspaxels)																									|				|			    |✔			|3.1							|				|
 | [HammerLib](https://www.curseforge.com/minecraft/mc-mods/hammer-lib)																												|				|			    |✔			|3.0							|				|
 | [Hole Filler Mod](https://www.curseforge.com/minecraft/mc-mods/hole-filler-mod)																									|				|			    |✔			|3.0							|				|
@@ -100,6 +101,7 @@
 | [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks)																											|✔			|✔			|✔			|1.3							|Only supports the Coils and Jetpacks since I can't use NBT data in melting recipes. |	
 | [Iron Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/iron-shulker-boxes)																						|				|			    |✔			|3.0							|				|
 | [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)															|				|			    |✔			|3.0							|				|
+| [Jet Boots](https://www.curseforge.com/minecraft/mc-mods/jet-boots)																															|				|			    |✔			|3.2							|				|
 | [Laser Bridges & Doors](https://www.curseforge.com/minecraft/mc-mods/laser-bridges-doors)																				|				|			    |✔			|3.0							|				|
 | [LaserIO](https://www.curseforge.com/minecraft/mc-mods/laserio)																																	|✔			|✔			|✔			|1.5							|Also supports [LaserIO UEL](https://www.curseforge.com/minecraft/mc-mods/laserio-uel) |
 | [Leathered Boots](https://www.curseforge.com/minecraft/mc-mods/leathered-boots)																								|				|			    |✔			|3.1							|				|
@@ -129,6 +131,7 @@
 | [Only Paxel](https://www.curseforge.com/minecraft/mc-mods/only-paxel)																													|✔			|✔			|✔			|1.2							|				|
 | [Only Paxels](https://www.curseforge.com/minecraft/mc-mods/only-paxels)																												|				|			    |✔			|3.1							|				|
 | [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)																			|✔			|✔			|✔			|									|				|
+| [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)																										|				|			    |✔			|3.2							|				|
 | [Portality](https://www.curseforge.com/minecraft/mc-mods/portality)																															|✔			|			    |			    |1.3							|				|
 | [RePortality](https://www.curseforge.com/minecraft/mc-mods/reportality)																													|				|			    |✔			|3.0							|				|
 | [Piercing Paxels](https://www.curseforge.com/minecraft/mc-mods/piercingpaxels)																									|				|			    |✔			|3.1							|				|

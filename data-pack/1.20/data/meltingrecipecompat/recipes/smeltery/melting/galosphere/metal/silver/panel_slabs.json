@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "galosphere"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "galosphere:silver_panel_slab"
+		},
+		{
+			"item": "galosphere:silver_tiles_slab"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_silver",
+		"amount": 400
+	},
+	"temperature": 790,
+	"time": 148
+}

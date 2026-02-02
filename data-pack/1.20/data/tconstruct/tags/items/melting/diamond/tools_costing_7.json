@@ -4,6 +4,18 @@
 		{
 			"id": "ars_nouveau:battlemage_leggings",
 			"required": false
+		},
+		{
+			"id": "outer_end:cobalt_crystal_leggings",
+			"required": false
+		},
+		{
+			"id": "outer_end:mint_crystal_leggings",
+			"required": false
+		},
+		{
+			"id": "outer_end:rose_crystal_leggings",
+			"required": false
 		}
 	]
 }

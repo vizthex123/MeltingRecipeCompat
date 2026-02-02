@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "jetboots"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "jetboots:engine_upgrade"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 300
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 180
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 1080
+		},
+		{
+			"fluid": "tconstruct:molten_obsidian",
+			"amount": 12000
+		}
+	],
+	"temperature": 1450,
+	"time": 80
+}

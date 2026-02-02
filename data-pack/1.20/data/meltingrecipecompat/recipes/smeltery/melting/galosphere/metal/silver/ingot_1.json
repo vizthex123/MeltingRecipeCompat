@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "galosphere"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "galosphere:spectre_flare"
+		},
+		{
+			"item": "galosphere:pink_salt_lamp"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_silver",
+		"amount": 90
+	},
+	"temperature": 790,
+	"time": 40
+}

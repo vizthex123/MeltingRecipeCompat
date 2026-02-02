@@ -1,0 +1,38 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "galosphere"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "galosphere:smooth_amethyst"
+		},
+		{
+			"item": "galosphere:amethyst_bricks"
+		},
+		{
+			"item": "galosphere:chiseled_amethyst"
+		},
+		{
+			"item": "galosphere:amethyst_lamp"
+		},
+		{
+			"item": "galosphere:amethyst_stairs"
+		},
+		{
+			"item": "galosphere:smooth_amethyst_stairs"
+		},
+		{
+			"item": "galosphere:amethyst_brick_stairs"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_amethyst",
+		"amount": 400
+	},
+	"temperature": 950,
+	"time": 120
+}

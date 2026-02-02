@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "galosphere"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "galosphere:amethyst_slab"
+		},
+		{
+			"item": "galosphere:smooth_amethyst_slab"
+		},
+		{
+			"item": "galosphere:amethyst_brick_slab"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_amethyst",
+		"amount": 200
+	},
+	"temperature": 950,
+	"time": 100
+}

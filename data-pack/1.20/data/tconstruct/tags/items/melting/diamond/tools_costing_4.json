@@ -24,6 +24,18 @@
 		{
 			"id": "only_hammer_mod:diamond_hammer",
 			"required": false
+		},
+		{
+			"id": "outer_end:cobalt_crystal_boots",
+			"required": false
+		},
+		{
+			"id": "outer_end:mint_crystal_boots",
+			"required": false
+		},
+		{
+			"id": "outer_end:rose_crystal_boots",
+			"required": false
 		}
 	]
 }

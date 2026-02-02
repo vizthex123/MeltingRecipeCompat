@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "galosphere"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "galosphere:silver_panel"
+		},
+		{
+			"item": "galosphere:silver_tiles"
+		},
+		{
+			"item": "galosphere:silver_panel_stairs"
+		},
+		{
+			"item": "galosphere:silver_tiles_stairs"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_silver",
+		"amount": 810
+	},
+	"temperature": 790,
+	"time": 180
+}
