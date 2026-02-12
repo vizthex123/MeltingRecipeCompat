@@ -8,16 +8,25 @@
 	"type": "tconstruct:melting",
 	"ingredient": [
 		{
-			"tag": "ae2:covered_dense_cable"
+			"tag": "ae2:illuminated_panel"
 		},
 		{
-			"tag": "ae2:smart_dense_cable"
+			"item": "ae2:storage_monitor"
+		},
+		{
+			"item": "ae2:network_tool"
 		}
 	],
 	"result": {
 		"fluid": "tconstruct:molten_glass",
-		"amount": 2000
+		"amount": 1000
 	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 30
+		}
+	],
 	"temperature": 750,
-	"time": 48
+	"time": 60
 }

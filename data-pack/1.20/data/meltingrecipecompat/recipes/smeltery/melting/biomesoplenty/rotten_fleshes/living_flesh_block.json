@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "biomesoplenty"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "malum"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "malum:block_of_living_flesh"
+	},
+	"result": {
+		"fluid": "biomesoplenty:blood",
+		"amount": 2000
+	},
+	"temperature": 100,
+	"time": 64
+}

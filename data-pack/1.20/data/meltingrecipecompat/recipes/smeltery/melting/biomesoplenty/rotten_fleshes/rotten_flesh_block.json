@@ -1,0 +1,22 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "biomesoplenty"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "caverns_and_chasms"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "caverns_and_chasms:rotten_flesh_block"
+	},
+	"result": {
+		"fluid": "biomesoplenty:blood",
+		"amount": 2250
+	},
+	"temperature": 100,
+	"time": 80
+}

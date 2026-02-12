@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "biomesoplenty"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "biomesoplenty:porous_flesh"
+	},
+	"result": {
+		"fluid": "biomesoplenty:blood",
+		"amount": 1000
+	},
+	"temperature": 100,
+	"time": 56
+}

@@ -8,16 +8,19 @@
 	"type": "tconstruct:melting",
 	"ingredient": [
 		{
-			"tag": "ae2:covered_dense_cable"
+			"item": "ae2:quartz_glass"
 		},
 		{
-			"tag": "ae2:smart_dense_cable"
+			"item": "ae2:vibrant_quartz_glass"
+		},
+		{
+			"item": "ae2:sky_stone_tank"
 		}
 	],
 	"result": {
 		"fluid": "tconstruct:molten_glass",
-		"amount": 2000
+		"amount": 1000
 	},
 	"temperature": 750,
-	"time": 48
+	"time": 56
 }

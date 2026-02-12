@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bloodmagic"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "bloodmagic:silk_touch_anointment_l"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 625
+	},
+	"byproducts": [
+		{
+		  "fluid": "tconstruct:molten_gold",
+		  "amount": 20
+		}
+	],
+	"temperature": 750,
+	"time": 24
+}

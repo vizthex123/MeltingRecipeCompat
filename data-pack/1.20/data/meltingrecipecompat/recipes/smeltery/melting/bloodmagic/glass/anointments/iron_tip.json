@@ -2,17 +2,23 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "ae2"
+			"modid": "bloodmagic"
 		}
 	],
 	"type": "tconstruct:melting",
 	"ingredient": {
-		"item": "ae2:quartz_glass"
+		"item": "bloodmagic:bow_power_anointment"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_glass",
-		"amount": 1000
+		"amount": 625
 	},
+	"byproducts": [
+		{
+		  "fluid": "tconstruct:molten_iron",
+		  "amount": 90
+		}
+	],
 	"temperature": 750,
-	"time": 56
+	"time": 20
 }

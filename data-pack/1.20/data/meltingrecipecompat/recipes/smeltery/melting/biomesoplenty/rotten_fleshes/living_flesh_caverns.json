@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "biomesoplenty"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "caverns_and_chasms"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "caverns_and_chasms:living_flesh"
+	},
+	"result": {
+		"fluid": "biomesoplenty:blood",
+		"amount": 375
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_silver",
+			"amount": 90
+		}
+	],
+	"temperature": 100,
+	"time": 56
+}

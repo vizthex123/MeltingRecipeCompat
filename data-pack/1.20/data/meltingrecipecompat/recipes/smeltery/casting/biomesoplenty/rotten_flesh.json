@@ -1,0 +1,15 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "biomesoplenty"
+		}
+	],
+	"type": "tconstruct:casting_table",
+	"fluid": {
+		"fluid": "biomesoplenty:blood",
+		"amount": 250
+	},
+	"cooling_time": 100,
+	"result": "minecraft:rotten_flesh"
+}

@@ -1,6 +1,6 @@
-# Melting Recipe Compatability
+# Melting Recipe Compatibility
 
-Hosts the files for my [datapack](https://www.curseforge.com/minecraft/data-packs/melting-recipe-compatibility) that adds some extra mod compat to Tinker's Construct's melting recipes. Also hosts the assets for both project pages.
+Hosts the files for my [datapack](https://www.curseforge.com/minecraft/data-packs/melting-recipe-compatibility) that adds some extra mod compat to Tinkers Construct's melting recipes. Also hosts the assets for both project pages.
 
 Designed for my modpack, [The Essence of Everything: Quintessence](https://www.curseforge.com/minecraft/modpacks/teoe-2).
 

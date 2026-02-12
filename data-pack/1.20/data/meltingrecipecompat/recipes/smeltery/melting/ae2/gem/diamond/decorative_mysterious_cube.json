@@ -6,18 +6,13 @@
 		}
 	],
 	"type": "tconstruct:melting",
-	"ingredient": [
-		{
-			"item": "ae2:printed_engineering_processor"
-		},
-		{
-			"item": "ae2:engineering_processor"
-		}
-	],
+	"ingredient": {
+		"item": "ae2:not_so_mysterious_cube"
+	},
 	"result": {
 		"fluid": "tconstruct:molten_diamond",
-		"amount": 100
+		"amount": 25
 	},
 	"temperature": 1450,
-	"time": 68
+	"time": 28
 }

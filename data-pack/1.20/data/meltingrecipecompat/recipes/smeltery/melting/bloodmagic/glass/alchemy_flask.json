@@ -1,0 +1,27 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bloodmagic"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": [
+		{
+			"item": "bloodmagic:alchemy_flask"
+		},
+		{
+			"item": "bloodmagic:alchemy_flask_throwable"
+		},
+		{
+			"item": "bloodmagic:alchemy_flask_lingering"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 1000,
+		"unit_size": 100
+	},
+	"temperature": 500,
+	"time": 40
+}

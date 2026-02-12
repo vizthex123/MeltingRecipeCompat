@@ -2,22 +2,17 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "ae2"
+			"modid": "bloodmagic"
 		}
 	],
 	"type": "tconstruct:melting",
-	"ingredient": [
-		{
-			"tag": "ae2:covered_dense_cable"
-		},
-		{
-			"tag": "ae2:smart_dense_cable"
-		}
-	],
+	"ingredient": {
+		"item": "bloodmagic:throwing_dagger_syringe"
+	},
 	"result": {
 		"fluid": "tconstruct:molten_glass",
-		"amount": 2000
+		"amount": 125
 	},
 	"temperature": 750,
-	"time": 48
+	"time": 12
 }

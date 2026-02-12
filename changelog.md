@@ -10,6 +10,24 @@ Lines appended with a version in brackets (e.g. Text Here [1.19]) denote changes
 
 --------------------------------------------------
 
+## 3.2.1
+
+Added some recipes I missed for Atmospheric<br />
+Added a custom melting recipe for Classic Pipes' Brick Pipes<br />
+Added recipes for Biomes o' Plenty's Blood and Flesh Blocks<br />
+Re-added Blood Magic and Storage Drawers support since I accidentally removed them when porting the pack
+
+Fixed AE2 Insert/Export Card support not loading in<br />
+AE2 changes:
+- Fixed the Network Tool not being accepted in the Illuminated Panel melting recipe
+- Fixed Vibrant Quartz Glass not being accepted for the Quartz Glass melting recipe (also added the Sky Stone Tank)
+- Added a melting recipe for the ME Controller, Crystal Resonance Generator, Cell Workbench, Spatial IO Port, View Cell, Wireless Booster, and Wooden Crank
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 3.2
 
 Fixed the incorrect melting temperature for Malum's Tyrving<br />

@@ -91,11 +91,7 @@
 			"required": false
 		},
 		{
-			"id": "classicpipes:lapis_pipe",
-			"required": false
-		},
-		{
-			"id": "classicpipes:lapis_fluid_pipe",
+			"id": "classicpipes:bone_pipe",
 			"required": false
 		},
 		{
@@ -103,15 +99,11 @@
 			"required": false
 		},
 		{
-			"id": "classicpipes:bone_pipe",
+			"id": "classicpipes:lapis_pipe",
 			"required": false
 		},
 		{
-			"id": "classicpipes:brick_pipe",
-			"required": false
-		},
-		{
-			"id": "classicpipes:brick_fluid_pipe",
+			"id": "classicpipes:lapis_fluid_pipe",
 			"required": false
 		}
 	]
