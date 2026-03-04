@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:sophisticated_mods/storages/copper"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:sophisticated_mods/storages/copper"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 720
+	},
+	"temperature": 500,
+	"time": 60
+}

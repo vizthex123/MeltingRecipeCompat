@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create"
+		},
+		{
+			"type": "mantle:tag_filled",
+			"tag": "forge:raw_materials/uranium"
+		}
+	],
+	"type": "tconstruct:ore_melting",
+	"ingredient": {
+		"item": "create:crushed_raw_uranium"
+	},
+  "rate": "metal",
+	"result": {
+		"fluid": "tconstruct:molten_uranium",
+		"amount": 80
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_lead",
+			"amount": 20
+		}
+	],
+	"temperature": 830,
+	"time": 92
+}

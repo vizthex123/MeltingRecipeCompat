@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "sophisticatedstorage"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "sophisticatedstorage:stack_upgrade_omega_tier"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 19440
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 21600
+		},
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 19440
+		},
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 12960
+		},
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 19440
+		}
+	],
+	"temperature": 1250,
+	"time": 240
+}

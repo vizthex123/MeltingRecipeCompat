@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "sophisticatedbackpacks:xp_pump_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:xp_pump_upgrade",
+			"required": false
+		}
+	]
+}

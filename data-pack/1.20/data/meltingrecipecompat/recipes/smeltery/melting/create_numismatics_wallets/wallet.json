@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create_numismatics_wallet"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "create_numismatics_wallet:wallet"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 400
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 10
+		}
+	],
+	"temperature": 637,
+	"time": 20
+}

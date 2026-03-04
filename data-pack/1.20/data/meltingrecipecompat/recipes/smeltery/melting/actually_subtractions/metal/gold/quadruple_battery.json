@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "actuallyadditions"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "actuallyadditions:quadruple_battery"
+		},
+		{
+			"item": "actuallyadditions:handheld_filler"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 320
+	},
+	"temperature": 700,
+	"time": 40
+}

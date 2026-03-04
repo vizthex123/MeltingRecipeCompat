@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "actuallyadditions"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "actuallyadditions:lens"
+		},
+		{
+			"item": "actuallyadditions:lens_of_certain_death"
+		},
+		{
+			"item": "actuallyadditions:lens_of_color"
+		},
+		{
+			"item": "actuallyadditions:lens_of_detonation"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 8000
+	},
+	"temperature": 750,
+	"time": 60
+}

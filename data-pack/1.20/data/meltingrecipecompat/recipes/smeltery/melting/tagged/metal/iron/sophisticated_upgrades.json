@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:sophisticated_mods/upgrades"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:sophisticated_mods/upgrades"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 360
+	},
+	"temperature": 800,
+	"time": 40
+}

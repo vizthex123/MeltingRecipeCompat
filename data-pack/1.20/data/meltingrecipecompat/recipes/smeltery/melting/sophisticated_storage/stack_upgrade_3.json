@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "sophisticatedstorage"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "sophisticatedstorage:stack_upgrade_tier_3"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 2160
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 1440
+		},
+		{
+			"fluid": "tconstruct:molten_copper",
+			"amount": 2160
+		}
+	],
+	"temperature": 700,
+	"time": 80
+}

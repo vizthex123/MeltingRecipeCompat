@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "sophisticatedstorage"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "sophisticatedstorage:basic_to_iron_tier_upgrade"
+		},
+		{
+			"item": "sophisticatedstorage:copper_to_iron_tier_upgrade"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 360
+	},
+	"temperature": 800,
+	"time": 40
+}

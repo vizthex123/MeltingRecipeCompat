@@ -2,23 +2,17 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "storagedrawers"
+			"modid": "actuallyadditions"
 		}
 	],
 	"type": "tconstruct:melting",
 	"ingredient": {
-		"item": "storagedrawers:shroud_key"
+		"item": "actuallyadditions:triple_battery"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_gold",
-		"amount": 190
+		"amount": 240
 	},
-	"byproducts": [
-		{
-			"fluid": "tconstruct:molten_ender",
-			"amount": 250
-		}
-	],
 	"temperature": 700,
-	"time": 44
+	"time": 36
 }

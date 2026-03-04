@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "actuallyadditions"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "actuallyadditions:phantom_connector"
+		},
+		{
+			"item": "actuallyadditions:ender_casing"
+		},
+		{
+			"item": "actuallyadditions:phantom_booster"
+		},
+		{
+			"item": "actuallyadditions:drill_upgrade_fortune_ii"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 1000
+	},
+	"temperature": 477,
+	"time": 40
+}

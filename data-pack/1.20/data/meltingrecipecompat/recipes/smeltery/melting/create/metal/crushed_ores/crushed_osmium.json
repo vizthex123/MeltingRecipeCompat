@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create"
+		},
+		{
+			"type": "mantle:tag_filled",
+			"tag": "forge:raw_materials/osmium"
+		}
+	],
+	"type": "tconstruct:ore_melting",
+	"ingredient": {
+		"item": "create:crushed_raw_osmium"
+	},
+  "rate": "metal",
+	"result": {
+		"fluid": "tconstruct:molten_osmium",
+		"amount": 80
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 20
+		}
+	],
+	"temperature": 975,
+	"time": 100
+}

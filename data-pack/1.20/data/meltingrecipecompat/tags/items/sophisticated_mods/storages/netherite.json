@@ -1,0 +1,53 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "sophisticatedstorage:basic_to_netherite_tier_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:copper_to_netherite_tier_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:iron_to_netherite_tier_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:gold_to_netherite_tier_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:diamond_to_netherite_tier_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:netherite_chest",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:netherite_barrel",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:limited_netherite_barrel_1",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:limited_netherite_barrel_2",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:limited_netherite_barrel_3",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:limited_netherite_barrel_4",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:netherite_shulker_box",
+			"required": false
+		}
+	]
+}

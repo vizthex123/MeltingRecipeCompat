@@ -1,0 +1,25 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create"
+		}
+	],
+	"type": "tconstruct:ore_melting",
+	"ingredient": {
+		"item": "create:crushed_raw_zinc"
+	},
+  "rate": "metal",
+	"result": {
+		"fluid": "tconstruct:molten_zinc",
+		"amount": 80
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_tin",
+			"amount": 20
+		}
+	],
+	"temperature": 420,
+	"time": 60
+}

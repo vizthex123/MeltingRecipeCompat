@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:sophisticated_mods/advanced_upgrades"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:sophisticated_mods/advanced_upgrades"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 180
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 360
+		}
+	],
+	"temperature": 700,
+	"time": 40
+}

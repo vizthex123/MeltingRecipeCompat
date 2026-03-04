@@ -1,0 +1,35 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "actuallyadditions"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "actuallyadditions:iron_casing"
+		},
+		{
+			"item": "actuallyadditions:crusher"
+		},
+		{
+			"item": "actuallyadditions:farmer"
+		},
+		{
+			"item": "actuallyadditions:firework_box"
+		},
+		{
+			"item": "actuallyadditions:powered_furnace"
+		},
+		{
+			"item": "actuallyadditions:coffee_machine"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 360
+	},
+	"temperature": 800,
+	"time": 40
+}

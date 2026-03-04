@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "actuallyadditions"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "actuallyadditions:atomic_reconstructor"
+		},
+		{
+			"item": "actuallyadditions:bio_reactor"
+		},
+		{
+			"item": "actuallyadditions:coal_generator"
+		},
+		{
+			"item": "actuallyadditions:oil_generator"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 720
+	},
+	"temperature": 800,
+	"time": 60
+}

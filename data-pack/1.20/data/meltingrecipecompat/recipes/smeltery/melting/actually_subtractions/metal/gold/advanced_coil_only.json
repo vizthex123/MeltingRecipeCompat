@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "actuallyadditions"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "actuallyadditions:advanced_coil"
+		},
+		{
+			"item": "actuallyadditions:single_battery"
+		},
+		{
+			"item": "actuallyadditions:drill_upgrade_five_by_five"
+		},
+		{
+			"item": "actuallyadditions:drill_upgrade_silk_touch"
+		},
+		{
+			"item": "actuallyadditions:laser_wrench"
+		},
+		{
+			"item": "actuallyadditions:canola_press"
+		},
+		{
+			"item": "actuallyadditions:dropper"
+		},
+		{
+			"item": "actuallyadditions:display_stand"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 80
+	},
+	"temperature": 700,
+	"time": 28
+}

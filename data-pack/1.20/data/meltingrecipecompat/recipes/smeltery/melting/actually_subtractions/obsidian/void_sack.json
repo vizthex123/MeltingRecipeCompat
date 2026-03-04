@@ -2,16 +2,16 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "storagedrawers"
+			"modid": "actuallyadditions"
 		}
 	],
 	"type": "tconstruct:melting",
 	"ingredient": {
-		"item": "storagedrawers:shroud_key"
+		"item": "actuallyadditions:void_sack"
 	},
 	"result": {
-		"fluid": "tconstruct:molten_gold",
-		"amount": 190
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 1000
 	},
 	"byproducts": [
 		{
@@ -19,6 +19,6 @@
 			"amount": 250
 		}
 	],
-	"temperature": 700,
-	"time": 44
+	"temperature": 1000,
+	"time": 60
 }

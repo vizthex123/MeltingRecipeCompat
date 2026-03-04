@@ -1,0 +1,38 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "actuallyadditions"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "actuallyadditions:phantom_itemface"
+		},
+		{
+			"item": "actuallyadditions:phantom_placer"
+		},
+		{
+			"item": "actuallyadditions:phantom_breaker"
+		},
+		{
+			"item": "actuallyadditions:phantom_energyface"
+		},
+		{
+			"item": "actuallyadditions:phantom_redstoneface"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 1000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 80
+		}
+	],
+	"temperature": 477,
+	"time": 40
+}

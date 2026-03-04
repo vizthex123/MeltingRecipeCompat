@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forcecraft"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "forcecraft:infuser"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 200
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_obsidian",
+			"amount": 4000
+		}
+	],
+	"temperature": 1450,
+	"time": 60
+}

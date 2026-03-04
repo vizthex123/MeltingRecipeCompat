@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "actuallyadditions"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "actuallyadditions:drills"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 300
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 160
+		}
+	],
+	"temperature": 1450,
+	"time": 36
+}

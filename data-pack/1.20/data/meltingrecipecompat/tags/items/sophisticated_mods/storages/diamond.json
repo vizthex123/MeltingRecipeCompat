@@ -1,0 +1,49 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "sophisticatedstorage:basic_to_diamond_tier_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:copper_to_diamond_tier_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:iron_to_diamond_tier_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:gold_to_diamond_tier_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:diamond_chest",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:diamond_barrel",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:limited_diamond_barrel_1",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:limited_diamond_barrel_2",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:limited_diamond_barrel_3",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:limited_diamond_barrel_4",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:diamond_shulker_box",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "actuallyadditions"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "actuallyadditions:shock_suppressor"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_obsidian",
+		"amount": 4000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 80
+		}
+	],
+	"temperature": 1000,
+	"time": 60
+}

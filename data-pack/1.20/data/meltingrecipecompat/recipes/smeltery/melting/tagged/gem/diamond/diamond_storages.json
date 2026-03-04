@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:sophisticated_mods/storages/diamond"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:sophisticated_mods/storages/diamond"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_diamond",
+		"amount": 800
+	},
+	"temperature": 1450,
+	"time": 120
+}

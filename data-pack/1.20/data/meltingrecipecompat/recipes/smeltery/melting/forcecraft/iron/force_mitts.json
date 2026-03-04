@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forcecraft"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+		"item": "forcecraft:force_mitt"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 180,
+		"unit_size": 10
+	},
+	"temperature": 800,
+	"time": 40
+}

@@ -1,6 +1,7 @@
 |																																																																		| 1.18.X | 1.19.2 | 1.20.1 | Datapack Version | Notes |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------:|:--------:|:---------:|:-----------------------:|:--------:|
 | [Abnormal's Delight](https://www.curseforge.com/minecraft/mc-mods/abnormals-delight)																					|				|			    |✔			|3.0							|				|
+| [Actually Subtractions](https://www.curseforge.com/minecraft/mc-mods/actually-subtractions)																			|				|			    |✔			|3.3							|				|
 | [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)																															|				|			    |✔			|3.0							|Supports [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations). |
 | [Ad Astra: Giselle Addon](https://www.curseforge.com/minecraft/mc-mods/ad-astra-giselle-addon)																	|				|			    |✔			|3.0							|Supports [Tinkers Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations). |
 | [Advanced Amethyst](https://www.curseforge.com/minecraft/mc-mods/advanced-amethyst)																				|				|			    |✔			|3.1							|				|
@@ -63,6 +64,9 @@
 | [Create Sifting](https://www.curseforge.com/minecraft/mc-mods/create-sifting)																										|✔			|✔			|✔			|1.5							|				|
 | [Create Stock Bridge](https://www.curseforge.com/minecraft/mc-mods/create-stock-bridge)																					|				|			    |✔			|3.0							|				|
 | [Create: New Age](https://www.curseforge.com/minecraft/mc-mods/create-new-age)																								|				|✔			|✔			|2.0							|				|
+| [Create: Numismatics](https://www.curseforge.com/minecraft/mc-mods/numismatics)																							|				|			    |✔			|3.3							|				|
+| [Create: Numismatics Utils](https://www.curseforge.com/minecraft/mc-mods/create-numismatics-utils)															|				|			    |✔			|3.3							|				|
+| [Create Numismatics Wallet](https://www.curseforge.com/minecraft/mc-mods/create-numismatics-wallet)													|				|			    |✔			|3.3							|				|
 | [Deep Resonance](https://www.curseforge.com/minecraft/mc-mods/deep-resonance)																								|✔			|✔			|✔			|1.3							|				|
 | [Dis-Enchanting Table](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)																			|				|			    |✔			|3.0							|				|
 | [End's Phantasm](https://www.curseforge.com/minecraft/mc-mods/phantasm)																											|				|			    |✔			|3.0							|				|
@@ -78,6 +82,7 @@
 | [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting)																						|✔			|✔			|✔			|1.3							|				|
 | [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)																							|✔			|✔			|✔			|1.5							|				|
 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)																								|				|			    |✔			|3.0							|				|
+| [ForceCraft](https://www.curseforge.com/minecraft/mc-mods/forcecraft)																														|				|			    |✔			|3.3							|				|
 | [Forestry: Community Edition](https://www.curseforge.com/minecraft/mc-mods/forestry-community-edition)												|				|✔			|✔			|2.0							|				|
 | [FuelCanister](https://www.curseforge.com/minecraft/mc-mods/fuelcanister)																												|✔			|✔			|✔			|1.0.1						|				|
 | [Fullblock Energistics](https://www.curseforge.com/minecraft/mc-mods/fullblock-energistics)																				|				|✔			|✔			|2.0							|				|
@@ -166,6 +171,8 @@
 | [Simply Jetpacks](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2)																							|✔			|✔			|✔			|1.3							|				|
 | [Solar Cooker](https://www.curseforge.com/minecraft/mc-mods/solar-cooker)																											|✔			|✔			|✔			|1.3							|				|
 | [Solar Flux Reborn](https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn)																							|✔			|✔			|✔			|1.3							|				|
+| [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)																|				|			    |✔			|3.3							|				|
+| [Sophisticated Storage](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)																		|				|			    |✔			|3.3							|				|
 | [Staff of Travelling](https://www.curseforge.com/minecraft/mc-mods/staff-of-traveling)																							|✔			|✔			| 				|1.3							|				|
 | [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)																								|✔			|✔			|✔			|1.4.1						|				|
 | [Super Factory Manager](https://www.curseforge.com/minecraft/mc-mods/super-factory-manager)																	|				|			    |✔			|3.0							|				|
@@ -200,4 +207,4 @@
 
 Empty new line for when I add mod support:
 
-| [Name](Link)		|			|			    |			    |									|				|
+| [Name](Link)		|				|			    |✔			|3.X							|				|

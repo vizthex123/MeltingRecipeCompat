@@ -10,6 +10,30 @@ Lines appended with a version in brackets (e.g. Text Here [1.19]) denote changes
 
 --------------------------------------------------
 
+## 3.3
+
+Added recipes for Create's Crushed Ores (requested by Nova on the discord server)<br />
+Added recipes for a few items I missed from Storage Drawers<br />
+Fixed the Linked Controller giving Brass when it shouldn't<br />
+Fixed Railcraft's Rolling Machine recipes not loading in<br />
+Fixed Quartz Glass recipe not loading in
+
+<br />
+ 
+Mod support added:
+- Actually Subtractions
+- Create: Numismatics
+- Create: Numismatics Utils
+- Create Numismatics Wallet
+- ForceCraft
+- Sophisticated Backpacks
+- Sophisticated Storage
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 3.2.1
 
 Added some recipes I missed for Atmospheric<br />

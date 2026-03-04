@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "numismatics"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "numismatics:id_cards"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 90
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_brass",
+			"amount": 10
+		}
+	],
+	"temperature": 800,
+	"time": 32
+}

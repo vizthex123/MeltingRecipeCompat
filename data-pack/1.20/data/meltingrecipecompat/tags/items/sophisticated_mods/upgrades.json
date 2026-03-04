@@ -1,0 +1,205 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "sophisticatedbackpacks:upgrade_base",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:pickup_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:filter_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:magnet_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:feeding_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:compacting_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:void_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:restock_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:deposit_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:refill_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:inception_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:everlasting_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:smelting_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:smoking_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:blasting_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:crafting_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:stonecutter_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:stack_downgrade_tier_1",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:stack_downgrade_tier_2",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:stack_downgrade_tier_3",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:jukebox_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:tool_swapper_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:tank_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:battery_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:pump_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:smithing_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:alchemy_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:upgrade_base",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:pickup_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:filter_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:magnet_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:feeding_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:compacting_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:void_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:smelting_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:smoking_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:blasting_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:inception_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:everlasting_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:smelting_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:smoking_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:blasting_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:crafting_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:stonecutter_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:stack_upgrade_tier_1",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:jukebox_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:pump_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:compression_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:hopper_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:alchemy_upgrade",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "actuallyadditions"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "actuallyadditions:engineers_goggles"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_glass",
+		"amount": 1000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 60
+		}
+	],
+	"temperature": 750,
+	"time": 40
+}

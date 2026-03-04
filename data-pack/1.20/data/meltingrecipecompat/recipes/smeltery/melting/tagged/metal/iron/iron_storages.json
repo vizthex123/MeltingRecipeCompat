@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:sophisticated_mods/storages/iron"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"tag": "meltingrecipecompat:sophisticated_mods/storages/iron"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 720
+	},
+	"temperature": 800,
+	"time": 80
+}

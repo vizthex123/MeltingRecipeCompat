@@ -2,17 +2,17 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "create"
+			"modid": "sophisticatedbackpacks"
 		}
 	],
 	"type": "tconstruct:melting",
 	"ingredient": {
-		"item": "create:redstone_link"
+		"item": "sophisticatedbackpacks:stack_upgrade_starter_tier"
 	},
 	"result": {
 		"fluid": "tconstruct:molten_copper",
-		"amount": 270
+		"amount": 6480
 	},
 	"temperature": 500,
-	"time": 36
+	"time": 80
 }

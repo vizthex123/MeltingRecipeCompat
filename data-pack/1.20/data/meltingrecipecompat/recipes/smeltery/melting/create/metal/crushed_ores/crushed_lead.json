@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create"
+		},
+		{
+			"type": "mantle:tag_filled",
+			"tag": "forge:raw_materials/lead"
+		}
+	],
+	"type": "tconstruct:ore_melting",
+	"ingredient": {
+		"item": "create:crushed_raw_lead"
+	},
+  "rate": "metal",
+	"result": {
+		"fluid": "tconstruct:molten_lead",
+		"amount": 80
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_silver",
+			"amount": 20
+		}
+	],
+	"temperature": 330,
+	"time": 60
+}

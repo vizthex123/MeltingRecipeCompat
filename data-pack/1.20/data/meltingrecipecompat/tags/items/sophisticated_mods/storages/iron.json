@@ -1,0 +1,33 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "sophisticatedstorage:iron_chest",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:iron_barrel",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:limited_iron_barrel_1",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:limited_iron_barrel_2",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:limited_iron_barrel_3",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:limited_iron_barrel_4",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:iron_shulker_box",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "actuallyadditions"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "actuallyadditions:player_interface"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_ender",
+		"amount": 5000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 80
+		},
+		{
+			"fluid": "minecraft:milk",
+			"amount": 250
+		}
+	],
+	"temperature": 477,
+	"time": 60
+}

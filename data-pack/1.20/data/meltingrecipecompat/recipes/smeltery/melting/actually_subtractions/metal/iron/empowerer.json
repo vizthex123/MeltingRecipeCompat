@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "actuallyadditions"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "actuallyadditions:empowerer"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 720
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_gold",
+			"amount": 240
+		}
+	],
+	"temperature": 800,
+	"time": 60
+}

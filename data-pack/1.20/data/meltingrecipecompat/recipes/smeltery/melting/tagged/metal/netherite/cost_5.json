@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "mantle:tag_filled",
+			"tag": "meltingrecipecompat:tools/netherite/cost_5"
+		}
+	],
+	"type": "tconstruct:damagable_melting",
+	"ingredient": {
+			"tag": "meltingrecipecompat:tools/netherite/cost_5"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_netherite",
+		"amount": 450,
+		"unit_size": 10
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_diamond",
+			"amount": 1100,
+			"unit_size": 25
+		}
+	],
+	"temperature": 1250,
+	"time": 60
+}

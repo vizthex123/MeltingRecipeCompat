@@ -1,0 +1,113 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "sophisticatedbackpacks:advanced_pickup_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:advanced_filter_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:advanced_magnet_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:advanced_feeding_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:advanced_compacting_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:advanced_void_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:advanced_restock_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:advanced_deposit_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:advanced_refill_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:advanced_jukebox_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:advanced_tool_swapper_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:advanced_pump_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedbackpacks:advanced_alchemy_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:advanced_pickup_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:advanced_filter_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:advanced_magnet_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:advanced_feeding_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:advanced_compacting_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:advanced_void_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:advanced_jukebox_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:advanced_tool_swapper_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:advanced_pump_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:advanced_hopper_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:advanced_alchemy_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:auto_smelting_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:auto_smoking_upgrade",
+			"required": false
+		},
+		{
+			"id": "sophisticatedstorage:auto_blasting_upgrade",
+			"required": false
+		}
+	]
+}
